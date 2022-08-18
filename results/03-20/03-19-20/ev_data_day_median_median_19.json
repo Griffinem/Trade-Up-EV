@@ -1,0 +1,8090 @@
+{
+	"P90 | Nostalgia (Battle-Scarred)": [
+		1.371699999999997,
+		29.0
+	],
+	"UMP-45 | Momentum (Battle-Scarred)": [
+		0.19710000000000073,
+		28.799999999999998
+	],
+	"Galil AR | Crimson Tsunami (Battle-Scarred)": [
+		0.13279999999999937,
+		4.6000000000000009
+	],
+	"Tec-9 | Sandstorm (Battle-Scarred)": [
+		0.12452499999999997,
+		1.1
+	],
+	"PP-Bizon | Water Sigil (Minimal Wear)": [
+		0.06340000000000012,
+		5.0
+	],
+	"Nova | Caged Steel (Field-Tested)": [
+		0.03530000000000004,
+		1.0
+	],
+	"Tec-9 | Jambiya (Minimal Wear)": [
+		0.025159999999999899,
+		1.6
+	],
+	"PP-Bizon | Seabird (Minimal Wear)": [
+		0.004599999999999965,
+		0.5
+	],
+	"MP5-SD | Bamboo Garden (Minimal Wear)": [
+		0.004599999999999965,
+		0.5
+	],
+	"Sawed-Off | Jungle Thicket (Minimal Wear)": [
+		0.004599999999999965,
+		0.5
+	],
+	"Nova | Candy Apple (Field-Tested)": [
+		0.0019000000000000874,
+		0.8999999999999999
+	],
+	"G3SG1 | Scavenger (Minimal Wear)": [
+		-0.00270000000000048,
+		6.2
+	],
+	"MP9 | Sand Scale (Minimal Wear)": [
+		-0.0028799999999998828,
+		1.2
+	],
+	"Five-SeveN | Orange Peel (Minimal Wear)": [
+		-0.00809999999999992,
+		1.2
+	],
+	"MAC-10 | Palm (Minimal Wear)": [
+		-0.00809999999999992,
+		1.2
+	],
+	"Tec-9 | VariCamo (Minimal Wear)": [
+		-0.00809999999999992,
+		1.2
+	],
+	"Dual Berettas | Cartel (Well-Worn)": [
+		-0.015260000000000066,
+		0.8
+	],
+	"MAC-10 | Surfwood (Field-Tested)": [
+		-0.017200000000000036,
+		0.4
+	],
+	"PP-Bizon | Seabird (Field-Tested)": [
+		-0.017200000000000036,
+		0.4
+	],
+	"MP5-SD | Bamboo Garden (Field-Tested)": [
+		-0.017200000000000036,
+		0.4
+	],
+	"Sawed-Off | Jungle Thicket (Field-Tested)": [
+		-0.017200000000000036,
+		0.4
+	],
+	"Tec-9 | Sandstorm (Field-Tested)": [
+		-0.02332500000000004,
+		1.2
+	],
+	"MP7 | Scorched (Battle-Scarred)": [
+		-0.023525000000000047,
+		0.8
+	],
+	"MP5-SD | Phosphor (Field-Tested)": [
+		-0.04039999999999999,
+		32.3
+	],
+	"MP5-SD | Dirt Drop (Minimal Wear)": [
+		-0.045524999999999978,
+		0.3
+	],
+	"MP9 | Slide (Minimal Wear)": [
+		-0.045524999999999978,
+		0.3
+	],
+	"AUG | Sweeper (Minimal Wear)": [
+		-0.045524999999999978,
+		0.3
+	],
+	"UMP-45 | Mudder (Minimal Wear)": [
+		-0.045524999999999978,
+		0.3
+	],
+	"MAG-7 | Rust Coat (Minimal Wear)": [
+		-0.045524999999999978,
+		0.3
+	],
+	"PP-Bizon | Jungle Slipstream (Minimal Wear)": [
+		-0.04739999999999993,
+		0.8999999999999999
+	],
+	"G3SG1 | Polar Camo (Minimal Wear)": [
+		-0.04914999999999998,
+		0.3
+	],
+	"Five-SeveN | Forest Night (Minimal Wear)": [
+		-0.04914999999999998,
+		0.3
+	],
+	"UMP-45 | Urban DDPAT (Minimal Wear)": [
+		-0.04914999999999998,
+		0.3
+	],
+	"Nova | Polar Mesh (Minimal Wear)": [
+		-0.04914999999999998,
+		0.3
+	],
+	"Dual Berettas | Colony (Minimal Wear)": [
+		-0.04914999999999998,
+		0.3
+	],
+	"PP-Bizon | Urban Dashed (Minimal Wear)": [
+		-0.04914999999999998,
+		0.3
+	],
+	"P250 | Iron Clad (Minimal Wear)": [
+		-0.0602000000000002,
+		1.4000000000000002
+	],
+	"M249 | Aztec (Battle-Scarred)": [
+		-0.06360000000000026,
+		3.3000000000000004
+	],
+	"Dual Berettas | Cartel (Battle-Scarred)": [
+		-0.06572000000000003,
+		0.8
+	],
+	"MP5-SD | Dirt Drop (Field-Tested)": [
+		-0.06727499999999998,
+		0.3
+	],
+	"MP9 | Slide (Field-Tested)": [
+		-0.06727499999999998,
+		0.3
+	],
+	"AUG | Sweeper (Field-Tested)": [
+		-0.06727499999999998,
+		0.3
+	],
+	"UMP-45 | Mudder (Field-Tested)": [
+		-0.06727499999999998,
+		0.3
+	],
+	"MAG-7 | Rust Coat (Field-Tested)": [
+		-0.06727499999999998,
+		0.3
+	],
+	"MP5-SD | Dirt Drop (Well-Worn)": [
+		-0.07162499999999998,
+		0.3
+	],
+	"MP9 | Slide (Well-Worn)": [
+		-0.07162499999999998,
+		0.3
+	],
+	"AUG | Sweeper (Well-Worn)": [
+		-0.07162499999999998,
+		0.3
+	],
+	"UMP-45 | Mudder (Well-Worn)": [
+		-0.07162499999999998,
+		0.3
+	],
+	"MAG-7 | Rust Coat (Well-Worn)": [
+		-0.07162499999999998,
+		0.3
+	],
+	"Dual Berettas | Cartel (Minimal Wear)": [
+		-0.07484000000000019,
+		1.7000000000000002
+	],
+	"UMP-45 | Corporal (Battle-Scarred)": [
+		-0.07547500000000002,
+		1.3
+	],
+	"AUG | Sweeper (Battle-Scarred)": [
+		-0.08032499999999998,
+		0.3
+	],
+	"MAG-7 | Sonar (Field-Tested)": [
+		-0.08045999999999998,
+		0.8999999999999999
+	],
+	"MP9 | Sand Scale (Field-Tested)": [
+		-0.08045999999999998,
+		0.8999999999999999
+	],
+	"Negev | Bulkhead (Battle-Scarred)": [
+		-0.08215000000000003,
+		1.0
+	],
+	"MP5-SD | Dirt Drop (Battle-Scarred)": [
+		-0.08249999999999999,
+		0.3
+	],
+	"MP9 | Slide (Battle-Scarred)": [
+		-0.08249999999999999,
+		0.3
+	],
+	"UMP-45 | Mudder (Battle-Scarred)": [
+		-0.08249999999999999,
+		0.3
+	],
+	"PP-Bizon | Harvester (Battle-Scarred)": [
+		-0.09263999999999988,
+		0.8999999999999999
+	],
+	"Nova | Ranger (Field-Tested)": [
+		-0.09326000000000008,
+		1.4000000000000002
+	],
+	"XM1014 | CaliCamo (Field-Tested)": [
+		-0.09530000000000003,
+		0.8
+	],
+	"XM1014 | CaliCamo (Well-Worn)": [
+		-0.09530000000000003,
+		0.8
+	],
+	"UMP-45 | Gunsmoke (Field-Tested)": [
+		-0.09530000000000003,
+		0.8
+	],
+	"UMP-45 | Gunsmoke (Well-Worn)": [
+		-0.09530000000000003,
+		0.8
+	],
+	"Dual Berettas | Stained (Field-Tested)": [
+		-0.09530000000000003,
+		0.8
+	],
+	"Dual Berettas | Stained (Well-Worn)": [
+		-0.09530000000000003,
+		0.8
+	],
+	"Negev | Terrain (Factory New)": [
+		-0.09835000000000027,
+		3.4000000000000005
+	],
+	"G3SG1 | VariCamo (Field-Tested)": [
+		-0.09959999999999994,
+		0.8999999999999999
+	],
+	"Galil AR | VariCamo (Field-Tested)": [
+		-0.09959999999999994,
+		0.8999999999999999
+	],
+	"M249 | Gator Mesh (Field-Tested)": [
+		-0.09959999999999994,
+		0.8999999999999999
+	],
+	"MP9 | Orange Peel (Field-Tested)": [
+		-0.09959999999999994,
+		0.8999999999999999
+	],
+	"MAG-7 | Sonar (Minimal Wear)": [
+		-0.10288000000000002,
+		1.3
+	],
+	"CZ75-Auto | Indigo (Well-Worn)": [
+		-0.10415000000000002,
+		0.5
+	],
+	"AUG | Navy Murano (Well-Worn)": [
+		-0.10415000000000002,
+		0.5
+	],
+	"R8 Revolver | Nitro (Minimal Wear)": [
+		-0.11397500000000016,
+		2.6
+	],
+	"Tec-9 | Jambiya (Well-Worn)": [
+		-0.11525999999999995,
+		0.8999999999999999
+	],
+	"P250 | Sand Dune (Minimal Wear)": [
+		-0.11556,
+		0.3
+	],
+	"P90 | Sand Spray (Minimal Wear)": [
+		-0.11556,
+		0.3
+	],
+	"G3SG1 | Desert Storm (Minimal Wear)": [
+		-0.11556,
+		0.3
+	],
+	"MP9 | Sand Dashed (Minimal Wear)": [
+		-0.11556,
+		0.3
+	],
+	"Nova | Predator (Minimal Wear)": [
+		-0.11556,
+		0.3
+	],
+	"AUG | Condemned (Well-Worn)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"AUG | Condemned (Battle-Scarred)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"G3SG1 | VariCamo (Battle-Scarred)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"Galil AR | VariCamo (Battle-Scarred)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"M249 | Gator Mesh (Well-Worn)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"M249 | Gator Mesh (Battle-Scarred)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"MP9 | Orange Peel (Well-Worn)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"MP9 | Orange Peel (Battle-Scarred)": [
+		-0.11560000000000007,
+		0.8
+	],
+	"XM1014 | CaliCamo (Minimal Wear)": [
+		-0.11690000000000012,
+		1.1
+	],
+	"UMP-45 | Gunsmoke (Minimal Wear)": [
+		-0.11690000000000012,
+		1.1
+	],
+	"Dual Berettas | Stained (Minimal Wear)": [
+		-0.11690000000000012,
+		1.1
+	],
+	"UMP-45 | Arctic Wolf (Battle-Scarred)": [
+		-0.11860000000000015,
+		3.5
+	],
+	"Nova | Wild Six (Battle-Scarred)": [
+		-0.11860000000000015,
+		3.5
+	],
+	"MP7 | Gunsmoke (Field-Tested)": [
+		-0.12040000000000022,
+		2.8000000000000004
+	],
+	"AUG | Condemned (Minimal Wear)": [
+		-0.12119999999999998,
+		1.2
+	],
+	"G3SG1 | VariCamo (Minimal Wear)": [
+		-0.12119999999999998,
+		1.2
+	],
+	"Galil AR | VariCamo (Minimal Wear)": [
+		-0.12119999999999998,
+		1.2
+	],
+	"M249 | Gator Mesh (Minimal Wear)": [
+		-0.12119999999999998,
+		1.2
+	],
+	"MP9 | Orange Peel (Minimal Wear)": [
+		-0.12119999999999998,
+		1.2
+	],
+	"XM1014 | Quicksilver (Minimal Wear)": [
+		-0.1231750000000002,
+		1.6
+	],
+	"MAG-7 | Heaven Guard (Field-Tested)": [
+		-0.12332500000000013,
+		1.3
+	],
+	"Negev | Terrain (Field-Tested)": [
+		-0.12332500000000013,
+		1.3
+	],
+	"UMP-45 | Corporal (Field-Tested)": [
+		-0.12332500000000013,
+		1.3
+	],
+	"FAMAS | Night Borre (Battle-Scarred)": [
+		-0.12352499999999991,
+		0.8999999999999999
+	],
+	"PP-Bizon | Harvester (Well-Worn)": [
+		-0.1326599999999999,
+		0.8999999999999999
+	],
+	"XM1014 | CaliCamo (Battle-Scarred)": [
+		-0.13590000000000003,
+		0.8
+	],
+	"UMP-45 | Gunsmoke (Battle-Scarred)": [
+		-0.13590000000000003,
+		0.8
+	],
+	"G3SG1 | Jungle Dashed (Minimal Wear)": [
+		-0.13643999999999999,
+		0.3
+	],
+	"AUG | Storm (Minimal Wear)": [
+		-0.13643999999999999,
+		0.3
+	],
+	"SG 553 | Waves Perforated (Minimal Wear)": [
+		-0.13643999999999999,
+		0.3
+	],
+	"Galil AR | Sage Spray (Minimal Wear)": [
+		-0.13643999999999999,
+		0.3
+	],
+	"XM1014 | Blue Spruce (Minimal Wear)": [
+		-0.13643999999999999,
+		0.3
+	],
+	"P250 | Boreal Forest (Minimal Wear)": [
+		-0.13643999999999999,
+		0.3
+	],
+	"G3SG1 | Polar Camo (Field-Tested)": [
+		-0.13904999999999996,
+		0.3
+	],
+	"Five-SeveN | Forest Night (Field-Tested)": [
+		-0.13904999999999996,
+		0.3
+	],
+	"UMP-45 | Urban DDPAT (Field-Tested)": [
+		-0.13904999999999996,
+		0.3
+	],
+	"Nova | Polar Mesh (Field-Tested)": [
+		-0.13904999999999996,
+		0.3
+	],
+	"Dual Berettas | Colony (Field-Tested)": [
+		-0.13904999999999996,
+		0.3
+	],
+	"PP-Bizon | Urban Dashed (Field-Tested)": [
+		-0.13904999999999996,
+		0.3
+	],
+	"SCAR-20 | Contractor (Minimal Wear)": [
+		-0.14049999999999999,
+		0.3
+	],
+	"Dual Berettas | Contractor (Minimal Wear)": [
+		-0.14049999999999999,
+		0.3
+	],
+	"SSG 08 | Blue Spruce (Minimal Wear)": [
+		-0.14049999999999999,
+		0.3
+	],
+	"Tec-9 | Army Mesh (Minimal Wear)": [
+		-0.14049999999999999,
+		0.3
+	],
+	"MP7 | Army Recon (Minimal Wear)": [
+		-0.14049999999999999,
+		0.3
+	],
+	"G3SG1 | Polar Camo (Well-Worn)": [
+		-0.14339999999999998,
+		0.3
+	],
+	"Five-SeveN | Forest Night (Well-Worn)": [
+		-0.14339999999999998,
+		0.3
+	],
+	"UMP-45 | Urban DDPAT (Well-Worn)": [
+		-0.14339999999999998,
+		0.3
+	],
+	"Nova | Polar Mesh (Well-Worn)": [
+		-0.14339999999999998,
+		0.3
+	],
+	"Dual Berettas | Colony (Well-Worn)": [
+		-0.14339999999999998,
+		0.3
+	],
+	"PP-Bizon | Urban Dashed (Well-Worn)": [
+		-0.14339999999999998,
+		0.3
+	],
+	"Tec-9 | Cracked Opal (Minimal Wear)": [
+		-0.1474,
+		1.0
+	],
+	"Sawed-Off | Morris (Minimal Wear)": [
+		-0.1474,
+		1.0
+	],
+	"G3SG1 | Hunter (Minimal Wear)": [
+		-0.1474,
+		1.0
+	],
+	"SCAR-20 | Jungle Slipstream (Minimal Wear)": [
+		-0.1474,
+		1.0
+	],
+	"SCAR-20 | Blueprint (Minimal Wear)": [
+		-0.14740000000000004,
+		1.0
+	],
+	"Sawed-Off | Zander (Minimal Wear)": [
+		-0.14740000000000004,
+		1.0
+	],
+	"MP7 | Akoben (Minimal Wear)": [
+		-0.14740000000000004,
+		1.0
+	],
+	"Nova | Ranger (Minimal Wear)": [
+		-0.1493600000000003,
+		2.3000000000000004
+	],
+	"G3SG1 | Scavenger (Battle-Scarred)": [
+		-0.15490000000000049,
+		3.4000000000000005
+	],
+	"G3SG1 | Polar Camo (Battle-Scarred)": [
+		-0.15499999999999998,
+		0.3
+	],
+	"Five-SeveN | Forest Night (Battle-Scarred)": [
+		-0.15499999999999998,
+		0.3
+	],
+	"UMP-45 | Urban DDPAT (Battle-Scarred)": [
+		-0.15499999999999998,
+		0.3
+	],
+	"Nova | Polar Mesh (Battle-Scarred)": [
+		-0.15499999999999998,
+		0.3
+	],
+	"Dual Berettas | Colony (Battle-Scarred)": [
+		-0.15499999999999998,
+		0.3
+	],
+	"PP-Bizon | Urban Dashed (Battle-Scarred)": [
+		-0.15499999999999998,
+		0.3
+	],
+	"G3SG1 | Black Sand (Battle-Scarred)": [
+		-0.1551800000000001,
+		1.1
+	],
+	"Dual Berettas | Stained (Battle-Scarred)": [
+		-0.1562,
+		0.8
+	],
+	"XM1014 | Blue Steel (Minimal Wear)": [
+		-0.15750000000000004,
+		1.1
+	],
+	"R8 Revolver | Bone Mask (Minimal Wear)": [
+		-0.15905999999999999,
+		0.3
+	],
+	"Tec-9 | Urban DDPAT (Minimal Wear)": [
+		-0.15905999999999999,
+		0.3
+	],
+	"SG 553 | Army Sheen (Minimal Wear)": [
+		-0.15905999999999999,
+		0.3
+	],
+	"Negev | Army Sheen (Minimal Wear)": [
+		-0.15905999999999999,
+		0.3
+	],
+	"MP7 | Forest DDPAT (Minimal Wear)": [
+		-0.15905999999999999,
+		0.3
+	],
+	"Sawed-Off | Forest DDPAT (Minimal Wear)": [
+		-0.15905999999999999,
+		0.3
+	],
+	"P250 | Iron Clad (Field-Tested)": [
+		-0.15958,
+		1.0
+	],
+	"Nova | Exo (Field-Tested)": [
+		-0.15958,
+		1.0
+	],
+	"Tec-9 | Ice Cap (Field-Tested)": [
+		-0.15958,
+		1.0
+	],
+	"PP-Bizon | Harvester (Field-Tested)": [
+		-0.15958,
+		1.0
+	],
+	"MAC-10 | Carnivore (Minimal Wear)": [
+		-0.1602000000000001,
+		1.5
+	],
+	"PP-Bizon | Harvester (Minimal Wear)": [
+		-0.1602000000000001,
+		1.5
+	],
+	"AUG | Contractor (Minimal Wear)": [
+		-0.16369999999999999,
+		0.3
+	],
+	"FAMAS | Colony (Minimal Wear)": [
+		-0.16369999999999999,
+		0.3
+	],
+	"Nova | Sand Dune (Minimal Wear)": [
+		-0.16369999999999999,
+		0.3
+	],
+	"PP-Bizon | Sand Dashed (Minimal Wear)": [
+		-0.16369999999999999,
+		0.3
+	],
+	"Tec-9 | Groundwater (Minimal Wear)": [
+		-0.16369999999999999,
+		0.3
+	],
+	"G3SG1 | Green Apple (Minimal Wear)": [
+		-0.1646999999999999,
+		1.2
+	],
+	"Tec-9 | Jambiya (Battle-Scarred)": [
+		-0.1657199999999999,
+		0.8999999999999999
+	],
+	"SG 553 | Army Sheen (Field-Tested)": [
+		-0.16602,
+		0.3
+	],
+	"Negev | Army Sheen (Field-Tested)": [
+		-0.16602,
+		0.3
+	],
+	"XM1014 | Scumbria (Battle-Scarred)": [
+		-0.16702499999999993,
+		0.8999999999999999
+	],
+	"SCAR-20 | Green Marine (Battle-Scarred)": [
+		-0.16702499999999993,
+		0.8999999999999999
+	],
+	"Tec-9 | Urban DDPAT (Field-Tested)": [
+		-0.17472,
+		0.3
+	],
+	"Sawed-Off | Forest DDPAT (Field-Tested)": [
+		-0.17472,
+		0.3
+	],
+	"Glock-18 | Death Rattle (Field-Tested)": [
+		-0.1749999999999999,
+		0.8999999999999999
+	],
+	"P2000 | Turf (Field-Tested)": [
+		-0.18046000000000007,
+		1.0
+	],
+	"Tec-9 | Urban DDPAT (Well-Worn)": [
+		-0.18168,
+		0.3
+	],
+	"Sawed-Off | Forest DDPAT (Well-Worn)": [
+		-0.18168,
+		0.3
+	],
+	"MP7 | Motherboard (Battle-Scarred)": [
+		-0.18215000000000013,
+		1.1
+	],
+	"UMP-45 | Scaffold (Battle-Scarred)": [
+		-0.1877000000000001,
+		4.5
+	],
+	"Five-SeveN | Coolant (Battle-Scarred)": [
+		-0.18907499999999997,
+		0.3
+	],
+	"P250 | Facility Draft (Battle-Scarred)": [
+		-0.18907499999999997,
+		0.3
+	],
+	"PP-Bizon | Facility Sketch (Battle-Scarred)": [
+		-0.18907499999999997,
+		0.3
+	],
+	"UMP-45 | Facility Dark (Battle-Scarred)": [
+		-0.18907499999999997,
+		0.3
+	],
+	"Nova | Mandrel (Battle-Scarred)": [
+		-0.18907499999999997,
+		0.3
+	],
+	"AUG | Amber Slipstream (Battle-Scarred)": [
+		-0.19100000000000007,
+		0.8
+	],
+	"Tec-9 | Urban DDPAT (Battle-Scarred)": [
+		-0.19212,
+		0.3
+	],
+	"Sawed-Off | Forest DDPAT (Battle-Scarred)": [
+		-0.19212,
+		0.3
+	],
+	"M4A1-S | Boreal Forest (Field-Tested)": [
+		-0.19529999999999984,
+		0.8999999999999999
+	],
+	"MAC-10 | Surfwood (Minimal Wear)": [
+		-0.1954000000000001,
+		0.7000000000000001
+	],
+	"MP9 | Storm (Field-Tested)": [
+		-0.1955,
+		0.5
+	],
+	"MAG-7 | Storm (Field-Tested)": [
+		-0.1955,
+		0.5
+	],
+	"R8 Revolver | Nitro (Battle-Scarred)": [
+		-0.1968750000000002,
+		2.1
+	],
+	"MAG-7 | Heaven Guard (Factory New)": [
+		-0.19834999999999992,
+		3.5
+	],
+	"AUG | Condemned (Field-Tested)": [
+		-0.19960000000000004,
+		1.0
+	],
+	"USP-S | Forest Leaves (Field-Tested)": [
+		-0.19960000000000004,
+		1.0
+	],
+	"Glock-18 | Ironwork (Minimal Wear)": [
+		-0.20288000000000012,
+		1.4000000000000002
+	],
+	"CZ75-Auto | Polymer (Minimal Wear)": [
+		-0.20288000000000012,
+		1.4000000000000002
+	],
+	"Galil AR | Crimson Tsunami (Field-Tested)": [
+		-0.20349999999999977,
+		4.8
+	],
+	"UMP-45 | Scaffold (Field-Tested)": [
+		-0.20349999999999977,
+		4.8
+	],
+	"AUG | Amber Slipstream (Minimal Wear)": [
+		-0.20717999999999998,
+		1.5
+	],
+	"Dual Berettas | Shred (Minimal Wear)": [
+		-0.20717999999999998,
+		1.5
+	],
+	"P2000 | Turf (Battle-Scarred)": [
+		-0.20747999999999995,
+		0.8999999999999999
+	],
+	"MP7 | Motherboard (Field-Tested)": [
+		-0.20829999999999997,
+		1.0
+	],
+	"SCAR-20 | Contractor (Battle-Scarred)": [
+		-0.20865,
+		0.3
+	],
+	"Dual Berettas | Contractor (Battle-Scarred)": [
+		-0.20865,
+		0.3
+	],
+	"SSG 08 | Blue Spruce (Battle-Scarred)": [
+		-0.20865,
+		0.3
+	],
+	"MP7 | Army Recon (Battle-Scarred)": [
+		-0.20865,
+		0.3
+	],
+	"P250 | Sand Dune (Field-Tested)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"P250 | Sand Dune (Well-Worn)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"P250 | Sand Dune (Battle-Scarred)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"P90 | Sand Spray (Field-Tested)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"P90 | Sand Spray (Well-Worn)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"P90 | Sand Spray (Battle-Scarred)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"G3SG1 | Desert Storm (Field-Tested)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"G3SG1 | Desert Storm (Well-Worn)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"G3SG1 | Desert Storm (Battle-Scarred)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"MP9 | Sand Dashed (Field-Tested)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"MP9 | Sand Dashed (Well-Worn)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"MP9 | Sand Dashed (Battle-Scarred)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"Nova | Predator (Field-Tested)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"Nova | Predator (Well-Worn)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"Nova | Predator (Battle-Scarred)": [
+		-0.20951999999999999,
+		0.3
+	],
+	"MAC-10 | Whitefish (Well-Worn)": [
+		-0.20993999999999997,
+		1.2
+	],
+	"MAC-10 | Calf Skin (Minimal Wear)": [
+		-0.21397500000000026,
+		2.7
+	],
+	"PP-Bizon | Candy Apple (Minimal Wear)": [
+		-0.21397500000000026,
+		2.7
+	],
+	"MAC-10 | Calf Skin (Battle-Scarred)": [
+		-0.21427500000000017,
+		2.1
+	],
+	"PP-Bizon | Photic Zone (Well-Worn)": [
+		-0.21526000000000007,
+		1.0
+	],
+	"G3SG1 | VariCamo (Well-Worn)": [
+		-0.21559999999999994,
+		0.8999999999999999
+	],
+	"Galil AR | VariCamo (Well-Worn)": [
+		-0.21559999999999994,
+		0.8999999999999999
+	],
+	"Nova | Candy Apple (Minimal Wear)": [
+		-0.21689999999999999,
+		1.2
+	],
+	"P2000 | Granite Marbleized (Minimal Wear)": [
+		-0.21689999999999999,
+		1.2
+	],
+	"Tec-9 | Army Mesh (Battle-Scarred)": [
+		-0.21735000000000002,
+		0.3
+	],
+	"MP5-SD | Agent (Well-Worn)": [
+		-0.21859999999999975,
+		3.5999999999999998
+	],
+	"MAG-7 | SWAG-7 (Battle-Scarred)": [
+		-0.2185999999999998,
+		3.5999999999999998
+	],
+	"Tec-9 | Snek-9 (Field-Tested)": [
+		-0.21874,
+		1.0
+	],
+	"Dual Berettas | Shred (Field-Tested)": [
+		-0.21874,
+		1.0
+	],
+	"SCAR-20 | Contractor (Field-Tested)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"SCAR-20 | Contractor (Well-Worn)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"Dual Berettas | Contractor (Field-Tested)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"Dual Berettas | Contractor (Well-Worn)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"SSG 08 | Blue Spruce (Field-Tested)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"SSG 08 | Blue Spruce (Well-Worn)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"Tec-9 | Army Mesh (Field-Tested)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"Tec-9 | Army Mesh (Well-Worn)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"MP7 | Army Recon (Field-Tested)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"MP7 | Army Recon (Well-Worn)": [
+		-0.21880000000000003,
+		0.3
+	],
+	"Tec-9 | Fubar (Field-Tested)": [
+		-0.21884000000000007,
+		0.8
+	],
+	"MP9 | Modest Threat (Field-Tested)": [
+		-0.21884000000000007,
+		0.8
+	],
+	"Sawed-Off | Black Sand (Field-Tested)": [
+		-0.21884000000000007,
+		0.8
+	],
+	"Nova | Wood Fired (Field-Tested)": [
+		-0.21884000000000007,
+		0.8
+	],
+	"G3SG1 | Jungle Dashed (Field-Tested)": [
+		-0.21996,
+		0.3
+	],
+	"G3SG1 | Jungle Dashed (Well-Worn)": [
+		-0.21996,
+		0.3
+	],
+	"AUG | Storm (Field-Tested)": [
+		-0.21996,
+		0.3
+	],
+	"AUG | Storm (Well-Worn)": [
+		-0.21996,
+		0.3
+	],
+	"SG 553 | Waves Perforated (Field-Tested)": [
+		-0.21996,
+		0.3
+	],
+	"SG 553 | Waves Perforated (Well-Worn)": [
+		-0.21996,
+		0.3
+	],
+	"Galil AR | Sage Spray (Field-Tested)": [
+		-0.21996,
+		0.3
+	],
+	"Galil AR | Sage Spray (Well-Worn)": [
+		-0.21996,
+		0.3
+	],
+	"XM1014 | Blue Spruce (Field-Tested)": [
+		-0.21996,
+		0.3
+	],
+	"XM1014 | Blue Spruce (Well-Worn)": [
+		-0.21996,
+		0.3
+	],
+	"P250 | Boreal Forest (Field-Tested)": [
+		-0.21996,
+		0.3
+	],
+	"P250 | Boreal Forest (Well-Worn)": [
+		-0.21996,
+		0.3
+	],
+	"SCAR-20 | Grotto (Minimal Wear)": [
+		-0.2231750000000003,
+		1.7000000000000002
+	],
+	"AUG | Contractor (Battle-Scarred)": [
+		-0.22604999999999998,
+		0.3
+	],
+	"FAMAS | Colony (Battle-Scarred)": [
+		-0.22604999999999998,
+		0.3
+	],
+	"Nova | Sand Dune (Battle-Scarred)": [
+		-0.22604999999999998,
+		0.3
+	],
+	"PP-Bizon | Sand Dashed (Battle-Scarred)": [
+		-0.22604999999999998,
+		0.3
+	],
+	"Tec-9 | Groundwater (Battle-Scarred)": [
+		-0.22604999999999998,
+		0.3
+	],
+	"P250 | Iron Clad (Well-Worn)": [
+		-0.23265999999999999,
+		1.0
+	],
+	"Tec-9 | Ice Cap (Battle-Scarred)": [
+		-0.23265999999999999,
+		1.0
+	],
+	"Sawed-Off | Black Sand (Minimal Wear)": [
+		-0.23348000000000009,
+		1.1
+	],
+	"Nova | Wood Fired (Minimal Wear)": [
+		-0.23348000000000009,
+		1.1
+	],
+	"XM1014 | Blue Steel (Field-Tested)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"XM1014 | Blue Steel (Well-Worn)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"Desert Eagle | Mudder (Field-Tested)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"Desert Eagle | Mudder (Battle-Scarred)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"FAMAS | Cyanospatter (Field-Tested)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"FAMAS | Cyanospatter (Well-Worn)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"FAMAS | Cyanospatter (Battle-Scarred)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"PP-Bizon | Night Ops (Field-Tested)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"PP-Bizon | Night Ops (Well-Worn)": [
+		-0.23450000000000005,
+		0.8
+	],
+	"Five-SeveN | Capillary (Field-Tested)": [
+		-0.2345000000000001,
+		0.8
+	],
+	"P250 | Ripple (Field-Tested)": [
+		-0.2345000000000001,
+		0.8
+	],
+	"SCAR-20 | Blueprint (Field-Tested)": [
+		-0.2345000000000001,
+		0.8
+	],
+	"Sawed-Off | Zander (Field-Tested)": [
+		-0.2345000000000001,
+		0.8
+	],
+	"MP7 | Akoben (Field-Tested)": [
+		-0.2345000000000001,
+		0.8
+	],
+	"PP-Bizon | Jungle Slipstream (Field-Tested)": [
+		-0.2345000000000001,
+		0.8
+	],
+	"P2000 | Ivory (Minimal Wear)": [
+		-0.240925,
+		1.0
+	],
+	"UMP-45 | Labyrinth (Minimal Wear)": [
+		-0.240925,
+		1.0
+	],
+	"Negev | Desert-Strike (Minimal Wear)": [
+		-0.240925,
+		1.0
+	],
+	"SCAR-20 | Torn (Well-Worn)": [
+		-0.24218000000000007,
+		1.1
+	],
+	"Dual Berettas | Balance (Well-Worn)": [
+		-0.24218000000000007,
+		1.1
+	],
+	"G3SG1 | Black Sand (Well-Worn)": [
+		-0.24218000000000007,
+		1.1
+	],
+	"MP5-SD | Agent (Battle-Scarred)": [
+		-0.24630000000000036,
+		3.3000000000000004
+	],
+	"MAC-10 | Oceanic (Minimal Wear)": [
+		-0.2474000000000001,
+		1.1
+	],
+	"P250 | Ripple (Minimal Wear)": [
+		-0.24740000000000013,
+		1.1
+	],
+	"R8 Revolver | Nitro (Field-Tested)": [
+		-0.25115000000000045,
+		2.3000000000000004
+	],
+	"MP5-SD | Acid Wash (Battle-Scarred)": [
+		-0.25517999999999999,
+		1.2
+	],
+	"FAMAS | Cyanospatter (Minimal Wear)": [
+		-0.2574999999999999,
+		1.2
+	],
+	"PP-Bizon | Night Ops (Minimal Wear)": [
+		-0.2574999999999999,
+		1.2
+	],
+	"MP5-SD | Acid Wash (Field-Tested)": [
+		-0.2586599999999999,
+		1.2
+	],
+	"SCAR-20 | Torn (Field-Tested)": [
+		-0.2586599999999999,
+		1.2
+	],
+	"Dual Berettas | Balance (Field-Tested)": [
+		-0.2586599999999999,
+		1.2
+	],
+	"Nova | Plume (Field-Tested)": [
+		-0.2586599999999999,
+		1.2
+	],
+	"MAC-10 | Carnivore (Field-Tested)": [
+		-0.25958000000000017,
+		1.1
+	],
+	"Sawed-Off | Yorick (Well-Worn)": [
+		-0.2632000000000001,
+		1.4000000000000002
+	],
+	"MAC-10 | Pipe Down (Field-Tested)": [
+		-0.2634000000000006,
+		3.9000000000000005
+	],
+	"P250 | Inferno (Battle-Scarred)": [
+		-0.26359999999999997,
+		3.5
+	],
+	"UMP-45 | Carbon Fiber (Minimal Wear)": [
+		-0.26470000000000007,
+		1.3
+	],
+	"Nova | Caged Steel (Minimal Wear)": [
+		-0.26470000000000007,
+		1.3
+	],
+	"Glock-18 | Death Rattle (Minimal Wear)": [
+		-0.26470000000000007,
+		1.3
+	],
+	"PP-Bizon | Photic Zone (Battle-Scarred)": [
+		-0.26571999999999998,
+		1.0
+	],
+	"MAC-10 | Calf Skin (Well-Worn)": [
+		-0.27077500000000029,
+		2.2
+	],
+	"R8 Revolver | Nitro (Well-Worn)": [
+		-0.27077500000000029,
+		2.2
+	],
+	"Galil AR | Akoben (Field-Tested)": [
+		-0.27422000000000026,
+		1.4000000000000002
+	],
+	"G3SG1 | Green Apple (Field-Tested)": [
+		-0.27499999999999999,
+		1.0
+	],
+	"Sawed-Off | Origami (Battle-Scarred)": [
+		-0.2779499999999999,
+		0.8999999999999999
+	],
+	"PP-Bizon | Jungle Slipstream (Battle-Scarred)": [
+		-0.27892000000000008,
+		0.7000000000000001
+	],
+	"MP7 | Cirrus (Field-Tested)": [
+		-0.28046000000000018,
+		1.1
+	],
+	"M249 | System Lock (Battle-Scarred)": [
+		-0.28220000000000008,
+		1.1
+	],
+	"M249 | Aztec (Field-Tested)": [
+		-0.2822000000000001,
+		4.0
+	],
+	"Tec-9 | Sandstorm (Well-Worn)": [
+		-0.28862500000000015,
+		1.3
+	],
+	"MP9 | Black Sand (Minimal Wear)": [
+		-0.29008,
+		1.0
+	],
+	"P2000 | Urban Hazard (Minimal Wear)": [
+		-0.29008,
+		1.0
+	],
+	"PP-Bizon | Night Riot (Minimal Wear)": [
+		-0.29008,
+		1.0
+	],
+	"XM1014 | Oxide Blaze (Minimal Wear)": [
+		-0.29008,
+		1.0
+	],
+	"Nova | Ranger (Battle-Scarred)": [
+		-0.2995000000000001,
+		1.3
+	],
+	"Tec-9 | Snek-9 (Well-Worn)": [
+		-0.29969999999999999,
+		0.8999999999999999
+	],
+	"Sawed-Off | Yorick (Battle-Scarred)": [
+		-0.30095000000000007,
+		1.3
+	],
+	"MAC-10 | Pipe Down (Minimal Wear)": [
+		-0.30270000000000038,
+		6.5
+	],
+	"Galil AR | Black Sand (Minimal Wear)": [
+		-0.30288,
+		1.5
+	],
+	"P2000 | Turf (Minimal Wear)": [
+		-0.30288,
+		1.5
+	],
+	"XM1014 | Seasons (Field-Tested)": [
+		-0.30350000000000029,
+		4.9
+	],
+	"Tec-9 | Snek-9 (Minimal Wear)": [
+		-0.3071800000000001,
+		1.6
+	],
+	"R8 Revolver | Survivalist (Minimal Wear)": [
+		-0.3071800000000001,
+		1.6
+	],
+	"Negev | Bulkhead (Field-Tested)": [
+		-0.3083,
+		1.1
+	],
+	"Tec-9 | Snek-9 (Battle-Scarred)": [
+		-0.3083999999999999,
+		0.8999999999999999
+	],
+	"Glock-18 | Death Rattle (Battle-Scarred)": [
+		-0.3141999999999999,
+		0.8999999999999999
+	],
+	"Tec-9 | Fubar (Well-Worn)": [
+		-0.31454000000000006,
+		0.8
+	],
+	"Sawed-Off | Black Sand (Well-Worn)": [
+		-0.31454000000000006,
+		0.8
+	],
+	"Nova | Wood Fired (Well-Worn)": [
+		-0.31454000000000006,
+		0.8
+	],
+	"FAMAS | Crypsis (Battle-Scarred)": [
+		-0.3178199999999999,
+		1.2
+	],
+	"M249 | Aztec (Well-Worn)": [
+		-0.31860000000000029,
+		3.7
+	],
+	"Glock-18 | Warhawk (Field-Tested)": [
+		-0.3187400000000001,
+		1.1
+	],
+	"AUG | Amber Slipstream (Field-Tested)": [
+		-0.3187400000000001,
+		1.1
+	],
+	"SG 553 | Danger Close (Field-Tested)": [
+		-0.3188399999999999,
+		0.8999999999999999
+	],
+	"Glock-18 | Oxide Blaze (Field-Tested)": [
+		-0.3188399999999999,
+		0.8999999999999999
+	],
+	"Sawed-Off | Origami (Field-Tested)": [
+		-0.319225,
+		1.0
+	],
+	"MP7 | Armor Core (Field-Tested)": [
+		-0.319225,
+		1.0
+	],
+	"Nova | Ranger (Well-Worn)": [
+		-0.3221200000000001,
+		1.3
+	],
+	"Galil AR | Akoben (Battle-Scarred)": [
+		-0.3230399999999999,
+		1.2
+	],
+	"MAC-10 | Whitefish (Battle-Scarred)": [
+		-0.3230399999999999,
+		1.2
+	],
+	"MP7 | Mischief (Battle-Scarred)": [
+		-0.3230399999999999,
+		1.2
+	],
+	"G3SG1 | Orange Crash (Factory New)": [
+		-0.3258200000000001,
+		2.6
+	],
+	"Five-SeveN | Orange Peel (Field-Tested)": [
+		-0.32730000000000006,
+		0.8
+	],
+	"MAC-10 | Palm (Field-Tested)": [
+		-0.32730000000000006,
+		0.8
+	],
+	"Tec-9 | VariCamo (Field-Tested)": [
+		-0.32730000000000006,
+		0.8
+	],
+	"SG 553 | Danger Close (Battle-Scarred)": [
+		-0.32846000000000005,
+		0.8
+	],
+	"MP9 | Modest Threat (Battle-Scarred)": [
+		-0.32846000000000005,
+		0.8
+	],
+	"Sawed-Off | Black Sand (Battle-Scarred)": [
+		-0.32846000000000005,
+		0.8
+	],
+	"Nova | Wood Fired (Battle-Scarred)": [
+		-0.32846000000000005,
+		0.8
+	],
+	"MAC-10 | Silver (Minimal Wear)": [
+		-0.3298000000000001,
+		1.6
+	],
+	"Tec-9 | Fubar (Battle-Scarred)": [
+		-0.33194,
+		0.8
+	],
+	"Tec-9 | Ice Cap (Well-Worn)": [
+		-0.33266000000000009,
+		1.1
+	],
+	"Glock-18 | Oxide Blaze (Minimal Wear)": [
+		-0.3334799999999999,
+		1.2
+	],
+	"Five-SeveN | Scumbria (Minimal Wear)": [
+		-0.33440000000000016,
+		1.1
+	],
+	"G3SG1 | Ventilator (Minimal Wear)": [
+		-0.33440000000000016,
+		1.1
+	],
+	"Desert Eagle | Mudder (Well-Worn)": [
+		-0.3344999999999999,
+		0.8999999999999999
+	],
+	"PP-Bizon | Night Ops (Battle-Scarred)": [
+		-0.3344999999999999,
+		0.8999999999999999
+	],
+	"M4A1-S | Boreal Forest (Battle-Scarred)": [
+		-0.3358999999999999,
+		1.0
+	],
+	"Nova | Exo (Factory New)": [
+		-0.33636,
+		2.4
+	],
+	"MP7 | Urban Hazard (Minimal Wear)": [
+		-0.34092500000000006,
+		1.1
+	],
+	"Five-SeveN | Capillary (Minimal Wear)": [
+		-0.3474,
+		1.2
+	],
+	"P2000 | Ivory (Field-Tested)": [
+		-0.349775,
+		0.8
+	],
+	"MP7 | Urban Hazard (Field-Tested)": [
+		-0.349775,
+		0.8
+	],
+	"Negev | Desert-Strike (Field-Tested)": [
+		-0.349775,
+		0.8
+	],
+	"MAC-10 | Calf Skin (Field-Tested)": [
+		-0.3511500000000001,
+		2.4
+	],
+	"MP9 | Black Sand (Battle-Scarred)": [
+		-0.35722000000000006,
+		0.7000000000000001
+	],
+	"Dual Berettas | Elite 1.6 (Battle-Scarred)": [
+		-0.3572200000000001,
+		0.7000000000000001
+	],
+	"G3SG1 | Black Sand (Field-Tested)": [
+		-0.35866,
+		1.3
+	],
+	"P2000 | Turf (Well-Worn)": [
+		-0.35968,
+		1.0
+	],
+	"MAG-7 | Sonar (Well-Worn)": [
+		-0.35968,
+		1.0
+	],
+	"MP9 | Sand Scale (Well-Worn)": [
+		-0.35968,
+		1.0
+	],
+	"Nova | Exo (Minimal Wear)": [
+		-0.3602000000000003,
+		1.7000000000000002
+	],
+	"Tec-9 | Ice Cap (Minimal Wear)": [
+		-0.3602000000000003,
+		1.7000000000000002
+	],
+	"G3SG1 | Scavenger (Field-Tested)": [
+		-0.3634000000000002,
+		4.0
+	],
+	"G3SG1 | Scavenger (Well-Worn)": [
+		-0.36359999999999978,
+		3.5999999999999998
+	],
+	"Glock-18 | Wraiths (Battle-Scarred)": [
+		-0.36702500000000018,
+		1.1
+	],
+	"Dual Berettas | Balance (Battle-Scarred)": [
+		-0.36746,
+		1.1
+	],
+	"Sawed-Off | Zander (Battle-Scarred)": [
+		-0.37022,
+		0.8
+	],
+	"PP-Bizon | Candy Apple (Field-Tested)": [
+		-0.3706750000000001,
+		2.5
+	],
+	"XM1014 | Scumbria (Minimal Wear)": [
+		-0.37092500000000008,
+		2.0
+	],
+	"SCAR-20 | Green Marine (Minimal Wear)": [
+		-0.37092500000000008,
+		2.0
+	],
+	"Glock-18 | Death Rattle (Well-Worn)": [
+		-0.37359999999999995,
+		1.0
+	],
+	"CZ75-Auto | Imprint (Field-Tested)": [
+		-0.37370000000000005,
+		0.8
+	],
+	"UMP-45 | Briefing (Field-Tested)": [
+		-0.37370000000000005,
+		0.8
+	],
+	"Five-SeveN | Scumbria (Field-Tested)": [
+		-0.37370000000000005,
+		0.8
+	],
+	"XM1014 | Slipstream (Field-Tested)": [
+		-0.37370000000000005,
+		0.8
+	],
+	"G3SG1 | Ventilator (Field-Tested)": [
+		-0.37370000000000005,
+		0.8
+	],
+	"P90 | Off World (Field-Tested)": [
+		-0.3742199999999999,
+		1.5
+	],
+	"P250 | Verdigris (Field-Tested)": [
+		-0.3742199999999999,
+		1.5
+	],
+	"MP7 | Mischief (Field-Tested)": [
+		-0.3742199999999999,
+		1.5
+	],
+	"Sawed-Off | Fubar (Battle-Scarred)": [
+		-0.37544000000000007,
+		0.8
+	],
+	"MP7 | Armor Core (Well-Worn)": [
+		-0.37577499999999999,
+		1.0
+	],
+	"SG 553 | Atlas (Field-Tested)": [
+		-0.37625999999999995,
+		0.8999999999999999
+	],
+	"G3SG1 | Orange Crash (Field-Tested)": [
+		-0.37625999999999995,
+		0.8999999999999999
+	],
+	"Sawed-Off | Zander (Well-Worn)": [
+		-0.37718000000000009,
+		0.8
+	],
+	"MP7 | Akoben (Well-Worn)": [
+		-0.37718000000000009,
+		0.8
+	],
+	"PP-Bizon | Jungle Slipstream (Well-Worn)": [
+		-0.37718000000000009,
+		0.8
+	],
+	"MP7 | Armor Core (Battle-Scarred)": [
+		-0.37795,
+		1.0
+	],
+	"Five-SeveN | Capillary (Battle-Scarred)": [
+		-0.37892000000000006,
+		0.8
+	],
+	"SCAR-20 | Blueprint (Battle-Scarred)": [
+		-0.37892000000000006,
+		0.8
+	],
+	"MP7 | Akoben (Battle-Scarred)": [
+		-0.37892000000000006,
+		0.8
+	],
+	"MP9 | Deadly Poison (Battle-Scarred)": [
+		-0.3821999999999999,
+		1.2
+	],
+	"M249 | Magma (Field-Tested)": [
+		-0.3833750000000004,
+		3.2
+	],
+	"AUG | Triqua (Battle-Scarred)": [
+		-0.38414000000000006,
+		0.8
+	],
+	"Tec-9 | Cracked Opal (Battle-Scarred)": [
+		-0.38414000000000006,
+		0.8
+	],
+	"G3SG1 | Hunter (Battle-Scarred)": [
+		-0.38414000000000006,
+		0.8
+	],
+	"MAC-10 | Classic Crate (Field-Tested)": [
+		-0.3876200000000001,
+		0.8
+	],
+	"MAG-7 | Popdog (Field-Tested)": [
+		-0.3876200000000001,
+		0.8
+	],
+	"SCAR-20 | Assault (Field-Tested)": [
+		-0.3876200000000001,
+		0.8
+	],
+	"Dual Berettas | Elite 1.6 (Field-Tested)": [
+		-0.3876200000000001,
+		0.8
+	],
+	"Negev | Terrain (Well-Worn)": [
+		-0.3886250000000002,
+		1.4000000000000002
+	],
+	"UMP-45 | Corporal (Well-Worn)": [
+		-0.3886250000000002,
+		1.4000000000000002
+	],
+	"R8 Revolver | Grip (Minimal Wear)": [
+		-0.3900800000000001,
+		1.1
+	],
+	"Five-SeveN | Flame Test (Minimal Wear)": [
+		-0.3900800000000001,
+		1.1
+	],
+	"Glock-18 | Bunsen Burner (Field-Tested)": [
+		-0.3932600000000001,
+		1.7000000000000002
+	],
+	"G3SG1 | Black Sand (Minimal Wear)": [
+		-0.39388,
+		2.2
+	],
+	"MP9 | Capillary (Battle-Scarred)": [
+		-0.39448000000000008,
+		1.0
+	],
+	"R8 Revolver | Survivalist (Battle-Scarred)": [
+		-0.39448000000000008,
+		1.0
+	],
+	"Sawed-Off | Jungle Thicket (Factory New)": [
+		-0.3953999999999999,
+		0.8999999999999999
+	],
+	"MAG-7 | Storm (Well-Worn)": [
+		-0.3955000000000001,
+		0.7000000000000001
+	],
+	"R8 Revolver | Grip (Field-Tested)": [
+		-0.39632000000000008,
+		0.8
+	],
+	"MP9 | Black Sand (Field-Tested)": [
+		-0.39632000000000008,
+		0.8
+	],
+	"P2000 | Urban Hazard (Field-Tested)": [
+		-0.39632000000000008,
+		0.8
+	],
+	"Five-SeveN | Flame Test (Field-Tested)": [
+		-0.39632000000000008,
+		0.8
+	],
+	"PP-Bizon | Night Riot (Field-Tested)": [
+		-0.39632000000000008,
+		0.8
+	],
+	"XM1014 | Oxide Blaze (Field-Tested)": [
+		-0.39632000000000008,
+		0.8
+	],
+	"P90 | Elite Build (Battle-Scarred)": [
+		-0.3995000000000002,
+		1.4000000000000002
+	],
+	"M249 | Emerald Poison Dart (Field-Tested)": [
+		-0.4034999999999999,
+		5.0
+	],
+	"MAC-10 | Last Dive (Field-Tested)": [
+		-0.4034999999999999,
+		5.0
+	],
+	"PP-Bizon | Candy Apple (Factory New)": [
+		-0.4051750000000002,
+		3.1
+	],
+	"Glock-18 | Warhawk (Battle-Scarred)": [
+		-0.4084,
+		1.0
+	],
+	"FAMAS | Crypsis (Well-Worn)": [
+		-0.4099400000000002,
+		1.4000000000000002
+	],
+	"MP7 | Mischief (Well-Worn)": [
+		-0.4099400000000002,
+		1.4000000000000002
+	],
+	"Five-SeveN | Flame Test (Battle-Scarred)": [
+		-0.4172,
+		0.8
+	],
+	"Five-SeveN | Orange Peel (Well-Worn)": [
+		-0.4172,
+		0.8
+	],
+	"MAC-10 | Palm (Well-Worn)": [
+		-0.4172,
+		0.8
+	],
+	"Tec-9 | VariCamo (Well-Worn)": [
+		-0.4172,
+		0.8
+	],
+	"MP9 | Capillary (Field-Tested)": [
+		-0.41873999999999997,
+		1.2
+	],
+	"R8 Revolver | Survivalist (Field-Tested)": [
+		-0.41873999999999997,
+		1.2
+	],
+	"P2000 | Grassland (Field-Tested)": [
+		-0.42040000000000007,
+		3.1
+	],
+	"CZ75-Auto | Imprint (Well-Worn)": [
+		-0.42242,
+		0.8
+	],
+	"UMP-45 | Briefing (Well-Worn)": [
+		-0.42242,
+		0.8
+	],
+	"Five-SeveN | Scumbria (Well-Worn)": [
+		-0.42242,
+		0.8
+	],
+	"PP-Bizon | Night Riot (Battle-Scarred)": [
+		-0.4224200000000001,
+		0.8
+	],
+	"P90 | Off World (Battle-Scarred)": [
+		-0.42303999999999999,
+		1.3
+	],
+	"P250 | Verdigris (Battle-Scarred)": [
+		-0.42303999999999999,
+		1.3
+	],
+	"Dual Berettas | Shred (Factory New)": [
+		-0.4250999999999999,
+		2.4
+	],
+	"M249 | Aztec (Minimal Wear)": [
+		-0.4261000000000002,
+		6.2
+	],
+	"MAC-10 | Lapis Gator (Battle-Scarred)": [
+		-0.42652,
+		1.3
+	],
+	"MAC-10 | Silver (Factory New)": [
+		-0.4298000000000002,
+		1.7000000000000002
+	],
+	"UMP-45 | Carbon Fiber (Factory New)": [
+		-0.4298000000000002,
+		1.7000000000000002
+	],
+	"G3SG1 | Green Apple (Factory New)": [
+		-0.4298000000000002,
+		1.7000000000000002
+	],
+	"Nova | Caged Steel (Factory New)": [
+		-0.4298000000000002,
+		1.7000000000000002
+	],
+	"Negev | Dazzle (Battle-Scarred)": [
+		-0.43285999999999999,
+		0.8
+	],
+	"CZ75-Auto | Imprint (Battle-Scarred)": [
+		-0.43285999999999999,
+		0.8
+	],
+	"UMP-45 | Briefing (Battle-Scarred)": [
+		-0.43285999999999999,
+		0.8
+	],
+	"Five-SeveN | Scumbria (Battle-Scarred)": [
+		-0.43285999999999999,
+		0.8
+	],
+	"XM1014 | Slipstream (Battle-Scarred)": [
+		-0.43285999999999999,
+		0.8
+	],
+	"MP9 | Modest Threat (Minimal Wear)": [
+		-0.43348,
+		1.3
+	],
+	"Dual Berettas | Panther (Field-Tested)": [
+		-0.43355000000000007,
+		2.9
+	],
+	"P2000 | Red FragCam (Field-Tested)": [
+		-0.43355000000000007,
+		2.9
+	],
+	"UMP-45 | Briefing (Minimal Wear)": [
+		-0.43439999999999998,
+		1.2
+	],
+	"XM1014 | Seasons (Minimal Wear)": [
+		-0.43450000000000085,
+		6.800000000000001
+	],
+	"SCAR-20 | Assault (Battle-Scarred)": [
+		-0.4346,
+		0.8
+	],
+	"Tec-9 | Ice Cap (Factory New)": [
+		-0.4363600000000001,
+		2.5
+	],
+	"Nova | Ghost Camo (Minimal Wear)": [
+		-0.4365999999999999,
+		5.5
+	],
+	"Five-SeveN | Nightshade (Minimal Wear)": [
+		-0.4365999999999999,
+		5.5
+	],
+	"MAC-10 | Oceanic (Field-Tested)": [
+		-0.43808,
+		0.8
+	],
+	"Tec-9 | Cracked Opal (Field-Tested)": [
+		-0.43808,
+		0.8
+	],
+	"Sawed-Off | Morris (Field-Tested)": [
+		-0.43808,
+		0.8
+	],
+	"G3SG1 | Hunter (Field-Tested)": [
+		-0.43808,
+		0.8
+	],
+	"SCAR-20 | Jungle Slipstream (Field-Tested)": [
+		-0.43808,
+		0.8
+	],
+	"Five-SeveN | Orange Peel (Battle-Scarred)": [
+		-0.4404000000000001,
+		0.8
+	],
+	"MAC-10 | Palm (Battle-Scarred)": [
+		-0.4404000000000001,
+		0.8
+	],
+	"Tec-9 | VariCamo (Battle-Scarred)": [
+		-0.4404000000000001,
+		0.8
+	],
+	"MAC-10 | Classic Crate (Well-Worn)": [
+		-0.4433,
+		0.8
+	],
+	"SCAR-20 | Assault (Well-Worn)": [
+		-0.4433,
+		0.8
+	],
+	"Dual Berettas | Elite 1.6 (Well-Worn)": [
+		-0.4433,
+		0.8
+	],
+	"Sawed-Off | Origami (Minimal Wear)": [
+		-0.4451750000000001,
+		1.4000000000000002
+	],
+	"MP7 | Armor Core (Minimal Wear)": [
+		-0.4451750000000001,
+		1.4000000000000002
+	],
+	"Tec-9 | VariCamo (Factory New)": [
+		-0.44709999999999996,
+		1.9
+	],
+	"Glock-18 | Off World (Minimal Wear)": [
+		-0.4474,
+		1.3
+	],
+	"UMP-45 | Labyrinth (Field-Tested)": [
+		-0.44977499999999989,
+		0.8999999999999999
+	],
+	"R8 Revolver | Grip (Well-Worn)": [
+		-0.45026,
+		0.8
+	],
+	"MP9 | Black Sand (Well-Worn)": [
+		-0.45026,
+		0.8
+	],
+	"P2000 | Urban Hazard (Well-Worn)": [
+		-0.45026,
+		0.8
+	],
+	"XM1014 | Oxide Blaze (Well-Worn)": [
+		-0.45026,
+		0.8
+	],
+	"R8 Revolver | Grip (Battle-Scarred)": [
+		-0.45722000000000009,
+		0.8
+	],
+	"P2000 | Urban Hazard (Battle-Scarred)": [
+		-0.45722000000000009,
+		0.8
+	],
+	"Five-SeveN | Violent Daimyo (Field-Tested)": [
+		-0.45958000000000007,
+		1.3
+	],
+	"MAG-7 | Popdog (Battle-Scarred)": [
+		-0.46418000000000006,
+		0.8
+	],
+	"XM1014 | Oxide Blaze (Battle-Scarred)": [
+		-0.46592000000000008,
+		0.8
+	],
+	"MAC-10 | Oceanic (Battle-Scarred)": [
+		-0.46766,
+		0.8
+	],
+	"Tec-9 | Cracked Opal (Well-Worn)": [
+		-0.46766,
+		0.8
+	],
+	"Sawed-Off | Morris (Well-Worn)": [
+		-0.46766,
+		0.8
+	],
+	"G3SG1 | Hunter (Well-Worn)": [
+		-0.46766,
+		0.8
+	],
+	"SCAR-20 | Jungle Slipstream (Well-Worn)": [
+		-0.46766,
+		0.8
+	],
+	"SCAR-20 | Jungle Slipstream (Battle-Scarred)": [
+		-0.46766,
+		0.8
+	],
+	"G3SG1 | Orange Crash (Battle-Scarred)": [
+		-0.4684799999999999,
+		0.8999999999999999
+	],
+	"Negev | Dazzle (Field-Tested)": [
+		-0.4736999999999999,
+		0.8999999999999999
+	],
+	"FAMAS | Crypsis (Field-Tested)": [
+		-0.47422,
+		1.6
+	],
+	"MAC-10 | Whitefish (Field-Tested)": [
+		-0.47422,
+		1.6
+	],
+	"MAC-10 | Lapis Gator (Minimal Wear)": [
+		-0.47484000000000017,
+		2.1
+	],
+	"SG 553 | Atlas (Battle-Scarred)": [
+		-0.47543999999999989,
+		0.8999999999999999
+	],
+	"P2000 | Oceanic (Field-Tested)": [
+		-0.47626,
+		1.0
+	],
+	"Dual Berettas | Ventilators (Field-Tested)": [
+		-0.47626,
+		1.0
+	],
+	"SCAR-20 | Blueprint (Well-Worn)": [
+		-0.47717999999999996,
+		0.8999999999999999
+	],
+	"MP7 | Cirrus (Battle-Scarred)": [
+		-0.47882,
+		1.1
+	],
+	"P250 | Ripple (Battle-Scarred)": [
+		-0.47891999999999998,
+		0.8999999999999999
+	],
+	"Sawed-Off | Morris (Battle-Scarred)": [
+		-0.4841399999999999,
+		0.8999999999999999
+	],
+	"Negev | Loudmouth (Field-Tested)": [
+		-0.48479999999999975,
+		4.8
+	],
+	"FAMAS | Decommissioned (Field-Tested)": [
+		-0.48761999999999997,
+		0.8999999999999999
+	],
+	"SCAR-20 | Outbreak (Battle-Scarred)": [
+		-0.48790000000000008,
+		1.5
+	],
+	"Dual Berettas | Shred (Battle-Scarred)": [
+		-0.49100000000000018,
+		1.1
+	],
+	"SCAR-20 | Grotto (Factory New)": [
+		-0.49237500000000025,
+		2.7
+	],
+	"MP5-SD | Acid Wash (Minimal Wear)": [
+		-0.49388000000000017,
+		2.3000000000000004
+	],
+	"SCAR-20 | Torn (Minimal Wear)": [
+		-0.49388000000000017,
+		2.3000000000000004
+	],
+	"Dual Berettas | Balance (Minimal Wear)": [
+		-0.49388000000000017,
+		2.3000000000000004
+	],
+	"Nova | Plume (Minimal Wear)": [
+		-0.49388000000000017,
+		2.3000000000000004
+	],
+	"CZ75-Auto | Tigris (Well-Worn)": [
+		-0.49409999999999956,
+		3.5999999999999998
+	],
+	"MAC-10 | Surfwood (Factory New)": [
+		-0.4954,
+		1.0
+	],
+	"PP-Bizon | Seabird (Factory New)": [
+		-0.4954,
+		1.0
+	],
+	"MP5-SD | Bamboo Garden (Factory New)": [
+		-0.4954,
+		1.0
+	],
+	"FAMAS | Decommissioned (Battle-Scarred)": [
+		-0.49550000000000007,
+		0.8
+	],
+	"MAC-10 | Classic Crate (Battle-Scarred)": [
+		-0.49550000000000007,
+		0.8
+	],
+	"SG 553 | Aloha (Field-Tested)": [
+		-0.49632,
+		0.8999999999999999
+	],
+	"P2000 | Handgun (Well-Worn)": [
+		-0.49809999999999979,
+		4.3
+	],
+	"Glock-18 | Warhawk (Well-Worn)": [
+		-0.49970000000000017,
+		1.1
+	],
+	"P90 | Traction (Well-Worn)": [
+		-0.49970000000000017,
+		1.1
+	],
+	"AUG | Amber Slipstream (Well-Worn)": [
+		-0.49970000000000017,
+		1.1
+	],
+	"Dual Berettas | Shred (Well-Worn)": [
+		-0.49970000000000017,
+		1.1
+	],
+	"P250 | Nevermore (Minimal Wear)": [
+		-0.5027000000000005,
+		6.7
+	],
+	"P90 | Traction (Battle-Scarred)": [
+		-0.5084000000000001,
+		1.1
+	],
+	"G3SG1 | Ventilator (Factory New)": [
+		-0.5164,
+		2.5
+	],
+	"SG 553 | Aloha (Battle-Scarred)": [
+		-0.5171999999999999,
+		0.8999999999999999
+	],
+	"P90 | Traction (Field-Tested)": [
+		-0.51874,
+		1.3
+	],
+	"G3SG1 | VariCamo (Factory New)": [
+		-0.5212000000000001,
+		1.6
+	],
+	"P90 | Elite Build (Well-Worn)": [
+		-0.5221200000000001,
+		1.5
+	],
+	"G3SG1 | Ventilator (Well-Worn)": [
+		-0.5224199999999999,
+		0.8999999999999999
+	],
+	"M249 | System Lock (Minimal Wear)": [
+		-0.5231750000000002,
+		2.0
+	],
+	"R8 Revolver | Survivalist (Factory New)": [
+		-0.5250999999999999,
+		2.5
+	],
+	"Dual Berettas | Ventilators (Factory New)": [
+		-0.5258200000000003,
+		2.8000000000000004
+	],
+	"Five-SeveN | Violent Daimyo (Battle-Scarred)": [
+		-0.53266,
+		1.3
+	],
+	"CZ75-Auto | Imprint (Minimal Wear)": [
+		-0.5344000000000001,
+		1.3
+	],
+	"Galil AR | Crimson Tsunami (Minimal Wear)": [
+		-0.5344999999999995,
+		6.8999999999999999
+	],
+	"MAC-10 | Last Dive (Minimal Wear)": [
+		-0.5344999999999995,
+		6.8999999999999999
+	],
+	"G3SG1 | Azure Zebra (Minimal Wear)": [
+		-0.5366000000000004,
+		5.6000000000000009
+	],
+	"P250 | Steel Disruption (Minimal Wear)": [
+		-0.5366000000000004,
+		5.6000000000000009
+	],
+	"MAC-10 | Lapis Gator (Factory New)": [
+		-0.5378000000000001,
+		3.2
+	],
+	"AUG | Triqua (Field-Tested)": [
+		-0.5380799999999998,
+		0.8999999999999999
+	],
+	"AUG | Sweeper (Factory New)": [
+		-0.5411249999999999,
+		0.8999999999999999
+	],
+	"MAG-7 | Popdog (Well-Worn)": [
+		-0.5432999999999999,
+		0.8999999999999999
+	],
+	"P90 | Facility Negative (Factory New)": [
+		-0.5474999999999999,
+		7.0
+	],
+	"Negev | Bulkhead (Well-Worn)": [
+		-0.5496749999999999,
+		1.2
+	],
+	"MP7 | Motherboard (Well-Worn)": [
+		-0.5496749999999999,
+		1.2
+	],
+	"Five-SeveN | Flame Test (Well-Worn)": [
+		-0.55026,
+		0.8999999999999999
+	],
+	"PP-Bizon | Night Riot (Well-Worn)": [
+		-0.55026,
+		0.8999999999999999
+	],
+	"Dual Berettas | Ventilators (Minimal Wear)": [
+		-0.55252,
+		1.6
+	],
+	"G3SG1 | Orange Crash (Minimal Wear)": [
+		-0.55252,
+		1.6
+	],
+	"Desert Eagle | Mudder (Minimal Wear)": [
+		-0.5574999999999999,
+		1.5
+	],
+	"SCAR-20 | Outbreak (Well-Worn)": [
+		-0.5632,
+		1.7000000000000002
+	],
+	"AUG | Triqua (Well-Worn)": [
+		-0.5676599999999998,
+		0.8999999999999999
+	],
+	"MAG-7 | SWAG-7 (Field-Tested)": [
+		-0.5693999999999999,
+		3.8
+	],
+	"Sawed-Off | Origami (Well-Worn)": [
+		-0.5757749999999999,
+		1.2
+	],
+	"M249 | Spectre (Field-Tested)": [
+		-0.5762600000000001,
+		1.1
+	],
+	"P250 | Ripple (Well-Worn)": [
+		-0.5771799999999999,
+		1.0
+	],
+	"UMP-45 | Scaffold (Well-Worn)": [
+		-0.5777000000000003,
+		4.6000000000000009
+	],
+	"M249 | Magma (Battle-Scarred)": [
+		-0.5791250000000001,
+		3.2
+	],
+	"MAG-7 | Seabird (Battle-Scarred)": [
+		-0.5821000000000001,
+		1.6
+	],
+	"P250 | Inferno (Field-Tested)": [
+		-0.5821999999999999,
+		4.3
+	],
+	"XM1014 | Quicksilver (Battle-Scarred)": [
+		-0.5822,
+		1.4000000000000002
+	],
+	"Glock-18 | Off World (Battle-Scarred)": [
+		-0.58414,
+		1.0
+	],
+	"P90 | Elite Build (Field-Tested)": [
+		-0.5932599999999999,
+		1.9
+	],
+	"MP9 | Storm (Well-Worn)": [
+		-0.5954999999999999,
+		0.8999999999999999
+	],
+	"Glock-18 | High Beam (Factory New)": [
+		-0.6051750000000004,
+		3.3000000000000004
+	],
+	"MP7 | Motherboard (Factory New)": [
+		-0.6099249999999999,
+		2.5
+	],
+	"MP9 | Modest Threat (Well-Worn)": [
+		-0.6145400000000001,
+		1.1
+	],
+	"XM1014 | CaliCamo (Factory New)": [
+		-0.6169000000000001,
+		1.6
+	],
+	"M249 | Gator Mesh (Factory New)": [
+		-0.6212000000000002,
+		1.7000000000000002
+	],
+	"XM1014 | Slipstream (Well-Worn)": [
+		-0.62242,
+		1.0
+	],
+	"AUG | Amber Slipstream (Factory New)": [
+		-0.6251,
+		2.6
+	],
+	"Nova | Exo (Well-Worn)": [
+		-0.6326600000000001,
+		1.4000000000000002
+	],
+	"Nova | Exo (Battle-Scarred)": [
+		-0.6326600000000001,
+		1.4000000000000002
+	],
+	"MAG-7 | Core Breach (Well-Worn)": [
+		-0.6330999999999998,
+		4.0
+	],
+	"SG 553 | Danger Close (Minimal Wear)": [
+		-0.63348,
+		1.5
+	],
+	"XM1014 | Slipstream (Minimal Wear)": [
+		-0.6344000000000002,
+		1.4000000000000002
+	],
+	"Glock-18 | Off World (Field-Tested)": [
+		-0.6380799999999999,
+		1.0
+	],
+	"Tec-9 | Army Mesh (Factory New)": [
+		-0.6405000000000001,
+		0.8
+	],
+	"UMP-45 | Mudder (Factory New)": [
+		-0.641125,
+		1.0
+	],
+	"MAG-7 | Rust Coat (Factory New)": [
+		-0.641125,
+		1.0
+	],
+	"FAMAS | Decommissioned (Well-Worn)": [
+		-0.6433,
+		1.0
+	],
+	"Glock-18 | Bunsen Burner (Minimal Wear)": [
+		-0.6493600000000004,
+		2.8000000000000004
+	],
+	"MAG-7 | SWAG-7 (Well-Worn)": [
+		-0.6521000000000002,
+		3.7
+	],
+	"SG 553 | Atlas (Minimal Wear)": [
+		-0.6525200000000001,
+		1.7000000000000002
+	],
+	"PP-Bizon | Night Ops (Factory New)": [
+		-0.6575000000000001,
+		1.6
+	],
+	"P90 | Off World (Minimal Wear)": [
+		-0.6590800000000001,
+		2.5
+	],
+	"Galil AR | Akoben (Minimal Wear)": [
+		-0.6590800000000001,
+		2.5
+	],
+	"Glock-18 | Off World (Well-Worn)": [
+		-0.6676599999999999,
+		1.0
+	],
+	"M249 | Spectre (Battle-Scarred)": [
+		-0.6684800000000001,
+		1.1
+	],
+	"Negev | Lionfish (Field-Tested)": [
+		-0.6694000000000004,
+		3.9000000000000005
+	],
+	"UMP-45 | Arctic Wolf (Field-Tested)": [
+		-0.6694000000000004,
+		3.9000000000000005
+	],
+	"Nova | Wild Six (Field-Tested)": [
+		-0.6694000000000004,
+		3.9000000000000005
+	],
+	"Glock-18 | Wraiths (Minimal Wear)": [
+		-0.6709250000000003,
+		2.3000000000000004
+	],
+	"MP7 | Armor Core (Factory New)": [
+		-0.6731500000000001,
+		2.2
+	],
+	"Five-SeveN | Capillary (Well-Worn)": [
+		-0.6771800000000001,
+		1.1
+	],
+	"MP5-SD | Agent (Field-Tested)": [
+		-0.6822000000000006,
+		4.4
+	],
+	"MAG-7 | Core Breach (Battle-Scarred)": [
+		-0.6850499999999999,
+		4.5
+	],
+	"XM1014 | Quicksilver (Factory New)": [
+		-0.692375,
+		2.9
+	],
+	"MP9 | Deadly Poison (Well-Worn)": [
+		-0.6974250000000001,
+		1.5
+	],
+	"SCAR-20 | Grotto (Well-Worn)": [
+		-0.6974250000000001,
+		1.5
+	],
+	"R8 Revolver | Survivalist (Well-Worn)": [
+		-0.6997000000000002,
+		1.3
+	],
+	"Galil AR | Signal (Minimal Wear)": [
+		-0.7026999999999998,
+		6.8999999999999999
+	],
+	"CZ75-Auto | Tigris (Field-Tested)": [
+		-0.7027999999999999,
+		3.8
+	],
+	"M249 | Nebula Crusader (Well-Worn)": [
+		-0.7037999999999998,
+		7.6
+	],
+	"P90 | Traction (Minimal Wear)": [
+		-0.70718,
+		2.0
+	],
+	"Galil AR | Akoben (Well-Worn)": [
+		-0.7099400000000001,
+		1.7000000000000002
+	],
+	"Glock-18 | Oxide Blaze (Well-Worn)": [
+		-0.71454,
+		1.2
+	],
+	"CZ75-Auto | Tigris (Battle-Scarred)": [
+		-0.7146000000000002,
+		3.4000000000000005
+	],
+	"P2000 | Grassland (Minimal Wear)": [
+		-0.715399999999999,
+		4.699999999999999
+	],
+	"USP-S | Forest Leaves (Well-Worn)": [
+		-0.7156000000000002,
+		1.4000000000000002
+	],
+	"XM1014 | Slipstream (Factory New)": [
+		-0.7164000000000002,
+		2.7
+	],
+	"Nova | Candy Apple (Factory New)": [
+		-0.7169000000000001,
+		1.7000000000000002
+	],
+	"Negev | Dazzle (Well-Worn)": [
+		-0.7224200000000001,
+		1.1
+	],
+	"Glock-18 | Catacombs (Minimal Wear)": [
+		-0.7231750000000002,
+		2.2
+	],
+	"CZ75-Auto | Crimson Web (Battle-Scarred)": [
+		-0.727325,
+		2.6
+	],
+	"CZ75-Auto | Crimson Web (Field-Tested)": [
+		-0.7335500000000004,
+		3.2
+	],
+	"M249 | Emerald Poison Dart (Minimal Wear)": [
+		-0.7344999999999997,
+		7.1
+	],
+	"M249 | Magma (Minimal Wear)": [
+		-0.7373500000000001,
+		4.3
+	],
+	"MAC-10 | Candy Apple (Minimal Wear)": [
+		-0.7386500000000001,
+		1.7000000000000002
+	],
+	"SCAR-20 | Carbon Fiber (Minimal Wear)": [
+		-0.7386500000000001,
+		1.7000000000000002
+	],
+	"SCAR-20 | Contractor (Factory New)": [
+		-0.7404999999999999,
+		0.8999999999999999
+	],
+	"MP7 | Army Recon (Factory New)": [
+		-0.7404999999999999,
+		0.8999999999999999
+	],
+	"MP5-SD | Acid Wash (Well-Worn)": [
+		-0.7421800000000001,
+		1.6
+	],
+	"Nova | Wild Six (Minimal Wear)": [
+		-0.7537000000000005,
+		6.4
+	],
+	"G3SG1 | Orange Crash (Well-Worn)": [
+		-0.7563,
+		1.2
+	],
+	"Sawed-Off | Fubar (Well-Worn)": [
+		-0.7563,
+		1.2
+	],
+	"SG 553 | Army Sheen (Factory New)": [
+		-0.7590599999999999,
+		0.8999999999999999
+	],
+	"Negev | Army Sheen (Factory New)": [
+		-0.7590599999999999,
+		0.8999999999999999
+	],
+	"FAMAS | Crypsis (Minimal Wear)": [
+		-0.75908,
+		2.6
+	],
+	"Nova | Toy Soldier (Field-Tested)": [
+		-0.7624,
+		3.5
+	],
+	"XM1014 | Seasons (Battle-Scarred)": [
+		-0.7672000000000001,
+		5.5
+	],
+	"MAC-10 | Oceanic (Well-Worn)": [
+		-0.76766,
+		1.1
+	],
+	"P2000 | Obsidian (Well-Worn)": [
+		-0.7723999999999998,
+		3.8
+	],
+	"PP-Bizon | Embargo (Well-Worn)": [
+		-0.7723999999999998,
+		3.8
+	],
+	"Five-SeveN | Kami (Field-Tested)": [
+		-0.7744750000000001,
+		4.0
+	],
+	"P2000 | Pulse (Field-Tested)": [
+		-0.7776500000000001,
+		2.0
+	],
+	"M249 | Emerald Poison Dart (Well-Worn)": [
+		-0.7776999999999997,
+		4.8
+	],
+	"M4A1-S | Boreal Forest (Well-Worn)": [
+		-0.7953,
+		1.5
+	],
+	"M4A4 | Urban DDPAT (Field-Tested)": [
+		-0.7953,
+		1.5
+	],
+	"MAC-10 | Candy Apple (Field-Tested)": [
+		-0.7953,
+		1.5
+	],
+	"PP-Bizon | Osiris (Field-Tested)": [
+		-0.8028000000000004,
+		3.9000000000000005
+	],
+	"MAG-7 | Seabird (Well-Worn)": [
+		-0.8067,
+		1.9
+	],
+	"XM1014 | Oxide Blaze (Factory New)": [
+		-0.8106600000000002,
+		2.1
+	],
+	"Galil AR | VariCamo (Factory New)": [
+		-0.8211999999999999,
+		1.9
+	],
+	"UMP-45 | Scaffold (Minimal Wear)": [
+		-0.8344999999999992,
+		7.199999999999999
+	],
+	"AWP | Safari Mesh (Field-Tested)": [
+		-0.8345000000000001,
+		1.4000000000000002
+	],
+	"P250 | Exchanger (Factory New)": [
+		-0.8475000000000001,
+		7.3
+	],
+	"UMP-45 | Corporal (Minimal Wear)": [
+		-0.8558000000000003,
+		2.3000000000000004
+	],
+	"Dual Berettas | Ventilators (Well-Worn)": [
+		-0.8563000000000001,
+		1.3
+	],
+	"MAC-10 | Indigo (Field-Tested)": [
+		-0.8577750000000002,
+		2.7
+	],
+	"SCAR-20 | Storm (Field-Tested)": [
+		-0.8577750000000002,
+		2.7
+	],
+	"MP7 | Forest DDPAT (Factory New)": [
+		-0.8590599999999999,
+		1.0
+	],
+	"Sawed-Off | Forest DDPAT (Factory New)": [
+		-0.8590599999999999,
+		1.0
+	],
+	"MP7 | Powercore (Field-Tested)": [
+		-0.8623999999999996,
+		3.5999999999999998
+	],
+	"MAC-10 | Rangeen (Minimal Wear)": [
+		-0.8709250000000001,
+		2.5
+	],
+	"Tec-9 | Re-Entry (Factory New)": [
+		-0.8751000000000002,
+		13.0
+	],
+	"G3SG1 | Murky (Field-Tested)": [
+		-0.8817999999999999,
+		2.5
+	],
+	"MAG-7 | Heaven Guard (Well-Worn)": [
+		-0.8864000000000001,
+		2.0
+	],
+	"Glock-18 | Catacombs (Factory New)": [
+		-0.8923750000000001,
+		3.1
+	],
+	"PP-Bizon | Osiris (Well-Worn)": [
+		-0.8940999999999999,
+		4.0
+	],
+	"P90 | Ash Wood (Field-Tested)": [
+		-0.8953000000000001,
+		1.6
+	],
+	"XM1014 | Quicksilver (Well-Worn)": [
+		-0.8974250000000003,
+		1.7000000000000002
+	],
+	"Negev | Lionfish (Battle-Scarred)": [
+		-0.8999999999999998,
+		3.8
+	],
+	"P2000 | Red FragCam (Minimal Wear)": [
+		-0.9029999999999998,
+		3.5999999999999998
+	],
+	"M249 | Impact Drill (Well-Worn)": [
+		-0.9067000000000001,
+		2.0
+	],
+	"Glock-18 | Warhawk (Minimal Wear)": [
+		-0.9071800000000002,
+		2.2
+	],
+	"MP9 | Capillary (Minimal Wear)": [
+		-0.9071800000000002,
+		2.2
+	],
+	"Negev | Bulkhead (Factory New)": [
+		-0.9099250000000002,
+		2.8000000000000004
+	],
+	"Five-SeveN | Flame Test (Factory New)": [
+		-0.9106600000000003,
+		2.2
+	],
+	"SG 553 | Danger Close (Well-Worn)": [
+		-0.9145400000000001,
+		1.4000000000000002
+	],
+	"UMP-45 | Delusion (Field-Tested)": [
+		-0.9209999999999998,
+		2.4
+	],
+	"MP9 | Dart (Field-Tested)": [
+		-0.9209999999999998,
+		2.4
+	],
+	"P90 | Ash Wood (Well-Worn)": [
+		-0.9215500000000001,
+		1.3
+	],
+	"P2000 | Oceanic (Factory New)": [
+		-0.9258200000000001,
+		3.2
+	],
+	"M249 | Spectre (Factory New)": [
+		-0.9258200000000001,
+		3.2
+	],
+	"SG 553 | Aerial (Battle-Scarred)": [
+		-0.93266,
+		1.7000000000000002
+	],
+	"P90 | Ash Wood (Minimal Wear)": [
+		-0.9386499999999999,
+		1.9
+	],
+	"Dual Berettas | Contractor (Factory New)": [
+		-0.9405000000000001,
+		1.1
+	],
+	"MP9 | Slide (Factory New)": [
+		-0.9411250000000001,
+		1.3
+	],
+	"SCAR-20 | Army Sheen (Minimal Wear)": [
+		-0.9424000000000001,
+		3.1
+	],
+	"PP-Bizon | Urban Dashed (Factory New)": [
+		-0.9491500000000002,
+		1.2
+	],
+	"Nova | Sand Dune (Factory New)": [
+		-0.9506500000000001,
+		1.1
+	],
+	"P2000 | Oceanic (Minimal Wear)": [
+		-0.95252,
+		2.0
+	],
+	"Negev | Terrain (Minimal Wear)": [
+		-0.9558,
+		2.4
+	],
+	"M249 | Spectre (Well-Worn)": [
+		-0.9563000000000002,
+		1.4000000000000002
+	],
+	"UMP-45 | Indigo (Well-Worn)": [
+		-0.9577750000000004,
+		2.8000000000000004
+	],
+	"P90 | Storm (Well-Worn)": [
+		-0.9577750000000004,
+		2.8000000000000004
+	],
+	"SCAR-20 | Storm (Well-Worn)": [
+		-0.9577750000000004,
+		2.8000000000000004
+	],
+	"R8 Revolver | Bone Mask (Factory New)": [
+		-0.95906,
+		1.1
+	],
+	"PP-Bizon | Bamboo Print (Battle-Scarred)": [
+		-0.9601,
+		2.5
+	],
+	"Galil AR | Signal (Field-Tested)": [
+		-0.9634000000000008,
+		4.6000000000000009
+	],
+	"MAG-7 | Cobalt Core (Minimal Wear)": [
+		-0.9709250000000002,
+		2.6
+	],
+	"Sawed-Off | Origami (Factory New)": [
+		-0.9731500000000001,
+		2.5
+	],
+	"Galil AR | Sandstorm (Battle-Scarred)": [
+		-0.9791249999999996,
+		3.5999999999999998
+	],
+	"M249 | Impact Drill (Battle-Scarred)": [
+		-0.9821,
+		2.0
+	],
+	"Galil AR | Sandstorm (Field-Tested)": [
+		-0.9833750000000001,
+		3.8
+	],
+	"Five-SeveN | Hot Shot (Well-Worn)": [
+		-0.9853799999999999,
+		2.4
+	],
+	"MP7 | Cirrus (Minimal Wear)": [
+		-1.0028800000000003,
+		2.2
+	],
+	"P250 | Verdigris (Well-Worn)": [
+		-1.0099399999999999,
+		2.0
+	],
+	"PP-Bizon | Osiris (Battle-Scarred)": [
+		-1.0143999999999998,
+		4.1
+	],
+	"SCAR-20 | Sand Mesh (Factory New)": [
+		-1.01556,
+		1.2
+	],
+	"Dual Berettas | Stained (Factory New)": [
+		-1.0169,
+		2.0
+	],
+	"P250 | Valence (Field-Tested)": [
+		-1.0192250000000003,
+		1.7000000000000002
+	],
+	"PP-Bizon | Jungle Slipstream (Factory New)": [
+		-1.02038,
+		2.0
+	],
+	"MAG-7 | Firestarter (Field-Tested)": [
+		-1.021,
+		2.5
+	],
+	"UMP-45 | Delusion (Minimal Wear)": [
+		-1.0337500000000002,
+		3.1
+	],
+	"P250 | Metallic DDPAT (Factory New)": [
+		-1.0386499999999999,
+		2.0
+	],
+	"MAG-7 | Metallic DDPAT (Factory New)": [
+		-1.0386499999999999,
+		2.0
+	],
+	"MAG-7 | Metallic DDPAT (Minimal Wear)": [
+		-1.0386499999999999,
+		2.0
+	],
+	"SCAR-20 | Carbon Fiber (Factory New)": [
+		-1.0386499999999999,
+		2.0
+	],
+	"P90 | Ash Wood (Factory New)": [
+		-1.0386499999999999,
+		2.0
+	],
+	"AUG | Triqua (Minimal Wear)": [
+		-1.0473999999999999,
+		1.9
+	],
+	"Dual Berettas | Colony (Factory New)": [
+		-1.04915,
+		1.3
+	],
+	"AUG | Contractor (Factory New)": [
+		-1.0506499999999999,
+		1.2
+	],
+	"PP-Bizon | Sand Dashed (Factory New)": [
+		-1.0506499999999999,
+		1.2
+	],
+	"M249 | Spectre (Minimal Wear)": [
+		-1.0525200000000002,
+		2.1
+	],
+	"MAG-7 | SWAG-7 (Minimal Wear)": [
+		-1.0537000000000006,
+		6.7
+	],
+	"MAG-7 | Cobalt Core (Factory New)": [
+		-1.05505,
+		4.0
+	],
+	"MAC-10 | Indigo (Well-Worn)": [
+		-1.057775,
+		2.9
+	],
+	"P90 | Storm (Field-Tested)": [
+		-1.057775,
+		2.9
+	],
+	"P250 | Verdigris (Minimal Wear)": [
+		-1.0590799999999999,
+		2.9
+	],
+	"MAC-10 | Whitefish (Minimal Wear)": [
+		-1.0590799999999999,
+		2.9
+	],
+	"P250 | Mint Kimono (Battle-Scarred)": [
+		-1.0601,
+		2.6
+	],
+	"Nova | Ghost Camo (Field-Tested)": [
+		-1.0633000000000002,
+		4.9
+	],
+	"PP-Bizon | Water Sigil (Field-Tested)": [
+		-1.0633000000000002,
+		4.9
+	],
+	"P250 | Steel Disruption (Field-Tested)": [
+		-1.0633000000000002,
+		4.9
+	],
+	"P250 | Nevermore (Field-Tested)": [
+		-1.0633999999999995,
+		4.699999999999999
+	],
+	"Nova | Wood Fired (Factory New)": [
+		-1.06818,
+		2.1
+	],
+	"MAC-10 | Heat (Well-Worn)": [
+		-1.0735999999999995,
+		7.5
+	],
+	"Tec-9 | Re-Entry (Field-Tested)": [
+		-1.1117,
+		3.8
+	],
+	"G3SG1 | Desert Storm (Factory New)": [
+		-1.11556,
+		1.3
+	],
+	"Nova | Predator (Factory New)": [
+		-1.11556,
+		1.3
+	],
+	"G3SG1 | Jungle Dashed (Factory New)": [
+		-1.1173,
+		1.3
+	],
+	"CZ75-Auto | Tacticat (Battle-Scarred)": [
+		-1.1177000000000004,
+		3.4000000000000005
+	],
+	"G3SG1 | Murky (Factory New)": [
+		-1.1178750000000002,
+		4.5
+	],
+	"MP7 | Akoben (Factory New)": [
+		-1.1203800000000002,
+		2.1
+	],
+	"P250 | Inferno (Minimal Wear)": [
+		-1.1260999999999995,
+		6.8999999999999999
+	],
+	"CZ75-Auto | Eco (Well-Worn)": [
+		-1.1262999999999997,
+		3.5999999999999998
+	],
+	"Nova | Toy Soldier (Well-Worn)": [
+		-1.1262999999999997,
+		3.5999999999999998
+	],
+	"P250 | Verdigris (Factory New)": [
+		-1.12788,
+		4.5
+	],
+	"MAG-7 | Firestarter (Minimal Wear)": [
+		-1.1337500000000003,
+		3.2
+	],
+	"G3SG1 | Murky (Minimal Wear)": [
+		-1.1337500000000003,
+		3.2
+	],
+	"PP-Bizon | Bamboo Print (Well-Worn)": [
+		-1.1340000000000002,
+		2.7
+	],
+	"Tec-9 | Bamboo Forest (Well-Worn)": [
+		-1.1340000000000002,
+		2.7
+	],
+	"CZ75-Auto | Army Sheen (Field-Tested)": [
+		-1.1356,
+		2.4
+	],
+	"M249 | Impact Drill (Field-Tested)": [
+		-1.1356,
+		2.4
+	],
+	"PP-Bizon | Harvester (Factory New)": [
+		-1.1363600000000003,
+		3.2
+	],
+	"MAC-10 | Candy Apple (Factory New)": [
+		-1.13865,
+		2.1
+	],
+	"P250 | Metallic DDPAT (Minimal Wear)": [
+		-1.13865,
+		2.1
+	],
+	"Sawed-Off | Limelight (Minimal Wear)": [
+		-1.1407999999999988,
+		9.399999999999999
+	],
+	"Glock-18 | Bunsen Burner (Battle-Scarred)": [
+		-1.1412600000000002,
+		2.1
+	],
+	"UMP-45 | Labyrinth (Factory New)": [
+		-1.14735,
+		2.1
+	],
+	"MP7 | Urban Hazard (Factory New)": [
+		-1.14735,
+		2.1
+	],
+	"Negev | Desert-Strike (Factory New)": [
+		-1.14735,
+		2.1
+	],
+	"Five-SeveN | Forest Night (Factory New)": [
+		-1.1491500000000002,
+		1.4000000000000002
+	],
+	"Nova | Polar Mesh (Factory New)": [
+		-1.1491500000000002,
+		1.4000000000000002
+	],
+	"SG 553 | Aloha (Well-Worn)": [
+		-1.15026,
+		1.5
+	],
+	"SCAR-20 | Green Marine (Factory New)": [
+		-1.1550499999999997,
+		4.1
+	],
+	"MAG-7 | Heaven Guard (Minimal Wear)": [
+		-1.1558000000000002,
+		2.6
+	],
+	"Sawed-Off | Highwayman (Minimal Wear)": [
+		-1.1594,
+		7.0
+	],
+	"Five-SeveN | Violent Daimyo (Minimal Wear)": [
+		-1.1602000000000002,
+		2.5
+	],
+	"G3SG1 | High Seas (Field-Tested)": [
+		-1.1624000000000004,
+		3.9000000000000005
+	],
+	"Five-SeveN | Nightshade (Field-Tested)": [
+		-1.1632999999999998,
+		5.0
+	],
+	"MP7 | Powercore (Battle-Scarred)": [
+		-1.1786,
+		3.4000000000000005
+	],
+	"P2000 | Handgun (Field-Tested)": [
+		-1.1848,
+		5.5
+	],
+	"PP-Bizon | Chemical Green (Well-Worn)": [
+		-1.1853799999999999,
+		2.6
+	],
+	"AUG | Ricochet (Battle-Scarred)": [
+		-1.1908,
+		2.2
+	],
+	"M249 | System Lock (Well-Worn)": [
+		-1.197425,
+		2.0
+	],
+	"P90 | Off World (Well-Worn)": [
+		-1.20994,
+		2.2
+	],
+	"MP9 | Sand Dashed (Factory New)": [
+		-1.2155600000000003,
+		1.4000000000000002
+	],
+	"P2000 | Obsidian (Field-Tested)": [
+		-1.2184,
+		5.0
+	],
+	"PP-Bizon | Embargo (Field-Tested)": [
+		-1.2184,
+		5.0
+	],
+	"P250 | Inferno (Well-Worn)": [
+		-1.2186000000000006,
+		4.6000000000000009
+	],
+	"P250 | Ripple (Factory New)": [
+		-1.2203800000000003,
+		2.2
+	],
+	"Tec-9 | Snek-9 (Factory New)": [
+		-1.2251,
+		3.2
+	],
+	"CZ75-Auto | Pole Position (Factory New)": [
+		-1.2255000000000016,
+		11.100000000000002
+	],
+	"P90 | Off World (Factory New)": [
+		-1.2278800000000006,
+		4.6000000000000009
+	],
+	"Galil AR | Akoben (Factory New)": [
+		-1.2278800000000006,
+		4.6000000000000009
+	],
+	"FAMAS | Crypsis (Factory New)": [
+		-1.2278800000000006,
+		4.6000000000000009
+	],
+	"MAG-7 | Seabird (Field-Tested)": [
+		-1.2356,
+		2.5
+	],
+	"Five-SeveN | Kami (Minimal Wear)": [
+		-1.2373500000000002,
+		4.8
+	],
+	"UMP-45 | Urban DDPAT (Factory New)": [
+		-1.24915,
+		1.5
+	],
+	"Negev | Lionfish (Minimal Wear)": [
+		-1.2536999999999999,
+		6.8999999999999999
+	],
+	"XM1014 | Blue Steel (Factory New)": [
+		-1.2575,
+		2.2
+	],
+	"UMP-45 | Indigo (Field-Tested)": [
+		-1.257775,
+		3.1
+	],
+	"Tec-9 | Urban DDPAT (Factory New)": [
+		-1.2590600000000004,
+		1.4000000000000002
+	],
+	"MP9 | Bioleak (Battle-Scarred)": [
+		-1.2684800000000003,
+		1.7000000000000002
+	],
+	"XM1014 | Red Python (Well-Worn)": [
+		-1.2766800000000003,
+		2.7
+	],
+	"Galil AR | Crimson Tsunami (Well-Worn)": [
+		-1.2777000000000008,
+		5.300000000000001
+	],
+	"MP9 | Goo (Field-Tested)": [
+		-1.2830000000000002,
+		3.4000000000000005
+	],
+	"Nova | Toy Soldier (Battle-Scarred)": [
+		-1.2859000000000003,
+		3.4000000000000005
+	],
+	"SG 553 | Aloha (Minimal Wear)": [
+		-1.2900800000000002,
+		2.0
+	],
+	"CZ75-Auto | Red Astor (Field-Tested)": [
+		-1.3117,
+		4.0
+	],
+	"USP-S | Forest Leaves (Battle-Scarred)": [
+		-1.3155999999999999,
+		2.0
+	],
+	"Five-SeveN | Scumbria (Factory New)": [
+		-1.3164000000000003,
+		3.3000000000000004
+	],
+	"Nova | Gila (Field-Tested)": [
+		-1.3193000000000002,
+		3.3000000000000004
+	],
+	"Five-SeveN | Capillary (Factory New)": [
+		-1.3203800000000004,
+		2.3000000000000004
+	],
+	"SCAR-20 | Blueprint (Factory New)": [
+		-1.3203800000000004,
+		2.3000000000000004
+	],
+	"UMP-45 | Grand Prix (Field-Tested)": [
+		-1.3236000000000004,
+		3.4000000000000005
+	],
+	"P90 | Storm (Minimal Wear)": [
+		-1.3249999999999998,
+		3.5
+	],
+	"Sawed-Off | Limelight (Field-Tested)": [
+		-1.341,
+		6.3
+	],
+	"CZ75-Auto | Army Sheen (Minimal Wear)": [
+		-1.3423999999999999,
+		3.5
+	],
+	"M249 | Impact Drill (Minimal Wear)": [
+		-1.3423999999999999,
+		3.5
+	],
+	"P90 | Elite Build (Minimal Wear)": [
+		-1.34936,
+		3.5
+	],
+	"FAMAS | Colony (Factory New)": [
+		-1.3506500000000002,
+		1.5
+	],
+	"SG 553 | Aerial (Field-Tested)": [
+		-1.3595800000000003,
+		2.2
+	],
+	"Five-SeveN | Triumvirate (Field-Tested)": [
+		-1.3598000000000004,
+		6.4
+	],
+	"MP9 | Bioleak (Field-Tested)": [
+		-1.3762599999999999,
+		1.9
+	],
+	"P2000 | Pulse (Minimal Wear)": [
+		-1.3774,
+		3.1
+	],
+	"CZ75-Auto | Tacticat (Field-Tested)": [
+		-1.383,
+		3.5
+	],
+	"UMP-45 | Exposure (Field-Tested)": [
+		-1.383,
+		3.5
+	],
+	"Five-SeveN | Triumvirate (Well-Worn)": [
+		-1.3844999999999997,
+		6.3
+	],
+	"Sawed-Off | Highwayman (Field-Tested)": [
+		-1.3998999999999998,
+		4.5
+	],
+	"PP-Bizon | Night Riot (Factory New)": [
+		-1.41066,
+		2.7
+	],
+	"Nova | Koi (Field-Tested)": [
+		-1.4113000000000003,
+		4.9
+	],
+	"XM1014 | Black Tie (Field-Tested)": [
+		-1.4116999999999998,
+		4.1
+	],
+	"CZ75-Auto | Tuxedo (Battle-Scarred)": [
+		-1.4122000000000002,
+		3.1
+	],
+	"P90 | Sand Spray (Factory New)": [
+		-1.41556,
+		1.6
+	],
+	"XM1014 | Blue Spruce (Factory New)": [
+		-1.4173,
+		1.6
+	],
+	"Dual Berettas | Royal Consorts (Field-Tested)": [
+		-1.4193000000000003,
+		3.4000000000000005
+	],
+	"MAG-7 | Praetorian (Minimal Wear)": [
+		-1.4218000000000002,
+		10
+	],
+	"CZ75-Auto | Pole Position (Field-Tested)": [
+		-1.4236,
+		3.5
+	],
+	"Dual Berettas | Briar (Minimal Wear)": [
+		-1.4249999999999994,
+		3.5999999999999998
+	],
+	"R8 Revolver | Reboot (Field-Tested)": [
+		-1.441,
+		6.4
+	],
+	"Tec-9 | Groundwater (Factory New)": [
+		-1.45065,
+		1.6
+	],
+	"MAC-10 | Rangeen (Factory New)": [
+		-1.4550500000000005,
+		4.4
+	],
+	"MP7 | Cirrus (Well-Worn)": [
+		-1.4596799999999999,
+		2.1
+	],
+	"MAC-10 | Last Dive (Battle-Scarred)": [
+		-1.4672000000000006,
+		6.2
+	],
+	"Glock-18 | Moonrise (Field-Tested)": [
+		-1.4693999999999994,
+		4.699999999999999
+	],
+	"Dual Berettas | Dualing Dragons (Minimal Wear)": [
+		-1.4709250000000003,
+		3.1
+	],
+	"P2000 | Pulse (Battle-Scarred)": [
+		-1.4734,
+		2.5
+	],
+	"PP-Bizon | Photic Zone (Minimal Wear)": [
+		-1.47484,
+		3.1
+	],
+	"MAC-10 | Rangeen (Battle-Scarred)": [
+		-1.475675,
+		2.3000000000000004
+	],
+	"XM1014 | Seasons (Well-Worn)": [
+		-1.4776999999999999,
+		5.5
+	],
+	"CZ75-Auto | Eco (Battle-Scarred)": [
+		-1.4858999999999996,
+		3.5999999999999998
+	],
+	"Glock-18 | Moonrise (Battle-Scarred)": [
+		-1.5000000000000005,
+		4.4
+	],
+	"MP7 | Special Delivery (Well-Worn)": [
+		-1.5038000000000005,
+		8.4
+	],
+	"MP9 | Black Sand (Factory New)": [
+		-1.5106600000000002,
+		2.8000000000000004
+	],
+	"P2000 | Urban Hazard (Factory New)": [
+		-1.5106600000000002,
+		2.8000000000000004
+	],
+	"Galil AR | Tuxedo (Battle-Scarred)": [
+		-1.5122000000000003,
+		3.2
+	],
+	"P2000 | Granite Marbleized (Factory New)": [
+		-1.5169000000000002,
+		2.5
+	],
+	"P250 | Boreal Forest (Factory New)": [
+		-1.5173,
+		1.7000000000000002
+	],
+	"MP9 | Dart (Factory New)": [
+		-1.5178750000000006,
+		4.9
+	],
+	"Five-SeveN | Triumvirate (Minimal Wear)": [
+		-1.5217999999999999,
+		10.1
+	],
+	"UMP-45 | Indigo (Minimal Wear)": [
+		-1.525,
+		3.7
+	],
+	"MP9 | Capillary (Factory New)": [
+		-1.5251000000000002,
+		3.5
+	],
+	"AK-47 | Safari Mesh (Field-Tested)": [
+		-1.5273,
+		2.0
+	],
+	"MAC-10 | Whitefish (Factory New)": [
+		-1.5278800000000006,
+		4.9
+	],
+	"MP9 | Dart (Minimal Wear)": [
+		-1.5337499999999998,
+		3.5999999999999998
+	],
+	"P250 | Mint Kimono (Field-Tested)": [
+		-1.534,
+		3.1
+	],
+	"G3SG1 | Orange Kimono (Field-Tested)": [
+		-1.534,
+		3.1
+	],
+	"MP9 | Goo (Battle-Scarred)": [
+		-1.5396,
+		3.5
+	],
+	"UMP-45 | Momentum (Field-Tested)": [
+		-1.5404,
+		33.8
+	],
+	"Sawed-Off | Highwayman (Well-Worn)": [
+		-1.5408,
+		4.0
+	],
+	"AUG | Aristocrat (Field-Tested)": [
+		-1.541,
+		6.5
+	],
+	"MP5-SD | Gauss (Field-Tested)": [
+		-1.5513000000000004,
+		3.3000000000000004
+	],
+	"Tec-9 | Bamboozle (Field-Tested)": [
+		-1.5513000000000004,
+		3.3000000000000004
+	],
+	"Nova | Wild Six (Well-Worn)": [
+		-1.5521000000000008,
+		4.6000000000000009
+	],
+	"P90 | Facility Negative (Minimal Wear)": [
+		-1.5532000000000004,
+		5.300000000000001
+	],
+	"CZ75-Auto | Eco (Field-Tested)": [
+		-1.5623999999999998,
+		4.3
+	],
+	"Dual Berettas | Briar (Field-Tested)": [
+		-1.5643000000000003,
+		3.4000000000000005
+	],
+	"MP9 | Modest Threat (Factory New)": [
+		-1.5681800000000002,
+		2.6
+	],
+	"UMP-45 | Exposure (Battle-Scarred)": [
+		-1.5728999999999998,
+		3.5999999999999998
+	],
+	"FAMAS | Sergeant (Well-Worn)": [
+		-1.5735999999999997,
+		8.0
+	],
+	"G3SG1 | High Seas (Battle-Scarred)": [
+		-1.5785999999999998,
+		3.8
+	],
+	"XM1014 | Grassland (Field-Tested)": [
+		-1.5901999999999999,
+		3.8
+	],
+	"R8 Revolver | Grip (Factory New)": [
+		-1.6106599999999998,
+		2.9
+	],
+	"MAC-10 | Lapis Gator (Well-Worn)": [
+		-1.6152599999999998,
+		2.4
+	],
+	"PP-Bizon | Bamboo Print (Field-Tested)": [
+		-1.6340000000000002,
+		3.2
+	],
+	"P250 | Mint Kimono (Well-Worn)": [
+		-1.6340000000000002,
+		3.2
+	],
+	"Tec-9 | Bamboo Forest (Field-Tested)": [
+		-1.6340000000000002,
+		3.2
+	],
+	"R8 Revolver | Reboot (Well-Worn)": [
+		-1.6340999999999997,
+		5.8999999999999999
+	],
+	"G3SG1 | Azure Zebra (Factory New)": [
+		-1.6366,
+		6.7
+	],
+	"AK-47 | Safari Mesh (Battle-Scarred)": [
+		-1.6403999999999999,
+		2.0
+	],
+	"MP5-SD | Co-Processor (Factory New)": [
+		-1.6475000000000018,
+		8.100000000000002
+	],
+	"Negev | Lionfish (Well-Worn)": [
+		-1.6520999999999993,
+		4.699999999999999
+	],
+	"UMP-45 | Corporal (Factory New)": [
+		-1.6528750000000004,
+		4.6000000000000009
+	],
+	"Galil AR | Signal (Battle-Scarred)": [
+		-1.6549000000000005,
+		4.9
+	],
+	"XM1014 | Scumbria (Factory New)": [
+		-1.6550500000000006,
+		4.6000000000000009
+	],
+	"FAMAS | Sergeant (Battle-Scarred)": [
+		-1.6583000000000013,
+		6.800000000000001
+	],
+	"MAG-7 | Core Breach (Field-Tested)": [
+		-1.65895,
+		5.5
+	],
+	"Dual Berettas | Royal Consorts (Well-Worn)": [
+		-1.6861000000000002,
+		3.4000000000000005
+	],
+	"Sawed-Off | Limelight (Battle-Scarred)": [
+		-1.686399999999999,
+		5.699999999999999
+	],
+	"MP9 | Capillary (Well-Worn)": [
+		-1.6997,
+		2.3000000000000004
+	],
+	"MP7 | Gunsmoke (Minimal Wear)": [
+		-1.715399999999999,
+		5.699999999999999
+	],
+	"M4A1-S | Boreal Forest (Minimal Wear)": [
+		-1.7169000000000004,
+		2.7
+	],
+	"MAC-10 | Indigo (Minimal Wear)": [
+		-1.725,
+		3.9000000000000005
+	],
+	"MP5-SD | Agent (Minimal Wear)": [
+		-1.7261,
+		7.5
+	],
+	"P90 | Grim (Battle-Scarred)": [
+		-1.73286,
+		2.1
+	],
+	"Sawed-Off | Limelight (Well-Worn)": [
+		-1.7340999999999998,
+		6.0
+	],
+	"P250 | Iron Clad (Factory New)": [
+		-1.7363599999999997,
+		3.8
+	],
+	"MAC-10 | Carnivore (Factory New)": [
+		-1.7363599999999997,
+		3.8
+	],
+	"MP7 | Powercore (Minimal Wear)": [
+		-1.7410000000000004,
+		6.7
+	],
+	"MAG-7 | Seabird (Minimal Wear)": [
+		-1.7424000000000005,
+		3.9000000000000005
+	],
+	"UMP-45 | Moonrise (Field-Tested)": [
+		-1.7512999999999999,
+		3.5
+	],
+	"P250 | Exchanger (Minimal Wear)": [
+		-1.7531999999999997,
+		5.5
+	],
+	"SCAR-20 | Grotto (Battle-Scarred)": [
+		-1.7822000000000003,
+		2.6
+	],
+	"M249 | Nebula Crusader (Battle-Scarred)": [
+		-1.7841,
+		7.5
+	],
+	"SG 553 | Triarch (Battle-Scarred)": [
+		-1.7847000000000005,
+		3.4000000000000005
+	],
+	"SCAR-20 | Powercore (Battle-Scarred)": [
+		-1.7847000000000005,
+		3.4000000000000005
+	],
+	"AUG | Random Access (Battle-Scarred)": [
+		-1.7850500000000005,
+		5.6000000000000009
+	],
+	"Nova | Gila (Minimal Wear)": [
+		-1.7898,
+		4.8
+	],
+	"CZ75-Auto | Red Astor (Well-Worn)": [
+		-1.8149000000000002,
+		3.9000000000000005
+	],
+	"Galil AR | Sage Spray (Factory New)": [
+		-1.8173,
+		2.0
+	],
+	"Sawed-Off | Zander (Factory New)": [
+		-1.82038,
+		2.8000000000000004
+	],
+	"MP7 | Powercore (Well-Worn)": [
+		-1.8262999999999999,
+		4.3
+	],
+	"Five-SeveN | Violent Daimyo (Well-Worn)": [
+		-1.8326600000000002,
+		2.6
+	],
+	"AWP | Safari Mesh (Well-Worn)": [
+		-1.8344999999999999,
+		2.4
+	],
+	"P250 | Steel Disruption (Factory New)": [
+		-1.8365999999999994,
+		6.8999999999999999
+	],
+	"Tec-9 | Jambiya (Factory New)": [
+		-1.8377999999999997,
+		4.5
+	],
+	"MP5-SD | Dirt Drop (Factory New)": [
+		-1.8411250000000002,
+		2.2
+	],
+	"P250 | Valence (Minimal Wear)": [
+		-1.8451750000000003,
+		2.8000000000000004
+	],
+	"MP5-SD | Co-Processor (Minimal Wear)": [
+		-1.8532000000000002,
+		5.6000000000000009
+	],
+	"XM1014 | Black Tie (Battle-Scarred)": [
+		-1.8759000000000002,
+		3.7
+	],
+	"CZ75-Auto | Red Astor (Battle-Scarred)": [
+		-1.8759000000000002,
+		3.7
+	],
+	"SG 553 | Fallout Warning (Battle-Scarred)": [
+		-1.8819000000000004,
+		3.3000000000000004
+	],
+	"FAMAS | Neural Net (Field-Tested)": [
+		-1.8848,
+		6.2
+	],
+	"Dual Berettas | Royal Consorts (Battle-Scarred)": [
+		-1.9005999999999999,
+		3.5999999999999998
+	],
+	"MAG-7 | Firestarter (Battle-Scarred)": [
+		-1.9101250000000004,
+		3.4000000000000005
+	],
+	"UMP-45 | Briefing (Factory New)": [
+		-1.9164000000000006,
+		3.9000000000000005
+	],
+	"MP7 | Impire (Minimal Wear)": [
+		-1.9218000000000002,
+		10.5
+	],
+	"MP9 | Dart (Well-Worn)": [
+		-1.9318750000000005,
+		3.4000000000000005
+	],
+	"Nova | Ghost Camo (Factory New)": [
+		-1.9365999999999999,
+		7.0
+	],
+	"Five-SeveN | Nightshade (Factory New)": [
+		-1.9365999999999999,
+		7.0
+	],
+	"FAMAS | Survivor Z (Battle-Scarred)": [
+		-1.9387500000000003,
+		2.7
+	],
+	"G3SG1 | High Seas (Minimal Wear)": [
+		-1.9409999999999995,
+		6.8999999999999999
+	],
+	"P2000 | Ivory (Factory New)": [
+		-1.94735,
+		2.9
+	],
+	"UMP-45 | Arctic Wolf (Minimal Wear)": [
+		-1.9537,
+		7.6
+	],
+	"SG 553 | Atlas (Well-Worn)": [
+		-1.9563,
+		2.4
+	],
+	"AUG | Random Access (Field-Tested)": [
+		-1.9589499999999994,
+		5.8
+	],
+	"P90 | Grim (Field-Tested)": [
+		-1.9737,
+		2.4
+	],
+	"Galil AR | Kami (Field-Tested)": [
+		-1.9776500000000002,
+		3.2
+	],
+	"M249 | Nebula Crusader (Field-Tested)": [
+		-2.003800000000001,
+		8.9
+	],
+	"Galil AR | Firefight (Field-Tested)": [
+		-2.0116999999999995,
+		4.699999999999999
+	],
+	"CZ75-Auto | Imprint (Factory New)": [
+		-2.0164,
+		4.0
+	],
+	"Nova | Ranger (Factory New)": [
+		-2.01702,
+		4.5
+	],
+	"MP9 | Deadly Poison (Minimal Wear)": [
+		-2.023175,
+		3.5
+	],
+	"M249 | Magma (Factory New)": [
+		-2.0368000000000006,
+		6.7
+	],
+	"MP7 | Mischief (Minimal Wear)": [
+		-2.0590800000000009,
+		3.9000000000000005
+	],
+	"G3SG1 | Azure Zebra (Field-Tested)": [
+		-2.063299999999999,
+		5.8999999999999999
+	],
+	"Sawed-Off | Black Sand (Factory New)": [
+		-2.06818,
+		3.1
+	],
+	"FAMAS | Sergeant (Field-Tested)": [
+		-2.0736,
+		8.5
+	],
+	"FAMAS | Teardown (Battle-Scarred)": [
+		-2.0822,
+		2.9
+	],
+	"UMP-45 | Exposure (Well-Worn)": [
+		-2.0844999999999995,
+		4.1
+	],
+	"MAG-7 | Praetorian (Well-Worn)": [
+		-2.0845,
+		7.0
+	],
+	"AUG | Storm (Factory New)": [
+		-2.1173,
+		2.3000000000000004
+	],
+	"G3SG1 | High Seas (Well-Worn)": [
+		-2.1263000000000007,
+		4.6000000000000009
+	],
+	"AUG | Death by Puppy (Well-Worn)": [
+		-2.128300000000003,
+		32.5
+	],
+	"PP-Bizon | Brass (Field-Tested)": [
+		-2.1289000000000004,
+		5.2
+	],
+	"MAG-7 | Firestarter (Well-Worn)": [
+		-2.131875,
+		3.5999999999999998
+	],
+	"Negev | Dazzle (Minimal Wear)": [
+		-2.1344000000000005,
+		2.9
+	],
+	"PP-Bizon | Water Sigil (Factory New)": [
+		-2.136599999999999,
+		7.199999999999999
+	],
+	"Five-SeveN | Kami (Factory New)": [
+		-2.136800000000001,
+		6.800000000000001
+	],
+	"MP7 | Special Delivery (Battle-Scarred)": [
+		-2.1406,
+		7.9
+	],
+	"MAC-10 | Palm (Factory New)": [
+		-2.1470999999999997,
+		3.5999999999999998
+	],
+	"UMP-45 | Arctic Wolf (Well-Worn)": [
+		-2.1521,
+		5.2
+	],
+	"Galil AR | Firefight (Battle-Scarred)": [
+		-2.1759,
+		4.0
+	],
+	"MAG-7 | Petroglyph (Minimal Wear)": [
+		-2.1767999999999998,
+		5.1
+	],
+	"MP7 | Asterion (Field-Tested)": [
+		-2.1769499999999999,
+		4.8
+	],
+	"AUG | Daedalus (Field-Tested)": [
+		-2.1769499999999999,
+		4.8
+	],
+	"Five-SeveN | Urban Hazard (Field-Tested)": [
+		-2.1818,
+		3.8
+	],
+	"R8 Revolver | Reboot (Battle-Scarred)": [
+		-2.1864,
+		6.2
+	],
+	"P250 | Sand Dune (Factory New)": [
+		-2.21556,
+		2.4
+	],
+	"PP-Bizon | Water Sigil (Well-Worn)": [
+		-2.2156,
+		5.8
+	],
+	"P90 | Nostalgia (Well-Worn)": [
+		-2.2282999999999975,
+		32.599999999999997
+	],
+	"SG 553 | Damascus Steel (Field-Tested)": [
+		-2.2289000000000009,
+		5.300000000000001
+	],
+	"Sawed-Off | Full Stop (Battle-Scarred)": [
+		-2.23,
+		3.1
+	],
+	"R8 Revolver | Skull Crusher (Well-Worn)": [
+		-2.2319999999999995,
+		16.5
+	],
+	"Five-SeveN | Urban Hazard (Minimal Wear)": [
+		-2.2337499999999999,
+		4.3
+	],
+	"AUG | Aristocrat (Minimal Wear)": [
+		-2.2408,
+		10.5
+	],
+	"P90 | Chopper (Minimal Wear)": [
+		-2.2408,
+		10.5
+	],
+	"P90 | Chopper (Field-Tested)": [
+		-2.2409999999999989,
+		7.199999999999999
+	],
+	"Five-SeveN | Orange Peel (Factory New)": [
+		-2.2471000000000007,
+		3.7
+	],
+	"Tec-9 | Sandstorm (Minimal Wear)": [
+		-2.2558000000000004,
+		3.7
+	],
+	"MAG-7 | Praetorian (Field-Tested)": [
+		-2.2598000000000004,
+		7.3
+	],
+	"MAC-10 | Heat (Field-Tested)": [
+		-2.273599999999999,
+		8.7
+	],
+	"Tec-9 | Isaac (Field-Tested)": [
+		-2.27765,
+		3.5
+	],
+	"MAC-10 | Last Dive (Well-Worn)": [
+		-2.2776999999999996,
+		6.3
+	],
+	"MAG-7 | Heat (Battle-Scarred)": [
+		-2.2789000000000008,
+		3.9000000000000005
+	],
+	"Negev | Nuclear Waste (Well-Worn)": [
+		-2.28538,
+		3.7
+	],
+	"G3SG1 | Scavenger (Factory New)": [
+		-2.2877000000000007,
+		9.5
+	],
+	"Dual Berettas | Royal Consorts (Minimal Wear)": [
+		-2.289800000000001,
+		5.300000000000001
+	],
+	"Glock-18 | Catacombs (Well-Worn)": [
+		-2.297425,
+		3.1
+	],
+	"MAG-7 | Heat (Well-Worn)": [
+		-2.3005999999999999,
+		4.0
+	],
+	"XM1014 | Red Python (Field-Tested)": [
+		-2.3053399999999999,
+		3.8
+	],
+	"Galil AR | Firefight (Well-Worn)": [
+		-2.3149,
+		4.4
+	],
+	"Five-SeveN | Urban Hazard (Factory New)": [
+		-2.3178749999999996,
+		5.699999999999999
+	],
+	"USP-S | Forest Leaves (Minimal Wear)": [
+		-2.3212,
+		3.4000000000000005
+	],
+	"Glock-18 | Blue Fissure (Field-Tested)": [
+		-2.33355,
+		4.8
+	],
+	"R8 Revolver | Reboot (Minimal Wear)": [
+		-2.3408000000000017,
+		10.600000000000002
+	],
+	"Nova | Toy Soldier (Minimal Wear)": [
+		-2.341,
+		7.3
+	],
+	"G3SG1 | Polar Camo (Factory New)": [
+		-2.3491500000000005,
+		2.6
+	],
+	"MAC-10 | Heat (Battle-Scarred)": [
+		-2.3583000000000009,
+		7.5
+	],
+	"Sawed-Off | Brake Light (Factory New)": [
+		-2.3800000000000014,
+		25.0
+	],
+	"CZ75-Auto | Tacticat (Well-Worn)": [
+		-2.3845,
+		4.4
+	],
+	"XM1014 | Teclu Burner (Battle-Scarred)": [
+		-2.3881000000000007,
+		8.8
+	],
+	"MAG-7 | Sand Dune (Battle-Scarred)": [
+		-2.4038,
+		3.5
+	],
+	"P90 | Blind Spot (Minimal Wear)": [
+		-2.4162999999999998,
+		22.0
+	],
+	"SCAR-20 | Storm (Minimal Wear)": [
+		-2.4250000000000009,
+		4.6000000000000009
+	],
+	"MP9 | Bioleak (Minimal Wear)": [
+		-2.45252,
+		3.5
+	],
+	"MP9 | Bioleak (Well-Worn)": [
+		-2.4562999999999999,
+		2.9
+	],
+	"Tec-9 | Re-Entry (Minimal Wear)": [
+		-2.4633000000000004,
+		6.3
+	],
+	"FAMAS | Eye of Athena (Field-Tested)": [
+		-2.466649999999998,
+		25.7
+	],
+	"MAG-7 | Praetorian (Factory New)": [
+		-2.4669999999999976,
+		16.299999999999998
+	],
+	"Five-SeveN | Triumvirate (Factory New)": [
+		-2.4669999999999976,
+		16.299999999999998
+	],
+	"MAG-7 | Sand Dune (Field-Tested)": [
+		-2.47775,
+		3.5
+	],
+	"MP7 | Special Delivery (Minimal Wear)": [
+		-2.4787000000000014,
+		13.200000000000001
+	],
+	"MP9 | Goo (Well-Worn)": [
+		-2.4844999999999999,
+		4.5
+	],
+	"MAC-10 | Last Dive (Factory New)": [
+		-2.4932000000000005,
+		10.3
+	],
+	"MAG-7 | Memento (Factory New)": [
+		-2.4974,
+		19.3
+	],
+	"G3SG1 | Orange Kimono (Minimal Wear)": [
+		-2.5029500000000008,
+		5.300000000000001
+	],
+	"Dual Berettas | Panther (Minimal Wear)": [
+		-2.503,
+		5.2
+	],
+	"SG 553 | Aloha (Factory New)": [
+		-2.5106599999999998,
+		3.8
+	],
+	"XM1014 | Black Tie (Well-Worn)": [
+		-2.5149000000000005,
+		4.6000000000000009
+	],
+	"SG 553 | Waves Perforated (Factory New)": [
+		-2.5173,
+		2.7
+	],
+	"MP7 | Impire (Field-Tested)": [
+		-2.5597999999999998,
+		7.6
+	],
+	"P250 | Red Rock (Battle-Scarred)": [
+		-2.568,
+		11.5
+	],
+	"CZ75-Auto | Crimson Web (Well-Worn)": [
+		-2.570825,
+		4.4
+	],
+	"Galil AR | Stone Cold (Well-Worn)": [
+		-2.6037999999999998,
+		9.5
+	],
+	"MP9 | Bioleak (Factory New)": [
+		-2.62582,
+		4.9
+	],
+	"P250 | Red Rock (Minimal Wear)": [
+		-2.6445999999999989,
+		23.599999999999999
+	],
+	"Glock-18 | Moonrise (Minimal Wear)": [
+		-2.653699999999999,
+		8.299999999999999
+	],
+	"MP7 | Asterion (Minimal Wear)": [
+		-2.6614249999999997,
+		5.8999999999999999
+	],
+	"MP7 | Impire (Factory New)": [
+		-2.6670000000000009,
+		16.5
+	],
+	"Tec-9 | Avalanche (Well-Worn)": [
+		-2.6677999999999995,
+		9.1
+	],
+	"P2000 | Pulse (Well-Worn)": [
+		-2.6734,
+		3.7
+	],
+	"P250 | Valence (Well-Worn)": [
+		-2.6757750000000004,
+		3.3000000000000004
+	],
+	"SCAR-20 | Powercore (Minimal Wear)": [
+		-2.676800000000001,
+		5.6000000000000009
+	],
+	"Nova | Graphite (Minimal Wear)": [
+		-2.678600000000001,
+		28.1
+	],
+	"M249 | Emerald Poison Dart (Factory New)": [
+		-2.6932,
+		10.5
+	],
+	"Galil AR | Crimson Tsunami (Factory New)": [
+		-2.6932,
+		10.5
+	],
+	"XM1014 | Seasons (Factory New)": [
+		-2.6932,
+		10.5
+	],
+	"PP-Bizon | Chemical Green (Minimal Wear)": [
+		-2.695220000000001,
+		5.300000000000001
+	],
+	"Negev | Loudmouth (Well-Worn)": [
+		-2.6980999999999999,
+		6.5
+	],
+	"P2000 | Woodsman (Field-Tested)": [
+		-2.713800000000001,
+		15.700000000000001
+	],
+	"AK-47 | Safari Mesh (Well-Worn)": [
+		-2.7172,
+		3.1
+	],
+	"M4A1-S | VariCamo (Field-Tested)": [
+		-2.7289,
+		5.8
+	],
+	"XM1014 | Red Python (Battle-Scarred)": [
+		-2.73216,
+		4.5
+	],
+	"SSG 08 | Lichen Dashed (Battle-Scarred)": [
+		-2.7382000000000006,
+		4.6000000000000009
+	],
+	"M249 | Aztec (Factory New)": [
+		-2.7399,
+		9.9
+	],
+	"Sawed-Off | Serenity (Field-Tested)": [
+		-2.7450000000000007,
+		8.4
+	],
+	"FAMAS | Eye of Athena (Well-Worn)": [
+		-2.7456499999999997,
+		24.5
+	],
+	"Nova | Moon in Libra (Minimal Wear)": [
+		-2.761425,
+		6.0
+	],
+	"MP9 | Ruby Poison Dart (Field-Tested)": [
+		-2.7847999999999999,
+		7.1
+	],
+	"Galil AR | Tuxedo (Well-Worn)": [
+		-2.7948,
+		4.5
+	],
+	"MAC-10 | Urban DDPAT (Field-Tested)": [
+		-2.8023,
+		6.8999999999999999
+	],
+	"MP7 | Special Delivery (Field-Tested)": [
+		-2.803799999999999,
+		9.7
+	],
+	"Negev | Lionfish (Factory New)": [
+		-2.807099999999999,
+		11.799999999999999
+	],
+	"Desert Eagle | Bronze Deco (Field-Tested)": [
+		-2.8192250000000005,
+		3.5
+	],
+	"P250 | Red Rock (Well-Worn)": [
+		-2.8215000000000005,
+		12.0
+	],
+	"Sawed-Off | Full Stop (Well-Worn)": [
+		-2.83,
+		3.7
+	],
+	"Sawed-Off | Serenity (Well-Worn)": [
+		-2.845,
+		8.5
+	],
+	"AUG | Daedalus (Minimal Wear)": [
+		-2.8614249999999998,
+		6.1
+	],
+	"Glock-18 | Oxide Blaze (Factory New)": [
+		-2.8681800000000008,
+		3.9000000000000005
+	],
+	"M249 | Nebula Crusader (Minimal Wear)": [
+		-2.878700000000002,
+		13.600000000000002
+	],
+	"Glock-18 | Weasel (Battle-Scarred)": [
+		-2.8847000000000007,
+		4.5
+	],
+	"Negev | Nuclear Waste (Minimal Wear)": [
+		-2.89522,
+		5.5
+	],
+	"P90 | Teardown (Battle-Scarred)": [
+		-2.926,
+		3.1
+	],
+	"Galil AR | Blue Titanium (Factory New)": [
+		-2.9366,
+		8.0
+	],
+	"Galil AR | Signal (Well-Worn)": [
+		-2.9636000000000006,
+		6.2
+	],
+	"Glock-18 | Catacombs (Battle-Scarred)": [
+		-2.9822,
+		3.8
+	],
+	"P90 | Chopper (Battle-Scarred)": [
+		-2.989299999999999,
+		7.0
+	],
+	"P2000 | Pulse (Factory New)": [
+		-2.9968250000000005,
+		5.0
+	],
+	"G3SG1 | High Seas (Factory New)": [
+		-2.9993000000000018,
+		13.100000000000002
+	],
+	"PP-Bizon | Bamboo Print (Minimal Wear)": [
+		-3.0029500000000004,
+		5.8
+	],
+	"Nova | Wild Six (Factory New)": [
+		-3.0071000000000005,
+		12.0
+	],
+	"Negev | Nuclear Waste (Factory New)": [
+		-3.00926,
+		7.1
+	],
+	"AUG | Random Access (Well-Worn)": [
+		-3.0331,
+		6.4
+	],
+	"P2000 | Handgun (Minimal Wear)": [
+		-3.033900000000002,
+		10.600000000000002
+	],
+	"Desert Eagle | Oxide Blaze (Field-Tested)": [
+		-3.0344999999999997,
+		3.5999999999999998
+	],
+	"P2000 | Woodsman (Minimal Wear)": [
+		-3.0446000000000006,
+		24.0
+	],
+	"AUG | Death by Puppy (Minimal Wear)": [
+		-3.0507999999999919,
+		49.3
+	],
+	"PP-Bizon | Fuel Rod (Battle-Scarred)": [
+		-3.0551999999999994,
+		8.6
+	],
+	"Nova | Forest Leaves (Field-Tested)": [
+		-3.05565,
+		4.8
+	],
+	"MP7 | Special Delivery (Factory New)": [
+		-3.055700000000002,
+		22.1
+	],
+	"AWP | Safari Mesh (Minimal Wear)": [
+		-3.0575,
+		4.0
+	],
+	"XM1014 | Teclu Burner (Well-Worn)": [
+		-3.067799999999999,
+		9.5
+	],
+	"CZ75-Auto | Tuxedo (Well-Worn)": [
+		-3.0947999999999999,
+		4.8
+	],
+	"MP7 | Groundwater (Field-Tested)": [
+		-3.0960199999999995,
+		4.1
+	],
+	"MAG-7 | Petroglyph (Factory New)": [
+		-3.114099999999999,
+		9.7
+	],
+	"Negev | Bratatat (Battle-Scarred)": [
+		-3.1167000000000004,
+		4.5
+	],
+	"P2000 | Woodsman (Battle-Scarred)": [
+		-3.1215000000000017,
+		12.3
+	],
+	"Glock-18 | Bunsen Burner (Well-Worn)": [
+		-3.12212,
+		4.1
+	],
+	"MP9 | Hydra (Well-Worn)": [
+		-3.128300000000003,
+		33.5
+	],
+	"XM1014 | Incinegator (Well-Worn)": [
+		-3.131999999999998,
+		17.4
+	],
+	"Glock-18 | Grinder (Factory New)": [
+		-3.1604000000000007,
+		12.8
+	],
+	"MP9 | Green Plaid (Field-Tested)": [
+		-3.1687000000000005,
+		4.9
+	],
+	"SG 553 | Phantom (Field-Tested)": [
+		-3.1830000000000009,
+		5.300000000000001
+	],
+	"MP5-SD | Gauss (Minimal Wear)": [
+		-3.1846,
+		5.0
+	],
+	"UMP-45 | Exposure (Factory New)": [
+		-3.1880999999999997,
+		9.6
+	],
+	"MP5-SD | Phosphor (Battle-Scarred)": [
+		-3.19125,
+		29.4
+	],
+	"Five-SeveN | Nightshade (Well-Worn)": [
+		-3.2156000000000009,
+		6.800000000000001
+	],
+	"AUG | Daedalus (Factory New)": [
+		-3.226675,
+		6.4
+	],
+	"AWP | Safari Mesh (Battle-Scarred)": [
+		-3.2344999999999999,
+		3.8
+	],
+	"XM1014 | Teclu Burner (Field-Tested)": [
+		-3.2358999999999988,
+		9.7
+	],
+	"Five-SeveN | Violent Daimyo (Factory New)": [
+		-3.2363600000000005,
+		5.300000000000001
+	],
+	"Dual Berettas | Cartel (Factory New)": [
+		-3.237799999999999,
+		5.8999999999999999
+	],
+	"Tec-9 | Avalanche (Battle-Scarred)": [
+		-3.2552000000000005,
+		8.8
+	],
+	"SSG 08 | Lichen Dashed (Field-Tested)": [
+		-3.25565,
+		5.0
+	],
+	"Sawed-Off | Serenity (Minimal Wear)": [
+		-3.2611,
+		11.5
+	],
+	"FAMAS | Survivor Z (Minimal Wear)": [
+		-3.270925,
+		4.9
+	],
+	"Tec-9 | Bamboozle (Minimal Wear)": [
+		-3.2845999999999995,
+		5.1
+	],
+	"Tec-9 | Bamboo Forest (Minimal Wear)": [
+		-3.302949999999999,
+		6.1
+	],
+	"MP9 | Dart (Battle-Scarred)": [
+		-3.3101249999999999,
+		4.8
+	],
+	"MP9 | Orange Peel (Factory New)": [
+		-3.3212,
+		4.4
+	],
+	"Sawed-Off | Devourer (Field-Tested)": [
+		-3.36665,
+		26.6
+	],
+	"Desert Eagle | Oxide Blaze (Battle-Scarred)": [
+		-3.37892,
+		3.8
+	],
+	"P250 | Nevermore (Factory New)": [
+		-3.387700000000002,
+		10.600000000000002
+	],
+	"P250 | Mint Kimono (Minimal Wear)": [
+		-3.4029500000000008,
+		6.2
+	],
+	"Tec-9 | Bamboo Forest (Factory New)": [
+		-3.4064,
+		8.0
+	],
+	"Galil AR | Tuxedo (Field-Tested)": [
+		-3.4078,
+		5.2
+	],
+	"P90 | Teardown (Well-Worn)": [
+		-3.4259999999999999,
+		3.5999999999999998
+	],
+	"FAMAS | Neural Net (Minimal Wear)": [
+		-3.4339000000000006,
+		11.0
+	],
+	"P250 | Inferno (Factory New)": [
+		-3.4399000000000017,
+		10.600000000000002
+	],
+	"CZ75-Auto | Eco (Minimal Wear)": [
+		-3.4410000000000009,
+		8.4
+	],
+	"P90 | Nostalgia (Minimal Wear)": [
+		-3.4507999999999905,
+		49.699999999999999
+	],
+	"P250 | Red Rock (Field-Tested)": [
+		-3.5138000000000004,
+		16.5
+	],
+	"MAG-7 | Heat (Field-Tested)": [
+		-3.523600000000001,
+		5.6000000000000009
+	],
+	"Sawed-Off | Full Stop (Field-Tested)": [
+		-3.5300000000000004,
+		4.4
+	],
+	"SG 553 | Phantom (Battle-Scarred)": [
+		-3.5396,
+		5.5
+	],
+	"Sawed-Off | Serenity (Battle-Scarred)": [
+		-3.545000000000001,
+		9.200000000000001
+	],
+	"Glock-18 | Wraiths (Factory New)": [
+		-3.5550500000000007,
+		6.5
+	],
+	"Nova | Koi (Factory New)": [
+		-3.5607999999999997,
+		9.5
+	],
+	"AK-47 | Uncharted (Field-Tested)": [
+		-3.5742199999999997,
+		4.699999999999999
+	],
+	"P250 | Contamination (Minimal Wear)": [
+		-3.5952200000000005,
+		6.2
+	],
+	"Five-SeveN | Hot Shot (Minimal Wear)": [
+		-3.5952200000000005,
+		6.2
+	],
+	"MP5-SD | Phosphor (Well-Worn)": [
+		-3.6028999999999966,
+		32.599999999999997
+	],
+	"G3SG1 | Orange Kimono (Factory New)": [
+		-3.6063999999999996,
+		8.2
+	],
+	"Dual Berettas | Urban Shock (Factory New)": [
+		-3.620999999999999,
+		16.7
+	],
+	"MP7 | Asterion (Factory New)": [
+		-3.6266750000000007,
+		6.800000000000001
+	],
+	"Sawed-Off | Amber Fade (Well-Worn)": [
+		-3.6346999999999998,
+		3.8
+	],
+	"SSG 08 | Blue Spruce (Factory New)": [
+		-3.6405,
+		3.8
+	],
+	"PP-Bizon | Fuel Rod (Well-Worn)": [
+		-3.667799999999999,
+		10.1
+	],
+	"Negev | Bratatat (Well-Worn)": [
+		-3.67668,
+		5.1
+	],
+	"CZ75-Auto | Tuxedo (Field-Tested)": [
+		-3.7077999999999999,
+		5.5
+	],
+	"Five-SeveN | Nightshade (Battle-Scarred)": [
+		-3.7156,
+		7.3
+	],
+	"SG 553 | Aerial (Well-Worn)": [
+		-3.7326599999999998,
+		4.5
+	],
+	"Sawed-Off | Devourer (Well-Worn)": [
+		-3.7456499999999997,
+		25.5
+	],
+	"PP-Bizon | Osiris (Factory New)": [
+		-3.760799999999999,
+		9.7
+	],
+	"Dual Berettas | Panther (Well-Worn)": [
+		-3.7708250000000005,
+		5.6000000000000009
+	],
+	"Galil AR | Signal (Factory New)": [
+		-3.7877,
+		11.0
+	],
+	"AK-47 | Safari Mesh (Minimal Wear)": [
+		-3.8080999999999998,
+		5.0
+	],
+	"Glock-18 | High Beam (Minimal Wear)": [
+		-3.8139749999999998,
+		6.3
+	],
+	"P90 | Blind Spot (Field-Tested)": [
+		-3.8314000000000014,
+		19.3
+	],
+	"Tec-9 | Avalanche (Field-Tested)": [
+		-3.8359000000000007,
+		10.3
+	],
+	"FAMAS | Teardown (Field-Tested)": [
+		-3.8388,
+		4.5
+	],
+	"FAMAS | Teardown (Well-Worn)": [
+		-3.8388,
+		4.5
+	],
+	"AUG | Radiation Hazard (Battle-Scarred)": [
+		-3.84976,
+		5.2
+	],
+	"P250 | Supernova (Factory New)": [
+		-3.8608000000000004,
+		9.8
+	],
+	"MAG-7 | Sand Dune (Well-Worn)": [
+		-3.8777500000000009,
+		4.9
+	],
+	"UMP-45 | Moonrise (Minimal Wear)": [
+		-3.8846,
+		5.699999999999999
+	],
+	"MP9 | Goo (Factory New)": [
+		-3.8881000000000007,
+		10.3
+	],
+	"M249 | System Lock (Factory New)": [
+		-3.892375,
+		6.1
+	],
+	"CZ75-Auto | Pole Position (Minimal Wear)": [
+		-3.9046,
+		6.3
+	],
+	"Tec-9 | Re-Entry (Well-Worn)": [
+		-3.9149000000000004,
+		6.0
+	],
+	"Nova | Moon in Libra (Factory New)": [
+		-3.9266749999999996,
+		7.1
+	],
+	"Dual Berettas | Moon in Libra (Factory New)": [
+		-3.9266749999999996,
+		7.1
+	],
+	"Desert Eagle | Urban Rubble (Well-Worn)": [
+		-3.9346999999999996,
+		4.1
+	],
+	"UMP-45 | Momentum (Well-Worn)": [
+		-4.002900000000002,
+		33.0
+	],
+	"Galil AR | Cold Fusion (Factory New)": [
+		-4.009924999999999,
+		5.8999999999999999
+	],
+	"AK-47 | Uncharted (Battle-Scarred)": [
+		-4.02304,
+		4.9
+	],
+	"MP9 | Ruby Poison Dart (Minimal Wear)": [
+		-4.033899999999999,
+		11.6
+	],
+	"P90 | Grim (Minimal Wear)": [
+		-4.0344,
+		4.8
+	],
+	"Five-SeveN | Silver Quartz (Well-Worn)": [
+		-4.038799999999999,
+		4.699999999999999
+	],
+	"SSG 08 | Abyss (Field-Tested)": [
+		-4.049775,
+		4.5
+	],
+	"CZ75-Auto | Red Astor (Minimal Wear)": [
+		-4.063300000000001,
+		7.9
+	],
+	"UMP-45 | Gunsmoke (Factory New)": [
+		-4.116899999999999,
+		5.1
+	],
+	"Sawed-Off | Serenity (Factory New)": [
+		-4.120999999999999,
+		17.2
+	],
+	"P90 | Grim (Well-Worn)": [
+		-4.12242,
+		4.5
+	],
+	"P90 | Teardown (Field-Tested)": [
+		-4.1259999999999998,
+		4.3
+	],
+	"Sawed-Off | Amber Fade (Field-Tested)": [
+		-4.1259999999999998,
+		4.3
+	],
+	"Desert Eagle | Urban Rubble (Battle-Scarred)": [
+		-4.1347,
+		4.3
+	],
+	"PP-Bizon | Fuel Rod (Field-Tested)": [
+		-4.135900000000001,
+		10.600000000000002
+	],
+	"Five-SeveN | Silver Quartz (Field-Tested)": [
+		-4.1388,
+		4.8
+	],
+	"Glock-18 | Moonrise (Well-Worn)": [
+		-4.1521,
+		7.199999999999999
+	],
+	"FAMAS | Neural Net (Factory New)": [
+		-4.1552000000000028,
+		18.400000000000003
+	],
+	"Desert Eagle | Oxide Blaze (Well-Worn)": [
+		-4.177180000000001,
+		4.6000000000000009
+	],
+	"MP9 | Ruby Poison Dart (Well-Worn)": [
+		-4.1981,
+		8.0
+	],
+	"MAC-10 | Malachite (Factory New)": [
+		-4.221000000000001,
+		17.3
+	],
+	"Desert Eagle | Urban Rubble (Field-Tested)": [
+		-4.226,
+		4.4
+	],
+	"XM1014 | Red Python (Minimal Wear)": [
+		-4.2373,
+		7.9
+	],
+	"Dual Berettas | Briar (Factory New)": [
+		-4.24235,
+		6.5
+	],
+	"Galil AR | Sandstorm (Well-Worn)": [
+		-4.266025,
+		7.0
+	],
+	"M249 | Magma (Well-Worn)": [
+		-4.266025,
+		7.0
+	],
+	"Desert Eagle | Bronze Deco (Well-Worn)": [
+		-4.275775000000001,
+		4.9
+	],
+	"MAC-10 | Urban DDPAT (Well-Worn)": [
+		-4.302300000000001,
+		8.4
+	],
+	"Galil AR | Stone Cold (Field-Tested)": [
+		-4.303800000000002,
+		11.200000000000001
+	],
+	"R8 Revolver | Llama Cannon (Well-Worn)": [
+		-4.3091500000000029,
+		20.8
+	],
+	"Desert Eagle | Oxide Blaze (Minimal Wear)": [
+		-4.3474,
+		5.2
+	],
+	"R8 Revolver | Llama Cannon (Field-Tested)": [
+		-4.355850000000004,
+		23.1
+	],
+	"CZ75-Auto | Xiangliu (Battle-Scarred)": [
+		-4.360199999999999,
+		31.8
+	],
+	"USP-S | Night Ops (Field-Tested)": [
+		-4.426,
+		4.6000000000000009
+	],
+	"UMP-45 | Plastique (Factory New)": [
+		-4.4399,
+		11.6
+	],
+	"Tec-9 | Isaac (Minimal Wear)": [
+		-4.477399999999999,
+		6.2
+	],
+	"MP7 | Powercore (Factory New)": [
+		-4.4993,
+		14.6
+	],
+	"R8 Revolver | Skull Crusher (Field-Tested)": [
+		-4.5319999999999969,
+		18.799999999999998
+	],
+	"Glock-18 | Grinder (Minimal Wear)": [
+		-4.5594,
+		10.4
+	],
+	"UMP-45 | Momentum (Minimal Wear)": [
+		-4.613299999999999,
+		47.599999999999997
+	],
+	"R8 Revolver | Llama Cannon (Battle-Scarred)": [
+		-4.613999999999998,
+		20.099999999999999
+	],
+	"XM1014 | Incinegator (Battle-Scarred)": [
+		-4.63655,
+		18.5
+	],
+	"Desert Eagle | Naga (Well-Worn)": [
+		-4.645000000000001,
+		10.3
+	],
+	"PP-Bizon | Antique (Minimal Wear)": [
+		-4.658100000000001,
+		13.100000000000002
+	],
+	"SG 553 | Aerial (Minimal Wear)": [
+		-4.6602,
+		6.0
+	],
+	"MP7 | Impire (Well-Worn)": [
+		-4.684499999999999,
+		9.6
+	],
+	"AUG | Radiation Hazard (Minimal Wear)": [
+		-4.695219999999999,
+		7.3
+	],
+	"SSG 08 | Hand Brake (Field-Tested)": [
+		-4.699399999999999,
+		20.4
+	],
+	"SG 553 | Atlas (Factory New)": [
+		-4.72582,
+		7.0
+	],
+	"FAMAS | Eye of Athena (Battle-Scarred)": [
+		-4.757200000000001,
+		20.8
+	],
+	"XM1014 | Heaven Guard (Minimal Wear)": [
+		-4.758100000000001,
+		13.200000000000001
+	],
+	"Desert Eagle | Directive (Battle-Scarred)": [
+		-4.784700000000001,
+		6.4
+	],
+	"PP-Bizon | Embargo (Minimal Wear)": [
+		-4.794500000000001,
+		12.9
+	],
+	"FAMAS | Neural Net (Well-Worn)": [
+		-4.7981,
+		8.6
+	],
+	"MAC-10 | Calf Skin (Factory New)": [
+		-4.805175,
+		7.5
+	],
+	"USP-S | Night Ops (Battle-Scarred)": [
+		-4.826,
+		5.0
+	],
+	"MAG-7 | Memento (Minimal Wear)": [
+		-4.835100000000001,
+		10
+	],
+	"FAMAS | Doomkitty (Minimal Wear)": [
+		-4.835100000000001,
+		10
+	],
+	"SG 553 | Danger Close (Factory New)": [
+		-4.868179999999999,
+		5.8999999999999999
+	],
+	"P250 | Valence (Factory New)": [
+		-4.873150000000001,
+		6.4
+	],
+	"Desert Eagle | Naga (Field-Tested)": [
+		-4.945000000000001,
+		10.600000000000002
+	],
+	"Desert Eagle | Bronze Deco (Minimal Wear)": [
+		-4.945174999999999,
+		5.8999999999999999
+	],
+	"FAMAS | Survivor Z (Factory New)": [
+		-4.95505,
+		7.9
+	],
+	"MP9 | Ruby Poison Dart (Factory New)": [
+		-4.9552,
+		19.2
+	],
+	"Tec-9 | Toxic (Minimal Wear)": [
+		-4.9556499999999998,
+		15.4
+	],
+	"PP-Bizon | Antique (Field-Tested)": [
+		-4.989900000000001,
+		10.700000000000001
+	],
+	"XM1014 | Grassland (Well-Worn)": [
+		-4.9902,
+		7.199999999999999
+	],
+	"Galil AR | Rocket Pop (Field-Tested)": [
+		-4.993259999999999,
+		6.3
+	],
+	"M4A1-S | Flashback (Battle-Scarred)": [
+		-5.0006,
+		6.7
+	],
+	"SSG 08 | Dark Water (Field-Tested)": [
+		-5.00534,
+		6.5
+	],
+	"PP-Bizon | Bamboo Print (Factory New)": [
+		-5.006399999999999,
+		9.6
+	],
+	"SSG 08 | Hand Brake (Minimal Wear)": [
+		-5.014700000000003,
+		24.900000000000003
+	],
+	"SCAR-20 | Army Sheen (Factory New)": [
+		-5.023300000000001,
+		7.7
+	],
+	"MP9 | Green Plaid (Minimal Wear)": [
+		-5.048725,
+		7.6
+	],
+	"MAC-10 | Tatter (Minimal Wear)": [
+		-5.0581,
+		13.5
+	],
+	"XM1014 | Black Tie (Minimal Wear)": [
+		-5.063300000000001,
+		8.9
+	],
+	"M4A1-S | Flashback (Well-Worn)": [
+		-5.086100000000001,
+		6.800000000000001
+	],
+	"Sawed-Off | Brake Light (Minimal Wear)": [
+		-5.114700000000001,
+		25.0
+	],
+	"P250 | Wingshot (Minimal Wear)": [
+		-5.1787,
+		15.9
+	],
+	"P250 | Mint Kimono (Factory New)": [
+		-5.2064,
+		9.8
+	],
+	"M4A1-S | Flashback (Field-Tested)": [
+		-5.2193,
+		7.199999999999999
+	],
+	"Desert Eagle | Oxide Blaze (Factory New)": [
+		-5.2203800000000009,
+		6.2
+	],
+	"MAG-7 | Sand Dune (Minimal Wear)": [
+		-5.3032,
+		7.6
+	],
+	"MP5-SD | Phosphor (Minimal Wear)": [
+		-5.313300000000002,
+		48.3
+	],
+	"SCAR-20 | Powercore (Factory New)": [
+		-5.314099999999998,
+		11.899999999999999
+	],
+	"USP-S | Check Engine (Minimal Wear)": [
+		-5.3147,
+		25.2
+	],
+	"Galil AR | Urban Rubble (Field-Tested)": [
+		-5.315320000000002,
+		11.200000000000001
+	],
+	"AUG | Aristocrat (Factory New)": [
+		-5.354400000000002,
+		18.3
+	],
+	"AK-47 | Uncharted (Minimal Wear)": [
+		-5.35908,
+		7.199999999999999
+	],
+	"P2000 | Obsidian (Minimal Wear)": [
+		-5.394500000000001,
+		13.5
+	],
+	"Desert Eagle | Naga (Battle-Scarred)": [
+		-5.405900000000001,
+		11.0
+	],
+	"Nova | Gila (Factory New)": [
+		-5.4456999999999999,
+		9.7
+	],
+	"CZ75-Auto | Green Plaid (Minimal Wear)": [
+		-5.4487250000000009,
+		8.0
+	],
+	"MAC-10 | Pipe Down (Factory New)": [
+		-5.487699999999999,
+		12.7
+	],
+	"MP7 | Groundwater (Well-Worn)": [
+		-5.49602,
+		6.5
+	],
+	"XM1014 | Incinegator (Field-Tested)": [
+		-5.532,
+		19.8
+	],
+	"Tec-9 | Fuel Injector (Well-Worn)": [
+		-5.5333,
+		17.2
+	],
+	"Tec-9 | Fubar (Minimal Wear)": [
+		-5.5674600000000009,
+		6.3
+	],
+	"AUG | Random Access (Minimal Wear)": [
+		-5.5924499999999999,
+		12.0
+	],
+	"P250 | Contamination (Factory New)": [
+		-5.60926,
+		9.7
+	],
+	"P90 | Traction (Factory New)": [
+		-5.6251,
+		7.6
+	],
+	"USP-S | Guardian (Field-Tested)": [
+		-5.673599999999999,
+		12.1
+	],
+	"AUG | Radiation Hazard (Well-Worn)": [
+		-5.685379999999999,
+		7.1
+	],
+	"MAG-7 | Core Breach (Minimal Wear)": [
+		-5.692449999999999,
+		12.1
+	],
+	"USP-S | Flashback (Minimal Wear)": [
+		-5.702699999999999,
+		11.899999999999999
+	],
+	"Negev | Bratatat (Field-Tested)": [
+		-5.705339999999999,
+		7.199999999999999
+	],
+	"P90 | Chopper (Well-Worn)": [
+		-5.7341,
+		10
+	],
+	"SSG 08 | Lichen Dashed (Well-Worn)": [
+		-5.75565,
+		7.5
+	],
+	"SSG 08 | Slashed (Battle-Scarred)": [
+		-5.7734000000000009,
+		6.800000000000001
+	],
+	"MAC-10 | Tatter (Field-Tested)": [
+		-5.789899999999999,
+		11.5
+	],
+	"USP-S | Check Engine (Field-Tested)": [
+		-5.7994,
+		21.5
+	],
+	"MAC-10 | Urban DDPAT (Minimal Wear)": [
+		-5.802300000000001,
+		9.9
+	],
+	"Glock-18 | Bunsen Burner (Factory New)": [
+		-5.8170199999999989,
+		8.299999999999999
+	],
+	"CZ75-Auto | Army Sheen (Factory New)": [
+		-5.8233,
+		8.5
+	],
+	"MP7 | Orange Peel (Minimal Wear)": [
+		-5.826599999999997,
+		16.4
+	],
+	"SSG 08 | Hand Brake (Well-Worn)": [
+		-5.846900000000001,
+		19.3
+	],
+	"Galil AR | Kami (Minimal Wear)": [
+		-5.8774,
+		7.6
+	],
+	"SG 553 | Fallout Warning (Well-Worn)": [
+		-5.88538,
+		7.3
+	],
+	"AUG | Arctic Wolf (Field-Tested)": [
+		-5.918399999999999,
+		9.7
+	],
+	"Sawed-Off | Highwayman (Factory New)": [
+		-5.960400000000001,
+		15.600000000000002
+	],
+	"Galil AR | Firefight (Minimal Wear)": [
+		-5.9633,
+		9.8
+	],
+	"Tec-9 | Fuel Injector (Field-Tested)": [
+		-5.998399999999999,
+		17.9
+	],
+	"Tec-9 | Toxic (Factory New)": [
+		-5.9992,
+		25.0
+	],
+	"Nova | Ghost Camo (Well-Worn)": [
+		-6.015599999999999,
+		9.6
+	],
+	"Sawed-Off | Wasteland Princess (Field-Tested)": [
+		-6.050650000000001,
+		17.8
+	],
+	"Tec-9 | Toxic (Field-Tested)": [
+		-6.05435,
+		10.4
+	],
+	"SG 553 | Damascus Steel (Minimal Wear)": [
+		-6.0618,
+		12.9
+	],
+	"UMP-45 | Bone Pile (Field-Tested)": [
+		-6.1007500000000018,
+		13.3
+	],
+	"USP-S | Check Engine (Battle-Scarred)": [
+		-6.1049,
+		19.5
+	],
+	"USP-S | Guardian (Factory New)": [
+		-6.121,
+		22.1
+	],
+	"Glock-18 | Royal Legion (Minimal Wear)": [
+		-6.1217999999999999,
+		14.7
+	],
+	"Glock-18 | Warhawk (Factory New)": [
+		-6.1251000000000019,
+		8.100000000000002
+	],
+	"XM1014 | Bone Machine (Field-Tested)": [
+		-6.15435,
+		10.5
+	],
+	"PP-Bizon | Brass (Minimal Wear)": [
+		-6.1617999999999999,
+		13.0
+	],
+	"PP-Bizon | Chemical Green (Factory New)": [
+		-6.2092600000000008,
+		10.3
+	],
+	"M4A4 | Urban DDPAT (Minimal Wear)": [
+		-6.23865,
+		7.199999999999999
+	],
+	"P90 | Shallow Grave (Field-Tested)": [
+		-6.25065,
+		18.0
+	],
+	"CZ75-Auto | Tacticat (Factory New)": [
+		-6.288099999999998,
+		12.7
+	],
+	"CZ75-Auto | Yellow Jacket (Field-Tested)": [
+		-6.297449999999998,
+		28.799999999999998
+	],
+	"MP9 | Airlock (Well-Worn)": [
+		-6.3333,
+		18.0
+	],
+	"Sawed-Off | Devourer (Battle-Scarred)": [
+		-6.357200000000002,
+		22.400000000000003
+	],
+	"FAMAS | Hexane (Field-Tested)": [
+		-6.413374999999999,
+		10.1
+	],
+	"USP-S | Para Green (Field-Tested)": [
+		-6.4153199999999999,
+		12.3
+	],
+	"XM1014 | Heaven Guard (Well-Worn)": [
+		-6.418100000000001,
+		10.8
+	],
+	"P90 | Shallow Grave (Battle-Scarred)": [
+		-6.420699999999998,
+		17.2
+	],
+	"M4A1-S | VariCamo (Minimal Wear)": [
+		-6.4618,
+		13.3
+	],
+	"P250 | Hive (Minimal Wear)": [
+		-6.472000000000001,
+		10.3
+	],
+	"Desert Eagle | Bronze Deco (Factory New)": [
+		-6.47315,
+		8.0
+	],
+	"SG 553 | Phantom (Well-Worn)": [
+		-6.484500000000001,
+		8.5
+	],
+	"AUG | Torque (Field-Tested)": [
+		-6.489899999999999,
+		12.2
+	],
+	"Glock-18 | Blue Fissure (Minimal Wear)": [
+		-6.503000000000002,
+		9.200000000000001
+	],
+	"UMP-45 | Moonrise (Factory New)": [
+		-6.541899999999999,
+		9.7
+	],
+	"AUG | Random Access (Factory New)": [
+		-6.5608,
+		24.1
+	],
+	"AUG | Stymphalian (Field-Tested)": [
+		-6.563700000000001,
+		18.3
+	],
+	"Nova | Toy Soldier (Factory New)": [
+		-6.5992999999999999,
+		16.7
+	],
+	"UMP-45 | Scaffold (Factory New)": [
+		-6.693199999999999,
+		14.5
+	],
+	"P90 | Module (Factory New)": [
+		-6.796825,
+		8.8
+	],
+	"R8 Revolver | Nitro (Factory New)": [
+		-6.805174999999999,
+		9.5
+	],
+	"Glock-18 | Candy Apple (Field-Tested)": [
+		-6.83,
+		7.7
+	],
+	"XM1014 | Bone Machine (Minimal Wear)": [
+		-6.85565,
+		17.3
+	],
+	"USP-S | Lead Conduit (Well-Worn)": [
+		-6.91526,
+		7.7
+	],
+	"SSG 08 | Tropical Storm (Field-Tested)": [
+		-6.937100000000001,
+		16.8
+	],
+	"MP7 | Orange Peel (Field-Tested)": [
+		-6.937100000000001,
+		16.8
+	],
+	"MAG-7 | Heat (Minimal Wear)": [
+		-7.004599999999998,
+		9.399999999999999
+	],
+	"SSG 08 | Dark Water (Minimal Wear)": [
+		-7.00534,
+		8.5
+	],
+	"SSG 08 | Lichen Dashed (Minimal Wear)": [
+		-7.006399999999999,
+		11.6
+	],
+	"USP-S | Flashback (Field-Tested)": [
+		-7.0634000000000018,
+		10.700000000000001
+	],
+	"CZ75-Auto | Xiangliu (Field-Tested)": [
+		-7.080549999999995,
+		37.3
+	],
+	"XM1014 | Heaven Guard (Field-Tested)": [
+		-7.0899,
+		12.8
+	],
+	"MP9 | Airlock (Field-Tested)": [
+		-7.098400000000001,
+		19.0
+	],
+	"USP-S | Night Ops (Well-Worn)": [
+		-7.1259999999999998,
+		7.3
+	],
+	"SSG 08 | Abyss (Minimal Wear)": [
+		-7.140925,
+		7.9
+	],
+	"Tec-9 | Bamboozle (Factory New)": [
+		-7.1419000000000019,
+		10.3
+	],
+	"MP9 | Setting Sun (Well-Worn)": [
+		-7.15435,
+		11.5
+	],
+	"XM1014 | Teclu Burner (Minimal Wear)": [
+		-7.163499999999999,
+		16.4
+	],
+	"USP-S | Lead Conduit (Battle-Scarred)": [
+		-7.16572,
+		7.9
+	],
+	"SSG 08 | Slashed (Well-Worn)": [
+		-7.173399999999999,
+		8.2
+	],
+	"M4A4 | Converter (Field-Tested)": [
+		-7.199399999999999,
+		22.9
+	],
+	"SSG 08 | Ghost Crusader (Well-Worn)": [
+		-7.2149,
+		9.3
+	],
+	"Desert Eagle | Meteorite (Factory New)": [
+		-7.244299999999999,
+		14.299999999999999
+	],
+	"USP-S | Check Engine (Well-Worn)": [
+		-7.2469,
+		20.7
+	],
+	"CZ75-Auto | Xiangliu (Well-Worn)": [
+		-7.260200000000001,
+		34.7
+	],
+	"Sawed-Off | Rust Coat (Minimal Wear)": [
+		-7.2715499999999999,
+		20.7
+	],
+	"Dual Berettas | Hemoglobin (Minimal Wear)": [
+		-7.278600000000003,
+		32.7
+	],
+	"MP9 | Airlock (Battle-Scarred)": [
+		-7.2816,
+		18.0
+	],
+	"FAMAS | Teardown (Minimal Wear)": [
+		-7.3081,
+		8.5
+	],
+	"Desert Eagle | Night (Well-Worn)": [
+		-7.315320000000002,
+		13.200000000000001
+	],
+	"Sawed-Off | Wasteland Princess (Battle-Scarred)": [
+		-7.3207,
+		18.1
+	],
+	"AUG | Condemned (Factory New)": [
+		-7.321200000000001,
+		8.4
+	],
+	"Dual Berettas | Marina (Minimal Wear)": [
+		-7.325099999999999,
+		20.9
+	],
+	"MP5-SD | Gauss (Factory New)": [
+		-7.341900000000001,
+		10.5
+	],
+	"AUG | Stymphalian (Minimal Wear)": [
+		-7.345049999999997,
+		30.299999999999998
+	],
+	"P90 | Chopper (Factory New)": [
+		-7.3543999999999969,
+		20.299999999999998
+	],
+	"Sawed-Off | Full Stop (Minimal Wear)": [
+		-7.3603000000000009,
+		8.5
+	],
+	"R8 Revolver | Llama Cannon (Minimal Wear)": [
+		-7.369,
+		34.6
+	],
+	"USP-S | Royal Blue (Field-Tested)": [
+		-7.371550000000001,
+		20.8
+	],
+	"FAMAS | Hexane (Minimal Wear)": [
+		-7.372000000000001,
+		11.200000000000001
+	],
+	"SSG 08 | Ghost Crusader (Battle-Scarred)": [
+		-7.3759,
+		9.200000000000001
+	],
+	"SG 553 | Fallout Warning (Minimal Wear)": [
+		-7.39522,
+		10
+	],
+	"SSG 08 | Bloodshot (Field-Tested)": [
+		-7.40165,
+		30.2
+	],
+	"Nova | Forest Leaves (Minimal Wear)": [
+		-7.4064,
+		12.0
+	],
+	"P250 | Hive (Field-Tested)": [
+		-7.413375000000002,
+		11.100000000000002
+	],
+	"M4A4 | Converter (Minimal Wear)": [
+		-7.414700000000002,
+		27.3
+	],
+	"MP9 | Hydra (Minimal Wear)": [
+		-7.450799999999997,
+		53.7
+	],
+	"Sawed-Off | Rust Coat (Field-Tested)": [
+		-7.471549999999999,
+		20.9
+	],
+	"P2000 | Woodsman (Well-Worn)": [
+		-7.5215,
+		16.7
+	],
+	"PP-Bizon | Antique (Factory New)": [
+		-7.528,
+		18.2
+	],
+	"CZ75-Auto | Tuxedo (Factory New)": [
+		-7.5443,
+		14.6
+	],
+	"AUG | Ricochet (Well-Worn)": [
+		-7.563199999999998,
+		8.7
+	],
+	"Glock-18 | Weasel (Minimal Wear)": [
+		-7.5768,
+		10.5
+	],
+	"SSG 08 | Slashed (Field-Tested)": [
+		-7.57765,
+		8.8
+	],
+	"P90 | Nostalgia (Field-Tested)": [
+		-7.593050000000002,
+		38.9
+	],
+	"FAMAS | Hexane (Well-Worn)": [
+		-7.6027000000000009,
+		10.9
+	],
+	"MAG-7 | SWAG-7 (Factory New)": [
+		-7.607099999999997,
+		16.599999999999999
+	],
+	"Five-SeveN | Silver Quartz (Minimal Wear)": [
+		-7.6081,
+		8.8
+	],
+	"Tec-9 | Blue Titanium (Factory New)": [
+		-7.655675000000001,
+		13.700000000000001
+	],
+	"CZ75-Auto | Tuxedo (Minimal Wear)": [
+		-7.685500000000001,
+		10.600000000000002
+	],
+	"AUG | Radiation Hazard (Factory New)": [
+		-7.70926,
+		11.799999999999999
+	],
+	"G3SG1 | Flux (Well-Worn)": [
+		-7.745699999999999,
+		29.4
+	],
+	"Desert Eagle | Bronze Deco (Battle-Scarred)": [
+		-7.777950000000001,
+		8.4
+	],
+	"UMP-45 | Arctic Wolf (Factory New)": [
+		-7.807100000000001,
+		16.8
+	],
+	"CZ75-Auto | Xiangliu (Minimal Wear)": [
+		-7.8108,
+		47.1
+	],
+	"SSG 08 | Hand Brake (Battle-Scarred)": [
+		-7.8282000000000029,
+		18.1
+	],
+	"Galil AR | Tuxedo (Factory New)": [
+		-7.8443000000000009,
+		14.9
+	],
+	"MAG-7 | Silver (Factory New)": [
+		-7.871549999999997,
+		21.299999999999998
+	],
+	"P90 | Teardown (Minimal Wear)": [
+		-7.882500000000001,
+		8.100000000000002
+	],
+	"Galil AR | Tuxedo (Minimal Wear)": [
+		-7.8855,
+		10.8
+	],
+	"Glock-18 | Moonrise (Factory New)": [
+		-7.907099999999998,
+		16.9
+	],
+	"Desert Eagle | Urban Rubble (Minimal Wear)": [
+		-7.917300000000002,
+		8.100000000000002
+	],
+	"Sawed-Off | Amber Fade (Minimal Wear)": [
+		-7.917300000000002,
+		8.100000000000002
+	],
+	"PP-Bizon | Antique (Well-Worn)": [
+		-7.918100000000001,
+		12.3
+	],
+	"Tec-9 | Toxic (Well-Worn)": [
+		-7.954350000000001,
+		12.3
+	],
+	"P250 | Hive (Factory New)": [
+		-7.955675000000001,
+		14.0
+	],
+	"Glock-18 | Candy Apple (Minimal Wear)": [
+		-7.9603,
+		9.1
+	],
+	"USP-S | Night Ops (Minimal Wear)": [
+		-7.982499999999999,
+		8.2
+	],
+	"Desert Eagle | Meteorite (Minimal Wear)": [
+		-7.9855,
+		10.9
+	],
+	"Glock-18 | Grinder (Field-Tested)": [
+		-7.9999,
+		11.100000000000002
+	],
+	"USP-S | Blood Tiger (Minimal Wear)": [
+		-8.0373,
+		11.7
+	],
+	"Dual Berettas | Hemoglobin (Field-Tested)": [
+		-8.0786,
+		33.5
+	],
+	"M4A1-S | Basilisk (Field-Tested)": [
+		-8.099900000000002,
+		11.200000000000001
+	],
+	"UMP-45 | Delusion (Factory New)": [
+		-8.117875,
+		11.5
+	],
+	"XM1014 | Bone Machine (Battle-Scarred)": [
+		-8.1292,
+		10.600000000000002
+	],
+	"FAMAS | Cyanospatter (Factory New)": [
+		-8.157499999999999,
+		9.1
+	],
+	"Nova | Green Apple (Factory New)": [
+		-8.171550000000002,
+		21.6
+	],
+	"USP-S | Lead Conduit (Minimal Wear)": [
+		-8.174840000000002,
+		9.8
+	],
+	"M4A1-S | Flashback (Minimal Wear)": [
+		-8.189800000000002,
+		11.200000000000001
+	],
+	"SG 553 | Aerial (Factory New)": [
+		-8.236360000000002,
+		10.3
+	],
+	"M4A1-S | Leaded Glass (Field-Tested)": [
+		-8.255850000000003,
+		27.0
+	],
+	"Nova | Green Apple (Minimal Wear)": [
+		-8.27155,
+		21.7
+	],
+	"USP-S | Flashback (Factory New)": [
+		-8.287700000000001,
+		15.5
+	],
+	"Desert Eagle | Meteorite (Field-Tested)": [
+		-8.3078,
+		10.1
+	],
+	"SSG 08 | Ghost Crusader (Field-Tested)": [
+		-8.3117,
+		11.0
+	],
+	"Desert Eagle | Night (Field-Tested)": [
+		-8.315319999999998,
+		14.2
+	],
+	"MP9 | Setting Sun (Field-Tested)": [
+		-8.35435,
+		12.7
+	],
+	"AUG | Torque (Minimal Wear)": [
+		-8.3581,
+		16.8
+	],
+	"M4A1-S | VariCamo (Factory New)": [
+		-8.361799999999999,
+		15.2
+	],
+	"SG 553 | Triarch (Minimal Wear)": [
+		-8.3768,
+		11.299999999999999
+	],
+	"Negev | Bratatat (Minimal Wear)": [
+		-8.4373,
+		12.1
+	],
+	"Sawed-Off | Limelight (Factory New)": [
+		-8.454400000000002,
+		21.400000000000003
+	],
+	"MP7 | Anodized Navy (Minimal Wear)": [
+		-8.4603,
+		9.6
+	],
+	"Desert Eagle | Naga (Minimal Wear)": [
+		-8.461099999999999,
+		16.7
+	],
+	"XM1014 | Bone Machine (Factory New)": [
+		-8.599199999999997,
+		27.599999999999999
+	],
+	"Tec-9 | Toxic (Battle-Scarred)": [
+		-8.6292,
+		11.100000000000002
+	],
+	"MP9 | Hydra (Field-Tested)": [
+		-8.693050000000003,
+		40
+	],
+	"USP-S | Para Green (Well-Worn)": [
+		-8.715319999999999,
+		14.6
+	],
+	"FAMAS | Eye of Athena (Minimal Wear)": [
+		-8.835049999999998,
+		43.099999999999997
+	],
+	"MAC-10 | Heat (Minimal Wear)": [
+		-8.853100000000002,
+		15.700000000000001
+	],
+	"CZ75-Auto | Tigris (Factory New)": [
+		-8.860800000000002,
+		14.8
+	],
+	"MP7 | Nemesis (Minimal Wear)": [
+		-8.891750000000006,
+		42.800000000000007
+	],
+	"AK-47 | Uncharted (Well-Worn)": [
+		-8.90994,
+		9.9
+	],
+	"PP-Bizon | Antique (Battle-Scarred)": [
+		-8.913800000000002,
+		13.200000000000001
+	],
+	"PP-Bizon | Photic Zone (Factory New)": [
+		-8.9378,
+		11.6
+	],
+	"Tec-9 | Fuel Injector (Battle-Scarred)": [
+		-8.9816,
+		19.7
+	],
+	"SSG 08 | Big Iron (Field-Tested)": [
+		-9.03905,
+		35.3
+	],
+	"Five-SeveN | Fowl Play (Field-Tested)": [
+		-9.05265,
+		16.8
+	],
+	"G3SG1 | Flux (Battle-Scarred)": [
+		-9.063749999999999,
+		29.4
+	],
+	"P2000 | Imperial Dragon (Battle-Scarred)": [
+		-9.099600000000003,
+		18.6
+	],
+	"UMP-45 | Bone Pile (Minimal Wear)": [
+		-9.176074999999998,
+		17.9
+	],
+	"USP-S | Check Engine (Factory New)": [
+		-9.180000000000002,
+		31.8
+	],
+	"Nova | Rising Skull (Minimal Wear)": [
+		-9.225099999999998,
+		22.799999999999998
+	],
+	"XM1014 | Bone Machine (Well-Worn)": [
+		-9.254350000000003,
+		13.600000000000002
+	],
+	"M4A1-S | Basilisk (Minimal Wear)": [
+		-9.359399999999999,
+		15.2
+	],
+	"SCAR-20 | Cardiac (Well-Worn)": [
+		-9.427950000000001,
+		23.1
+	],
+	"AUG | Stymphalian (Factory New)": [
+		-9.498150000000003,
+		56.7
+	],
+	"Five-SeveN | Hot Shot (Factory New)": [
+		-9.509260000000002,
+		13.600000000000002
+	],
+	"CZ75-Auto | Crimson Web (Minimal Wear)": [
+		-9.603000000000002,
+		12.3
+	],
+	"MP7 | Anodized Navy (Factory New)": [
+		-9.660300000000002,
+		10.8
+	],
+	"Tec-9 | Avalanche (Minimal Wear)": [
+		-9.663499999999999,
+		18.9
+	],
+	"SG 553 | Anodized Navy (Minimal Wear)": [
+		-9.682500000000001,
+		9.9
+	],
+	"XM1014 | Heaven Guard (Battle-Scarred)": [
+		-9.713799999999999,
+		14.0
+	],
+	"AUG | Momentum (Field-Tested)": [
+		-9.732,
+		24.0
+	],
+	"Dual Berettas | Dualing Dragons (Factory New)": [
+		-9.75505,
+		12.7
+	],
+	"PP-Bizon | Fuel Rod (Minimal Wear)": [
+		-9.7635,
+		19.0
+	],
+	"Five-SeveN | Silver Quartz (Factory New)": [
+		-9.8081,
+		11.0
+	],
+	"Desert Eagle | Mudder (Factory New)": [
+		-9.857500000000002,
+		10.8
+	],
+	"MAC-10 | Tatter (Well-Worn)": [
+		-9.9181,
+		14.299999999999999
+	],
+	"USP-S | Guardian (Minimal Wear)": [
+		-9.953100000000001,
+		16.8
+	],
+	"AUG | Stymphalian (Well-Worn)": [
+		-9.9637,
+		21.7
+	],
+	"M4A4 | Converter (Factory New)": [
+		-9.979999999999995,
+		32.599999999999997
+	],
+	"Sawed-Off | Wasteland Princess (Well-Worn)": [
+		-9.986249999999999,
+		20.099999999999999
+	],
+	"MAG-7 | Seabird (Factory New)": [
+		-10.023299999999999,
+		12.7
+	],
+	"PP-Bizon | Brass (Factory New)": [
+		-10.061799999999998,
+		16.9
+	],
+	"Galil AR | Urban Rubble (Minimal Wear)": [
+		-10.068660000000002,
+		17.1
+	],
+	"XM1014 | Black Tie (Factory New)": [
+		-10.075100000000003,
+		22.200000000000004
+	],
+	"Galil AR | Kami (Factory New)": [
+		-10.096824999999999,
+		12.1
+	],
+	"G3SG1 | Flux (Field-Tested)": [
+		-10.139050000000001,
+		36.4
+	],
+	"Sawed-Off | Full Stop (Factory New)": [
+		-10.1603,
+		11.299999999999999
+	],
+	"FAMAS | Djinn (Field-Tested)": [
+		-10.16565,
+		18.0
+	],
+	"FAMAS | Valence (Battle-Scarred)": [
+		-10.171600000000002,
+		14.8
+	],
+	"G3SG1 | The Executioner (Field-Tested)": [
+		-10.178500000000004,
+		18.400000000000003
+	],
+	"P250 | Cartel (Battle-Scarred)": [
+		-10.19655,
+		25.8
+	],
+	"MP9 | Hydra (Battle-Scarred)": [
+		-10.221300000000002,
+		28.5
+	],
+	"M249 | Impact Drill (Factory New)": [
+		-10.223300000000002,
+		12.9
+	],
+	"USP-S | Blood Tiger (Field-Tested)": [
+		-10.305339999999998,
+		11.799999999999999
+	],
+	"SSG 08 | Tropical Storm (Minimal Wear)": [
+		-10.3266,
+		20.9
+	],
+	"SG 553 | Gator Mesh (Field-Tested)": [
+		-10.3371,
+		20.2
+	],
+	"Dual Berettas | Royal Consorts (Factory New)": [
+		-10.3457,
+		14.6
+	],
+	"SG 553 | Anodized Navy (Factory New)": [
+		-10.382500000000002,
+		10.600000000000002
+	],
+	"USP-S | Torque (Field-Tested)": [
+		-10.493259999999998,
+		11.799999999999999
+	],
+	"XM1014 | Teclu Burner (Factory New)": [
+		-10.534900000000003,
+		24.8
+	],
+	"SG 553 | Ultraviolet (Battle-Scarred)": [
+		-10.5674,
+		26.5
+	],
+	"Dual Berettas | Hemoglobin (Factory New)": [
+		-10.5786,
+		36.0
+	],
+	"Glock-18 | Candy Apple (Factory New)": [
+		-10.6603,
+		11.799999999999999
+	],
+	"Five-SeveN | Case Hardened (Well-Worn)": [
+		-10.663499999999999,
+		31.5
+	],
+	"USP-S | Night Ops (Factory New)": [
+		-10.682500000000001,
+		10.9
+	],
+	"FAMAS | Djinn (Battle-Scarred)": [
+		-10.683599999999999,
+		17.4
+	],
+	"AUG | Arctic Wolf (Minimal Wear)": [
+		-10.694499999999998,
+		18.799999999999998
+	],
+	"FAMAS | Teardown (Factory New)": [
+		-10.708099999999999,
+		11.899999999999999
+	],
+	"Sawed-Off | Amber Fade (Factory New)": [
+		-10.7173,
+		10.9
+	],
+	"P2000 | Imperial Dragon (Field-Tested)": [
+		-10.72655,
+		18.5
+	],
+	"AUG | Stymphalian (Battle-Scarred)": [
+		-10.765999999999999,
+		17.9
+	],
+	"P90 | Teardown (Factory New)": [
+		-10.7825,
+		11.0
+	],
+	"SCAR-20 | Storm (Factory New)": [
+		-10.842350000000004,
+		13.100000000000002
+	],
+	"P90 | Grim (Factory New)": [
+		-10.916400000000002,
+		12.9
+	],
+	"Nova | Antique (Minimal Wear)": [
+		-10.941450000000004,
+		41.1
+	],
+	"G3SG1 | The Executioner (Well-Worn)": [
+		-10.9572,
+		18.3
+	],
+	"Five-SeveN | Monkey Business (Well-Worn)": [
+		-10.97045,
+		17.9
+	],
+	"FAMAS | Djinn (Well-Worn)": [
+		-10.97045,
+		17.9
+	],
+	"Desert Eagle | Urban Rubble (Factory New)": [
+		-11.0173,
+		11.200000000000001
+	],
+	"Sawed-Off | Rust Coat (Factory New)": [
+		-11.07155,
+		24.5
+	],
+	"CZ75-Auto | Red Astor (Factory New)": [
+		-11.075099999999999,
+		23.2
+	],
+	"P90 | Shallow Grave (Well-Worn)": [
+		-11.086250000000004,
+		21.200000000000004
+	],
+	"SG 553 | Damascus Steel (Factory New)": [
+		-11.1618,
+		18.0
+	],
+	"M4A1-S | Nightmare (Well-Worn)": [
+		-11.24565,
+		33.0
+	],
+	"Glock-18 | Blue Fissure (Well-Worn)": [
+		-11.270825000000002,
+		13.100000000000002
+	],
+	"SG 553 | Phantom (Factory New)": [
+		-11.288099999999999,
+		17.7
+	],
+	"Sawed-Off | Wasteland Princess (Minimal Wear)": [
+		-11.29225,
+		26.8
+	],
+	"Dual Berettas | Marina (Well-Worn)": [
+		-11.3127,
+		20.7
+	],
+	"P90 | Blind Spot (Factory New)": [
+		-11.316299999999999,
+		30.9
+	],
+	"Five-SeveN | Fowl Play (Well-Worn)": [
+		-11.32755,
+		17.1
+	],
+	"MAC-10 | Tatter (Factory New)": [
+		-11.328000000000002,
+		22.0
+	],
+	"P2000 | Coach Class (Field-Tested)": [
+		-11.335099999999999,
+		19.4
+	],
+	"Desert Eagle | Light Rail (Field-Tested)": [
+		-11.351300000000002,
+		13.100000000000002
+	],
+	"P250 | Wingshot (Factory New)": [
+		-11.355699999999999,
+		30.4
+	],
+	"MP7 | Nemesis (Field-Tested)": [
+		-11.39745,
+		33.9
+	],
+	"G3SG1 | The Executioner (Battle-Scarred)": [
+		-11.418550000000002,
+		17.8
+	],
+	"FAMAS | Mecha Industries (Field-Tested)": [
+		-11.550650000000001,
+		23.3
+	],
+	"USP-S | Para Green (Minimal Wear)": [
+		-11.568660000000002,
+		18.6
+	],
+	"P90 | Leather (Field-Tested)": [
+		-11.6351,
+		19.7
+	],
+	"P90 | Shapewood (Well-Worn)": [
+		-11.6572,
+		19.0
+	],
+	"Five-SeveN | Monkey Business (Field-Tested)": [
+		-11.76565,
+		19.6
+	],
+	"P90 | Shapewood (Field-Tested)": [
+		-11.778500000000001,
+		20
+	],
+	"SSG 08 | Hand Brake (Factory New)": [
+		-11.88,
+		34.5
+	],
+	"CZ75-Auto | Nitro (Field-Tested)": [
+		-11.880349999999997,
+		25.099999999999999
+	],
+	"AUG | Death by Puppy (Factory New)": [
+		-11.9265,
+		72.0
+	],
+	"AK-47 | Uncharted (Factory New)": [
+		-11.92788,
+		15.3
+	],
+	"Sawed-Off | Devourer (Minimal Wear)": [
+		-11.935050000000006,
+		46.2
+	],
+	"FAMAS | Valence (Field-Tested)": [
+		-11.959800000000002,
+		17.0
+	],
+	"P90 | Elite Build (Factory New)": [
+		-12.017019999999999,
+		14.5
+	],
+	"SG 553 | Gator Mesh (Minimal Wear)": [
+		-12.026599999999999,
+		22.599999999999999
+	],
+	"Five-SeveN | Monkey Business (Battle-Scarred)": [
+		-12.083599999999997,
+		18.799999999999998
+	],
+	"USP-S | Forest Leaves (Factory New)": [
+		-12.121200000000002,
+		13.200000000000001
+	],
+	"CZ75-Auto | Nitro (Minimal Wear)": [
+		-12.125,
+		31.7
+	],
+	"P90 | Shallow Grave (Minimal Wear)": [
+		-12.192249999999998,
+		27.7
+	],
+	"SCAR-20 | Bloodsport (Field-Tested)": [
+		-12.22655,
+		20
+	],
+	"FAMAS | Sundown (Field-Tested)": [
+		-12.237100000000004,
+		36.6
+	],
+	"Glock-18 | Steel Disruption (Field-Tested)": [
+		-12.2591,
+		15.8
+	],
+	"M4A1-S | Leaded Glass (Battle-Scarred)": [
+		-12.313999999999999,
+		27.799999999999998
+	],
+	"P90 | Shapewood (Battle-Scarred)": [
+		-12.418549999999998,
+		18.799999999999998
+	],
+	"Nova | Rising Skull (Factory New)": [
+		-12.430099999999996,
+		27.599999999999999
+	],
+	"Nova | Hyper Beast (Battle-Scarred)": [
+		-12.472199999999998,
+		33.3
+	],
+	"Galil AR | Firefight (Factory New)": [
+		-12.475100000000002,
+		24.6
+	],
+	"MP9 | Deadly Poison (Factory New)": [
+		-12.492375000000001,
+		14.7
+	],
+	"Tec-9 | Fuel Injector (Minimal Wear)": [
+		-12.522299999999998,
+		28.799999999999998
+	],
+	"Galil AR | Stone Cold (Minimal Wear)": [
+		-12.578700000000002,
+		23.3
+	],
+	"SG 553 | Traveler (Field-Tested)": [
+		-12.635099999999998,
+		20.7
+	],
+	"MAC-10 | Heat (Factory New)": [
+		-12.721000000000004,
+		28.700000000000004
+	],
+	"FAMAS | Hexane (Factory New)": [
+		-12.755674999999999,
+		18.799999999999998
+	],
+	"CZ75-Auto | Yellow Jacket (Minimal Wear)": [
+		-12.791750000000004,
+		46.7
+	],
+	"XM1014 | VariCamo Blue (Minimal Wear)": [
+		-12.825000000000007,
+		32.400000000000009
+	],
+	"AUG | Death by Puppy (Field-Tested)": [
+		-12.893050000000006,
+		44.2
+	],
+	"MP7 | Skulls (Minimal Wear)": [
+		-12.8948,
+		29.1
+	],
+	"USP-S | Torque (Well-Worn)": [
+		-12.92212,
+		13.899999999999999
+	],
+	"Galil AR | Sandstorm (Minimal Wear)": [
+		-12.937349999999999,
+		16.5
+	],
+	"Galil AR | Eco (Battle-Scarred)": [
+		-12.9836,
+		19.7
+	],
+	"P90 | Trigon (Field-Tested)": [
+		-13.035599999999999,
+		37.5
+	],
+	"Galil AR | Rocket Pop (Minimal Wear)": [
+		-13.049359999999999,
+		15.2
+	],
+	"SSG 08 | Acid Fade (Factory New)": [
+		-13.108099999999999,
+		14.299999999999999
+	],
+	"Five-SeveN | Case Hardened (Battle-Scarred)": [
+		-13.194850000000003,
+		32.2
+	],
+	"Desert Eagle | Mecha Industries (Field-Tested)": [
+		-13.240400000000003,
+		45.5
+	],
+	"USP-S | Torque (Minimal Wear)": [
+		-13.249360000000002,
+		15.4
+	],
+	"AWP | Phobos (Factory New)": [
+		-13.254400000000004,
+		26.200000000000004
+	],
+	"SSG 08 | Detour (Field-Tested)": [
+		-13.280349999999999,
+		26.5
+	],
+	"P90 | Nostalgia (Factory New)": [
+		-13.326500000000007,
+		73.4
+	],
+	"USP-S | Blood Tiger (Factory New)": [
+		-13.3373,
+		17.0
+	],
+	"SG 553 | Ultraviolet (Field-Tested)": [
+		-13.494800000000005,
+		29.700000000000004
+	],
+	"AWP | Phobos (Field-Tested)": [
+		-13.541,
+		18.5
+	],
+	"M249 | Nebula Crusader (Factory New)": [
+		-13.555699999999995,
+		32.599999999999997
+	],
+	"Desert Eagle | Corinthian (Well-Worn)": [
+		-13.563199999999999,
+		14.7
+	],
+	"FAMAS | Mecha Industries (Battle-Scarred)": [
+		-13.586250000000004,
+		23.700000000000004
+	],
+	"AWP | Phobos (Minimal Wear)": [
+		-13.640799999999999,
+		21.9
+	],
+	"M4A1-S | Nightmare (Battle-Scarred)": [
+		-13.657200000000004,
+		29.700000000000004
+	],
+	"AUG | Arctic Wolf (Well-Worn)": [
+		-13.6724,
+		16.7
+	],
+	"SG 553 | Pulse (Field-Tested)": [
+		-13.673599999999997,
+		20.099999999999999
+	],
+	"SCAR-20 | Bloodsport (Well-Worn)": [
+		-13.687550000000002,
+		21.200000000000004
+	],
+	"MP7 | Nemesis (Factory New)": [
+		-13.8001,
+		65.8
+	],
+	"MP7 | Skulls (Field-Tested)": [
+		-13.894799999999997,
+		30.099999999999999
+	],
+	"Desert Eagle | Directive (Minimal Wear)": [
+		-13.976799999999998,
+		16.9
+	],
+	"CZ75-Auto | Eco (Factory New)": [
+		-13.999300000000002,
+		24.1
+	],
+	"Desert Eagle | Mecha Industries (Minimal Wear)": [
+		-14.113300000000006,
+		57.1
+	],
+	"FAMAS | Mecha Industries (Well-Worn)": [
+		-14.286249999999999,
+		24.4
+	],
+	"AUG | Bengal Tiger (Field-Tested)": [
+		-14.426949999999998,
+		30.099999999999999
+	],
+	"SCAR-20 | Cardiac (Field-Tested)": [
+		-14.427950000000001,
+		28.1
+	],
+	"M4A1-S | Leaded Glass (Minimal Wear)": [
+		-14.469000000000002,
+		41.7
+	],
+	"M4A1-S | Blood Tiger (Minimal Wear)": [
+		-14.572000000000001,
+		18.400000000000003
+	],
+	"P2000 | Woodsman (Factory New)": [
+		-14.744599999999995,
+		35.699999999999999
+	],
+	"FAMAS | Djinn (Minimal Wear)": [
+		-14.8973,
+		29.0
+	],
+	"AWP | Worm God (Factory New)": [
+		-14.9255,
+		24.8
+	],
+	"P90 | Storm (Factory New)": [
+		-15.04235,
+		17.3
+	],
+	"USP-S | Cyrex (Battle-Scarred)": [
+		-15.0861,
+		16.8
+	],
+	"P2000 | Imperial Dragon (Well-Worn)": [
+		-15.087549999999997,
+		22.599999999999999
+	],
+	"AUG | Wings (Factory New)": [
+		-15.0948,
+		31.299999999999998
+	],
+	"AUG | Torque (Factory New)": [
+		-15.128000000000004,
+		25.8
+	],
+	"Five-SeveN | Fowl Play (Minimal Wear)": [
+		-15.215899999999998,
+		26.9
+	],
+	"CZ75-Auto | Xiangliu (Factory New)": [
+		-15.284049999999994,
+		64.6
+	],
+	"SSG 08 | Detour (Minimal Wear)": [
+		-15.325000000000007,
+		34.900000000000009
+	],
+	"P250 | Cartel (Field-Tested)": [
+		-15.32795,
+		29.0
+	],
+	"XM1014 | Heaven Guard (Factory New)": [
+		-15.427999999999998,
+		26.099999999999999
+	],
+	"P90 | Shapewood (Minimal Wear)": [
+		-15.4508,
+		35.6
+	],
+	"P2000 | Handgun (Factory New)": [
+		-15.455200000000002,
+		29.700000000000004
+	],
+	"M4A1-S | Decimator (Field-Tested)": [
+		-15.480550000000001,
+		45.7
+	],
+	"M4A1-S | Blood Tiger (Field-Tested)": [
+		-15.513374999999999,
+		19.2
+	],
+	"MAC-10 | Red Filigree (Battle-Scarred)": [
+		-15.531900000000008,
+		125.7
+	],
+	"UMP-45 | Indigo (Factory New)": [
+		-15.54235,
+		17.8
+	],
+	"SCAR-20 | Bloodsport (Minimal Wear)": [
+		-15.620099999999998,
+		27.599999999999999
+	],
+	"Nova | Antique (Field-Tested)": [
+		-15.624349999999997,
+		45.199999999999999
+	],
+	"P250 | Red Rock (Factory New)": [
+		-15.644600000000003,
+		36.6
+	],
+	"M4A4 | Converter (Well-Worn)": [
+		-15.646900000000003,
+		29.1
+	],
+	"AWP | Worm God (Field-Tested)": [
+		-15.723600000000002,
+		17.8
+	],
+	"Tec-9 | Avalanche (Factory New)": [
+		-15.734900000000004,
+		30
+	],
+	"P2000 | Imperial Dragon (Minimal Wear)": [
+		-15.820099999999997,
+		27.799999999999998
+	],
+	"MP9 | Setting Sun (Minimal Wear)": [
+		-15.855649999999998,
+		26.299999999999998
+	],
+	"Galil AR | Eco (Well-Worn)": [
+		-15.870449999999999,
+		22.799999999999998
+	],
+	"M4A4 | Jungle Tiger (Field-Tested)": [
+		-15.921499999999999,
+		16.4
+	],
+	"XM1014 | Tranquility (Battle-Scarred)": [
+		-15.927950000000001,
+		29.6
+	],
+	"Sawed-Off | Devourer (Factory New)": [
+		-16.181049999999993,
+		80.19999999999999
+	],
+	"USP-S | Cyrex (Field-Tested)": [
+		-16.3193,
+		18.3
+	],
+	"AWP | Worm God (Minimal Wear)": [
+		-16.404599999999996,
+		18.799999999999998
+	],
+	"USP-S | Torque (Factory New)": [
+		-16.51702,
+		19.0
+	],
+	"M4A4 | Jungle Tiger (Battle-Scarred)": [
+		-16.5215,
+		17.0
+	],
+	"SSG 08 | Ghost Crusader (Minimal Wear)": [
+		-16.7633,
+		20.6
+	],
+	"SG 553 | Ultraviolet (Well-Worn)": [
+		-16.767400000000003,
+		32.7
+	],
+	"Nova | Graphite (Factory New)": [
+		-16.778599999999999,
+		42.199999999999999
+	],
+	"AUG | Wings (Minimal Wear)": [
+		-16.7948,
+		33.0
+	],
+	"M4A1-S | Blood Tiger (Factory New)": [
+		-16.955675,
+		23.0
+	],
+	"FAMAS | Mecha Industries (Minimal Wear)": [
+		-16.99225,
+		32.5
+	],
+	"AWP | PAW (Field-Tested)": [
+		-17.0624,
+		19.8
+	],
+	"MAC-10 | Nuclear Garden (Field-Tested)": [
+		-17.55435,
+		21.9
+	],
+	"FAMAS | Valence (Well-Worn)": [
+		-17.7845,
+		22.7
+	],
+	"M4A1-S | Decimator (Battle-Scarred)": [
+		-17.918099999999993,
+		42.599999999999997
+	],
+	"SSG 08 | Necropos (Factory New)": [
+		-17.937800000000004,
+		20.6
+	],
+	"FAMAS | Sergeant (Minimal Wear)": [
+		-17.9531,
+		24.8
+	],
+	"Desert Eagle | Light Rail (Minimal Wear)": [
+		-18.284599999999999,
+		20.099999999999999
+	],
+	"M4A1-S | Boreal Forest (Factory New)": [
+		-18.316900000000005,
+		19.3
+	],
+	"Nova | Hyper Beast (Field-Tested)": [
+		-18.504800000000004,
+		43.7
+	],
+	"MP9 | Airlock (Minimal Wear)": [
+		-18.522299999999999,
+		34.8
+	],
+	"AK-47 | Emerald Pinstripe (Battle-Scarred)": [
+		-18.5387,
+		19.4
+	],
+	"AK-47 | Emerald Pinstripe (Well-Worn)": [
+		-18.7387,
+		19.6
+	],
+	"M4A1-S | Nightmare (Field-Tested)": [
+		-18.86665,
+		42.1
+	],
+	"P250 | Cartel (Well-Worn)": [
+		-18.927949999999997,
+		32.599999999999997
+	],
+	"AWP | Worm God (Well-Worn)": [
+		-19.0006,
+		20.7
+	],
+	"XM1014 | Tranquility (Field-Tested)": [
+		-19.027950000000005,
+		32.7
+	],
+	"AWP | Elite Build (Well-Worn)": [
+		-19.0504,
+		40
+	],
+	"AWP | Elite Build (Field-Tested)": [
+		-19.104799999999999,
+		44.3
+	],
+	"R8 Revolver | Llama Cannon (Factory New)": [
+		-19.14445,
+		69.4
+	],
+	"AWP | PAW (Battle-Scarred)": [
+		-19.3539,
+		21.7
+	],
+	"AK-47 | Emerald Pinstripe (Field-Tested)": [
+		-19.4429,
+		20.6
+	],
+	"R8 Revolver | Reboot (Factory New)": [
+		-19.454400000000008,
+		32.400000000000009
+	],
+	"MAC-10 | Nuclear Garden (Well-Worn)": [
+		-19.55435,
+		23.900000000000003
+	],
+	"P250 | Cartel (Minimal Wear)": [
+		-19.694350000000005,
+		39.7
+	],
+	"MP9 | Hypnotic (Factory New)": [
+		-19.778599999999999,
+		45.199999999999999
+	],
+	"M4A4 | Zirka (Field-Tested)": [
+		-19.947899999999998,
+		72.0
+	],
+	"MP5-SD | Agent (Factory New)": [
+		-20.3399,
+		27.5
+	],
+	"AWP | Elite Build (Battle-Scarred)": [
+		-20.41155,
+		40.8
+	],
+	"M4A1-S | Basilisk (Factory New)": [
+		-20.4604,
+		30.099999999999999
+	],
+	"FAMAS | Pulse (Minimal Wear)": [
+		-20.525100000000003,
+		34.1
+	],
+	"Galil AR | Urban Rubble (Factory New)": [
+		-20.66866,
+		27.7
+	],
+	"Five-SeveN | Case Hardened (Field-Tested)": [
+		-20.678600000000004,
+		46.1
+	],
+	"M4A4 | Magnesium (Factory New)": [
+		-20.86818,
+		21.9
+	],
+	"M4A1-S | Atomic Alloy (Well-Worn)": [
+		-20.8977,
+		42.9
+	],
+	"AUG | Syd Mead (Minimal Wear)": [
+		-20.922300000000005,
+		37.2
+	],
+	"MP7 | Gunsmoke (Factory New)": [
+		-21.0154,
+		25.0
+	],
+	"FAMAS | Valence (Minimal Wear)": [
+		-21.021800000000004,
+		29.6
+	],
+	"MAG-7 | Heat (Factory New)": [
+		-21.0255,
+		30.9
+	],
+	"Desert Eagle | Night (Minimal Wear)": [
+		-21.06866,
+		28.1
+	],
+	"USP-S | Cyrex (Well-Worn)": [
+		-21.286099999999999,
+		23.0
+	],
+	"USP-S | Stainless (Battle-Scarred)": [
+		-21.327325000000003,
+		23.2
+	],
+	"AUG | Bengal Tiger (Well-Worn)": [
+		-21.36345,
+		33.6
+	],
+	"G3SG1 | Flux (Minimal Wear)": [
+		-21.46635,
+		62.699999999999999
+	],
+	"M4A1-S | Leaded Glass (Well-Worn)": [
+		-21.609150000000004,
+		38.1
+	],
+	"SG 553 | Gator Mesh (Factory New)": [
+		-21.626600000000005,
+		32.2
+	],
+	"XM1014 | Tranquility (Well-Worn)": [
+		-21.62795,
+		35.3
+	],
+	"SCAR-20 | Cardiac (Minimal Wear)": [
+		-21.794349999999999,
+		41.8
+	],
+	"M4A1-S | Flashback (Factory New)": [
+		-21.945700000000003,
+		26.200000000000004
+	],
+	"Nova | Hyper Beast (Minimal Wear)": [
+		-22.091499999999998,
+		56.5
+	],
+	"MP9 | Hypnotic (Minimal Wear)": [
+		-22.278599999999999,
+		47.699999999999999
+	],
+	"AWP | PAW (Well-Worn)": [
+		-22.3263,
+		24.8
+	],
+	"Tec-9 | Isaac (Factory New)": [
+		-22.496825,
+		24.5
+	],
+	"Five-SeveN | Fowl Play (Factory New)": [
+		-22.533199999999995,
+		43.099999999999997
+	],
+	"M4A4 | Jungle Tiger (Well-Worn)": [
+		-22.8215,
+		23.3
+	],
+	"USP-S | Stainless (Field-Tested)": [
+		-22.833549999999997,
+		25.299999999999998
+	],
+	"Nova | Hyper Beast (Well-Worn)": [
+		-22.850399999999998,
+		43.8
+	],
+	"SSG 08 | Big Iron (Minimal Wear)": [
+		-22.866349999999998,
+		64.1
+	],
+	"USP-S | Lead Conduit (Factory New)": [
+		-22.937800000000004,
+		25.6
+	],
+	"M4A1-S | Basilisk (Well-Worn)": [
+		-22.9408,
+		25.4
+	],
+	"MAC-10 | Nuclear Garden (Minimal Wear)": [
+		-22.95565,
+		33.4
+	],
+	"USP-S | Royal Blue (Minimal Wear)": [
+		-22.97155,
+		36.4
+	],
+	"AWP | Safari Mesh (Factory New)": [
+		-23.0575,
+		24.0
+	],
+	"PP-Bizon | Fuel Rod (Factory New)": [
+		-23.234900000000004,
+		37.5
+	],
+	"SG 553 | Tornado (Minimal Wear)": [
+		-23.317099999999998,
+		41.3
+	],
+	"SCAR-20 | Cyrex (Field-Tested)": [
+		-23.3977,
+		45.4
+	],
+	"SG 553 | Pulse (Well-Worn)": [
+		-23.473600000000006,
+		29.900000000000003
+	],
+	"USP-S | Overgrowth (Well-Worn)": [
+		-23.9479,
+		76.0
+	],
+	"MAC-10 | Red Filigree (Well-Worn)": [
+		-24.01039999999999,
+		151.1
+	],
+	"Glock-18 | Weasel (Factory New)": [
+		-24.0141,
+		30.6
+	],
+	"M4A1-S | Leaded Glass (Factory New)": [
+		-24.14445,
+		74.4
+	],
+	"M4A1-S | Atomic Alloy (Field-Tested)": [
+		-24.197700000000006,
+		46.2
+	],
+	"AWP | Fever Dream (Battle-Scarred)": [
+		-24.360199999999997,
+		51.8
+	],
+	"MP9 | Setting Sun (Factory New)": [
+		-24.3992,
+		43.4
+	],
+	"AWP | PAW (Minimal Wear)": [
+		-24.641000000000003,
+		29.6
+	],
+	"FAMAS | Eye of Athena (Factory New)": [
+		-24.781050000000016,
+		88.80000000000001
+	],
+	"M4A1-S | Decimator (Minimal Wear)": [
+		-24.810799999999995,
+		64.1
+	],
+	"SSG 08 | Abyss (Factory New)": [
+		-25.047349999999999,
+		26.0
+	],
+	"AK-47 | Rat Rod (Well-Worn)": [
+		-25.072400000000003,
+		28.1
+	],
+	"USP-S | Cyrex (Minimal Wear)": [
+		-25.189799999999999,
+		28.2
+	],
+	"Desert Eagle | Conspiracy (Field-Tested)": [
+		-25.252650000000004,
+		33.0
+	],
+	"MAG-7 | Firestarter (Factory New)": [
+		-25.417875000000003,
+		28.799999999999998
+	],
+	"Nova | Antique (Factory New)": [
+		-25.441449999999997,
+		55.599999999999997
+	],
+	"AWP | Fever Dream (Field-Tested)": [
+		-25.48055,
+		55.7
+	],
+	"AK-47 | Rat Rod (Field-Tested)": [
+		-25.5184,
+		29.3
+	],
+	"AWP | Mortis (Minimal Wear)": [
+		-25.54505,
+		48.5
+	],
+	"M4A1-S | Atomic Alloy (Battle-Scarred)": [
+		-25.64085,
+		39.6
+	],
+	"AWP | Mortis (Field-Tested)": [
+		-25.7637,
+		37.5
+	],
+	"MAG-7 | Core Breach (Factory New)": [
+		-25.860799999999999,
+		43.4
+	],
+	"Nova | Hyper Beast (Factory New)": [
+		-26.076950000000005,
+		89.60000000000001
+	],
+	"Galil AR | Eco (Field-Tested)": [
+		-26.16565,
+		34.0
+	],
+	"AWP | Fever Dream (Minimal Wear)": [
+		-26.410800000000003,
+		65.7
+	],
+	"AK-47 | Elite Build (Minimal Wear)": [
+		-26.445175000000004,
+		27.400000000000003
+	],
+	"P2000 | Grassland (Factory New)": [
+		-26.815400000000005,
+		30.8
+	],
+	"SG 553 | Colony IV (Well-Worn)": [
+		-26.821350000000004,
+		45.0
+	],
+	"Desert Eagle | Conspiracy (Minimal Wear)": [
+		-26.9159,
+		38.6
+	],
+	"PP-Bizon | High Roller (Factory New)": [
+		-27.044450000000006,
+		77.30000000000001
+	],
+	"Five-SeveN | Case Hardened (Minimal Wear)": [
+		-27.178599999999997,
+		52.599999999999997
+	],
+	"M4A4 | Zirka (Minimal Wear)": [
+		-27.349499999999997,
+		79.1
+	],
+	"M4A1-S | Atomic Alloy (Minimal Wear)": [
+		-27.382749999999996,
+		70.6
+	],
+	"Sawed-Off | Wasteland Princess (Factory New)": [
+		-27.494,
+		48.2
+	],
+	"P90 | Trigon (Minimal Wear)": [
+		-27.541449999999999,
+		57.699999999999999
+	],
+	"AWP | Mortis (Factory New)": [
+		-28.29815,
+		75.5
+	],
+	"M4A1-S | Bright Water (Field-Tested)": [
+		-28.349499999999997,
+		80.1
+	],
+	"SCAR-20 | Cyrex (Minimal Wear)": [
+		-28.482750000000004,
+		71.7
+	],
+	"P90 | Shallow Grave (Factory New)": [
+		-28.494,
+		49.2
+	],
+	"USP-S | Overgrowth (Field-Tested)": [
+		-28.54790000000001,
+		80.60000000000001
+	],
+	"FAMAS | Mecha Industries (Factory New)": [
+		-28.593999999999995,
+		49.3
+	],
+	"Five-SeveN | Nitro (Field-Tested)": [
+		-28.69785,
+		50.4
+	],
+	"Tec-9 | Fuel Injector (Factory New)": [
+		-29.09615,
+		62.9
+	],
+	"FAMAS | Pulse (Factory New)": [
+		-29.1301,
+		44.3
+	],
+	"USP-S | Para Green (Factory New)": [
+		-29.468659999999998,
+		36.5
+	],
+	"M4A4 | Evil Daimyo (Field-Tested)": [
+		-29.484799999999998,
+		33.8
+	],
+	"MAC-10 | Indigo (Factory New)": [
+		-29.74235,
+		32.0
+	],
+	"XM1014 | Tranquility (Minimal Wear)": [
+		-29.794350000000006,
+		49.800000000000007
+	],
+	"Glock-18 | Royal Legion (Factory New)": [
+		-30.167,
+		44.0
+	],
+	"P250 | Splash (Field-Tested)": [
+		-30.293499999999996,
+		52.0
+	],
+	"SCAR-20 | Bloodsport (Factory New)": [
+		-30.321549999999996,
+		48.099999999999997
+	],
+	"SG 553 | Fallout Warning (Factory New)": [
+		-30.709259999999995,
+		34.8
+	],
+	"P250 | Mehndi (Minimal Wear)": [
+		-31.079249999999996,
+		72.6
+	],
+	"P250 | Whiteout (Field-Tested)": [
+		-31.097850000000006,
+		52.800000000000007
+	],
+	"SSG 08 | Big Iron (Factory New)": [
+		-31.157000000000019,
+		99.80000000000001
+	],
+	"Galil AR | Stone Cold (Factory New)": [
+		-31.255700000000006,
+		50.300000000000007
+	],
+	"MP7 | Full Stop (Field-Tested)": [
+		-31.397849999999996,
+		53.099999999999997
+	],
+	"Desert Eagle | Conspiracy (Factory New)": [
+		-31.5332,
+		52.1
+	],
+	"AK-47 | Emerald Pinstripe (Minimal Wear)": [
+		-31.9514,
+		33.5
+	],
+	"M4A1-S | Guardian (Minimal Wear)": [
+		-31.97925,
+		73.5
+	],
+	"MAC-10 | Amber Fade (Minimal Wear)": [
+		-32.1294,
+		42.9
+	],
+	"M4A4 | Zirka (Well-Worn)": [
+		-32.1479,
+		84.2
+	],
+	"AWP | Mortis (Battle-Scarred)": [
+		-32.466,
+		39.6
+	],
+	"UMP-45 | Momentum (Factory New)": [
+		-32.91330000000001,
+		75.9
+	],
+	"USP-S | Cyrex (Factory New)": [
+		-33.4457,
+		37.7
+	],
+	"M4A1-S | Bright Water (Minimal Wear)": [
+		-33.849500000000009,
+		85.60000000000001
+	],
+	"P2000 | Amber Fade (Minimal Wear)": [
+		-34.3778,
+		35.3
+	],
+	"AWP | Phobos (Well-Worn)": [
+		-34.4341,
+		38.7
+	],
+	"Five-SeveN | Retrobution (Factory New)": [
+		-34.6349,
+		48.9
+	],
+	"AWP | PAW (Factory New)": [
+		-34.8993,
+		45.0
+	],
+	"AK-47 | Safari Mesh (Factory New)": [
+		-34.9471,
+		36.4
+	],
+	"P2000 | Imperial Dragon (Factory New)": [
+		-35.52155,
+		53.3
+	],
+	"SSG 08 | Ghost Crusader (Factory New)": [
+		-35.57509999999999,
+		47.699999999999999
+	],
+	"CZ75-Auto | Yellow Jacket (Factory New)": [
+		-35.70009999999999,
+		87.69999999999999
+	],
+	"USP-S | Caiman (Minimal Wear)": [
+		-35.78275,
+		79.0
+	],
+	"Glock-18 | Reactor (Minimal Wear)": [
+		-36.55565,
+		47.0
+	],
+	"FAMAS | Djinn (Factory New)": [
+		-36.59845,
+		65.8
+	],
+	"AK-47 | Rat Rod (Minimal Wear)": [
+		-36.794500000000009,
+		44.900000000000009
+	],
+	"PP-Bizon | Carbon Fiber (Factory New)": [
+		-36.864450000000008,
+		47.1
+	],
+	"USP-S | Cortex (Battle-Scarred)": [
+		-37.14865,
+		44.2
+	],
+	"Desert Eagle | Naga (Factory New)": [
+		-37.221000000000007,
+		50.300000000000007
+	],
+	"USP-S | Stainless (Well-Worn)": [
+		-37.470825000000008,
+		39.300000000000007
+	],
+	"USP-S | Caiman (Field-Tested)": [
+		-37.4977,
+		59.5
+	],
+	"AWP | Atheris (Field-Tested)": [
+		-37.551300000000008,
+		39.300000000000007
+	],
+	"USP-S | Cortex (Well-Worn)": [
+		-37.5637,
+		49.3
+	],
+	"Nova | Forest Leaves (Factory New)": [
+		-37.606399999999997,
+		42.199999999999999
+	],
+	"M4A4 | Evil Daimyo (Well-Worn)": [
+		-38.09810000000001,
+		41.900000000000009
+	],
+	"Negev | Loudmouth (Minimal Wear)": [
+		-38.1339,
+		45.7
+	],
+	"USP-S | Caiman (Factory New)": [
+		-38.24695000000001,
+		109.60000000000001
+	],
+	"SG 553 | Triarch (Factory New)": [
+		-38.3141,
+		44.900000000000009
+	],
+	"MAC-10 | Red Filigree (Minimal Wear)": [
+		-38.38789999999997,
+		236.6
+	],
+	"MP9 | Rose Iron (Minimal Wear)": [
+		-38.625099999999999,
+		52.199999999999999
+	],
+	"M4A4 | Griffin (Field-Tested)": [
+		-38.79990000000001,
+		41.900000000000009
+	],
+	"Dual Berettas | Cobra Strike (Factory New)": [
+		-38.843950000000017,
+		124.9
+	],
+	"AWP | Mortis (Well-Worn)": [
+		-38.9637,
+		50.7
+	],
+	"Desert Eagle | Light Rail (Factory New)": [
+		-39.0419,
+		42.199999999999999
+	],
+	"AUG | Bengal Tiger (Minimal Wear)": [
+		-39.11309999999999,
+		65.1
+	],
+	"Five-SeveN | Nitro (Factory New)": [
+		-39.281800000000007,
+		75.7
+	],
+	"M4A4 | Evil Daimyo (Minimal Wear)": [
+		-39.4339,
+		47.0
+	],
+	"AUG | Momentum (Minimal Wear)": [
+		-39.449799999999999,
+		70.3
+	],
+	"SCAR-20 | Cyrex (Factory New)": [
+		-39.54695000000001,
+		110.9
+	],
+	"Desert Eagle | Crimson Web (Field-Tested)": [
+		-39.759100000000007,
+		43.3
+	],
+	"MP7 | Full Stop (Factory New)": [
+		-39.781800000000007,
+		76.2
+	],
+	"MP7 | Orange Peel (Factory New)": [
+		-40.1266,
+		50.7
+	],
+	"MP5-SD | Phosphor (Factory New)": [
+		-40.3133,
+		83.3
+	],
+	"M4A1-S | Guardian (Field-Tested)": [
+		-40.65944999999999,
+		69.6
+	],
+	"MP9 | Hydra (Factory New)": [
+		-41.426500000000007,
+		101.5
+	],
+	"AWP | Fever Dream (Factory New)": [
+		-41.484049999999999,
+		90.8
+	],
+	"MAC-10 | Nuclear Garden (Factory New)": [
+		-41.4992,
+		60.5
+	],
+	"Negev | Bratatat (Factory New)": [
+		-42.0373,
+		45.7
+	],
+	"M4A4 | Urban DDPAT (Factory New)": [
+		-42.73865,
+		43.7
+	],
+	"M4A1-S | Decimator (Well-Worn)": [
+		-42.76019999999998,
+		70.19999999999999
+	],
+	"AWP | Elite Build (Minimal Wear)": [
+		-43.091499999999999,
+		77.5
+	],
+	"P250 | Splash (Minimal Wear)": [
+		-43.557050000000007,
+		68.60000000000001
+	],
+	"USP-S | Cortex (Field-Tested)": [
+		-43.863699999999997,
+		55.599999999999997
+	],
+	"AWP | Fever Dream (Well-Worn)": [
+		-43.960199999999989,
+		71.39999999999999
+	],
+	"Glock-18 | Synth Leaf (Well-Worn)": [
+		-44.08529999999999,
+		177.89999999999999
+	],
+	"CZ75-Auto | Emerald (Factory New)": [
+		-45.88180000000001,
+		82.30000000000001
+	],
+	"MAC-10 | Urban DDPAT (Factory New)": [
+		-45.9023,
+		50
+	],
+	"FAMAS | Valence (Factory New)": [
+		-46.06700000000001,
+		59.900000000000009
+	],
+	"M4A4 | Jungle Tiger (Minimal Wear)": [
+		-46.3215,
+		46.8
+	],
+	"Desert Eagle | Mecha Industries (Factory New)": [
+		-46.5133,
+		89.5
+	],
+	"AK-47 | Blue Laminate (Minimal Wear)": [
+		-46.6163,
+		66.2
+	],
+	"Galil AR | Rocket Pop (Factory New)": [
+		-46.617020000000007,
+		49.1
+	],
+	"Glock-18 | Synth Leaf (Battle-Scarred)": [
+		-46.62550000000002,
+		152.20000000000003
+	],
+	"Galil AR | Sugar Rush (Field-Tested)": [
+		-46.705699999999989,
+		96.19999999999999
+	],
+	"M4A1-S | Guardian (Factory New)": [
+		-47.27925000000001,
+		88.80000000000001
+	],
+	"M4A1-S | Nightmare (Minimal Wear)": [
+		-47.435050000000007,
+		81.7
+	],
+	"AK-47 | Blue Laminate (Field-Tested)": [
+		-47.63139999999999,
+		63.099999999999997
+	],
+	"AUG | Syd Mead (Factory New)": [
+		-47.69615,
+		81.5
+	],
+	"SSG 08 | Lichen Dashed (Factory New)": [
+		-48.106399999999997,
+		52.699999999999999
+	],
+	"SG 553 | Colony IV (Field-Tested)": [
+		-48.20165,
+		71.0
+	],
+	"USP-S | Stainless (Minimal Wear)": [
+		-48.803,
+		51.5
+	],
+	"MP9 | Airlock (Factory New)": [
+		-48.89614999999999,
+		82.69999999999999
+	],
+	"G3SG1 | Flux (Factory New)": [
+		-49.257,
+		117.89999999999999
+	],
+	"M4A1-S | Guardian (Well-Worn)": [
+		-49.85199999999999,
+		67.6
+	],
+	"FAMAS | Pulse (Well-Worn)": [
+		-50.7127,
+		60.099999999999997
+	],
+	"UMP-45 | Bone Pile (Factory New)": [
+		-52.376075,
+		61.1
+	],
+	"Desert Eagle | Kumicho Dragon (Battle-Scarred)": [
+		-53.645799999999997,
+		75.1
+	],
+	"M4A4 | Griffin (Minimal Wear)": [
+		-54.1594,
+		60
+	],
+	"SG 553 | Cyrex (Field-Tested)": [
+		-54.69745,
+		77.2
+	],
+	"Desert Eagle | Crimson Web (Well-Worn)": [
+		-55.509175,
+		58.9
+	],
+	"MP9 | Rose Iron (Factory New)": [
+		-55.8301,
+		71.0
+	],
+	"SSG 08 | Sea Calico (Factory New)": [
+		-56.044100000000018,
+		350.6
+	],
+	"Dual Berettas | Marina (Factory New)": [
+		-56.3301,
+		71.5
+	],
+	"M4A4 | Evil Daimyo (Factory New)": [
+		-56.355199999999999,
+		70.6
+	],
+	"MAC-10 | Amber Fade (Factory New)": [
+		-56.629400000000007,
+		67.4
+	],
+	"XM1014 | Red Leather (Minimal Wear)": [
+		-57.6755,
+		98.0
+	],
+	"AWP | Acheron (Factory New)": [
+		-58.0475,
+		64.5
+	],
+	"MP7 | Fade (Field-Tested)": [
+		-59.11775000000001,
+		128.0
+	],
+	"Glock-18 | Reactor (Factory New)": [
+		-59.5992,
+		78.60000000000001
+	],
+	"Glock-18 | Synth Leaf (Factory New)": [
+		-60.54409999999996,
+		355.09999999999999
+	],
+	"Desert Eagle | Kumicho Dragon (Field-Tested)": [
+		-60.6048,
+		85.8
+	],
+	"SG 553 | Tiger Moth (Minimal Wear)": [
+		-60.663500000000009,
+		69.9
+	],
+	"M4A4 | Griffin (Well-Worn)": [
+		-62.840799999999997,
+		65.3
+	],
+	"MAC-10 | Fade (Factory New)": [
+		-63.18180000000001,
+		99.60000000000001
+	],
+	"AK-47 | Elite Build (Factory New)": [
+		-63.37315000000001,
+		64.9
+	],
+	"AWP | Atheris (Minimal Wear)": [
+		-64.08460000000001,
+		65.9
+	],
+	"M4A1-S | Decimator (Factory New)": [
+		-64.48405000000001,
+		113.80000000000001
+	],
+	"AK-47 | Blue Laminate (Factory New)": [
+		-65.9163,
+		85.5
+	],
+	"USP-S | Cortex (Minimal Wear)": [
+		-66.54505,
+		89.5
+	],
+	"P250 | Cartel (Factory New)": [
+		-69.29435,
+		89.3
+	],
+	"SG 553 | Pulse (Minimal Wear)": [
+		-69.3531,
+		76.2
+	],
+	"Galil AR | Sugar Rush (Well-Worn)": [
+		-70.16475000000001,
+		105.9
+	],
+	"AK-47 | Redline (Battle-Scarred)": [
+		-71.97699999999999,
+		91.89999999999999
+	],
+	"Desert Eagle | Directive (Factory New)": [
+		-73.81409999999998,
+		80.39999999999999
+	],
+	"MP7 | Fade (Factory New)": [
+		-74.47759999999998,
+		232.39999999999999
+	],
+	"P250 | Vino Primo (Well-Worn)": [
+		-74.85189999999999,
+		110.19999999999999
+	],
+	"USP-S | Business Class (Minimal Wear)": [
+		-75.07549999999999,
+		115.39999999999999
+	],
+	"M4A1-S | Atomic Alloy (Factory New)": [
+		-76.14695,
+		147.5
+	],
+	"Galil AR | Sugar Rush (Minimal Wear)": [
+		-76.83380000000001,
+		148.4
+	],
+	"SG 553 | Ultraviolet (Minimal Wear)": [
+		-77.1948,
+		93.4
+	],
+	"P2000 | Amber Fade (Factory New)": [
+		-77.6778,
+		78.60000000000001
+	],
+	"AK-47 | Emerald Pinstripe (Factory New)": [
+		-79.5514,
+		81.1
+	],
+	"SSG 08 | Sea Calico (Minimal Wear)": [
+		-80.29599999999997,
+		305.79999999999998
+	],
+	"Glock-18 | Synth Leaf (Minimal Wear)": [
+		-80.99600000000001,
+		306.5
+	],
+	"AK-47 | Safety Net (Well-Worn)": [
+		-82.6519,
+		118.0
+	],
+	"Glock-18 | Dragon Tattoo (Factory New)": [
+		-83.77120000000002,
+		202.3
+	],
+	"Five-SeveN | Monkey Business (Minimal Wear)": [
+		-84.0973,
+		98.2
+	],
+	"P250 | Vino Primo (Field-Tested)": [
+		-84.91775000000001,
+		153.8
+	],
+	"P250 | Mehndi (Factory New)": [
+		-86.07925,
+		127.6
+	],
+	"AK-47 | Safety Net (Field-Tested)": [
+		-86.31774999999999,
+		155.2
+	],
+	"Glock-18 | Nuclear Garden (Minimal Wear)": [
+		-86.59245000000002,
+		93.0
+	],
+	"M4A4 | Griffin (Factory New)": [
+		-87.3604,
+		97.0
+	],
+	"FAMAS | Afterimage (Field-Tested)": [
+		-88.2039,
+		97.8
+	],
+	"Glock-18 | Water Elemental (Factory New)": [
+		-89.03320000000001,
+		109.60000000000001
+	],
+	"AK-47 | Orbit Mk01 (Field-Tested)": [
+		-90.2138,
+		103.2
+	],
+	"P250 | Undertow (Field-Tested)": [
+		-90.3839,
+		96.5
+	],
+	"AK-47 | Orbit Mk01 (Minimal Wear)": [
+		-90.84460000000002,
+		111.8
+	],
+	"USP-S | Caiman (Well-Worn)": [
+		-91.49770000000001,
+		113.5
+	],
+	"M4A4 | Desolate Space (Battle-Scarred)": [
+		-92.59205,
+		99.80000000000001
+	],
+	"AK-47 | Safety Net (Factory New)": [
+		-92.87759999999999,
+		250.79999999999999
+	],
+	"MAG-7 | Sand Dune (Factory New)": [
+		-93.00319999999999,
+		95.3
+	],
+	"Glock-18 | Synth Leaf (Field-Tested)": [
+		-93.98530000000003,
+		227.8
+	],
+	"Desert Eagle | Kumicho Dragon (Minimal Wear)": [
+		-94.29149999999999,
+		128.7
+	],
+	"AWP | Elite Build (Factory New)": [
+		-95.27695,
+		158.8
+	],
+	"AK-47 | Blue Laminate (Well-Worn)": [
+		-96.32420000000002,
+		108.80000000000001
+	],
+	"M4A4 | Hellfire (Field-Tested)": [
+		-96.50569999999999,
+		146.0
+	],
+	"USP-S | Overgrowth (Minimal Wear)": [
+		-97.1495,
+		148.9
+	],
+	"AUG | Anodized Navy (Factory New)": [
+		-98.76055000000001,
+		108.10000000000001
+	],
+	"Desert Eagle | Kumicho Dragon (Well-Worn)": [
+		-99.5504,
+		120.5
+	],
+	"XM1014 | Tranquility (Factory New)": [
+		-99.89435,
+		119.9
+	],
+	"XM1014 | Incinegator (Minimal Wear)": [
+		-100.7498,
+		131.6
+	],
+	"M4A4 | Desolate Space (Well-Worn)": [
+		-101.08755,
+		108.6
+	],
+	"Desert Eagle | Urban DDPAT (Factory New)": [
+		-102.21539999999999,
+		106.19999999999999
+	],
+	"SCAR-20 | Cardiac (Factory New)": [
+		-103.19435,
+		123.2
+	],
+	"FAMAS | Afterimage (Minimal Wear)": [
+		-106.3327,
+		119.2
+	],
+	"M4A4 | Hellfire (Battle-Scarred)": [
+		-107.66980000000001,
+		142.0
+	],
+	"M4A4 | Hellfire (Well-Worn)": [
+		-110.56475000000002,
+		146.3
+	],
+	"AK-47 | Orbit Mk01 (Well-Worn)": [
+		-110.82150000000002,
+		120
+	],
+	"AK-47 | Orbit Mk01 (Battle-Scarred)": [
+		-111.42150000000001,
+		120.60000000000001
+	],
+	"MP9 | Hot Rod (Minimal Wear)": [
+		-111.92939999999999,
+		122.69999999999999
+	],
+	"AK-47 | Frontside Misty (Battle-Scarred)": [
+		-113.56375,
+		133.9
+	],
+	"Dual Berettas | Duelist (Factory New)": [
+		-114.12295000000003,
+		172.60000000000003
+	],
+	"SG 553 | Cyrex (Minimal Wear)": [
+		-114.49175000000001,
+		148.4
+	],
+	"M4A1-S | Nightmare (Factory New)": [
+		-115.28105000000002,
+		179.3
+	],
+	"M4A4 | Desolate Space (Field-Tested)": [
+		-117.12655000000001,
+		124.9
+	],
+	"AWP | Atheris (Factory New)": [
+		-117.94189999999999,
+		121.1
+	],
+	"AK-47 | Redline (Field-Tested)": [
+		-118.5356,
+		143.0
+	],
+	"USP-S | Serum (Field-Tested)": [
+		-118.71979999999999,
+		140
+	],
+	"AWP | Pink DDPAT (Battle-Scarred)": [
+		-121.3879,
+		136.9
+	],
+	"AK-47 | Redline (Well-Worn)": [
+		-122.27700000000002,
+		142.20000000000003
+	],
+	"AWP | Pink DDPAT (Field-Tested)": [
+		-122.6541,
+		144.9
+	],
+	"P250 | Undertow (Minimal Wear)": [
+		-122.98389999999999,
+		129.1
+	],
+	"USP-S | Dark Water (Minimal Wear)": [
+		-127.85024999999999,
+		175.2
+	],
+	"AWP | Electric Hive (Field-Tested)": [
+		-128.9039,
+		138.5
+	],
+	"Five-SeveN | Case Hardened (Factory New)": [
+		-129.0786,
+		154.5
+	],
+	"Glock-18 | Dragon Tattoo (Minimal Wear)": [
+		-129.75025000000003,
+		177.10000000000003
+	],
+	"M4A4 | Zirka (Factory New)": [
+		-129.9495,
+		181.70000000000003
+	],
+	"USP-S | Cortex (Factory New)": [
+		-130.69814999999998,
+		177.89999999999999
+	],
+	"AK-47 | Orbit Mk01 (Factory New)": [
+		-130.8446,
+		151.8
+	],
+	"M4A1-S | Dark Water (Field-Tested)": [
+		-131.99755000000003,
+		171.70000000000003
+	],
+	"M4A1-S | Dark Water (Minimal Wear)": [
+		-133.95024999999999,
+		181.29999999999999
+	],
+	"SG 553 | Tiger Moth (Factory New)": [
+		-135.63490000000003,
+		149.9
+	],
+	"USP-S | Dark Water (Field-Tested)": [
+		-135.69754999999999,
+		175.39999999999999
+	],
+	"MP9 | Hot Rod (Factory New)": [
+		-136.8294,
+		147.6
+	],
+	"Glock-18 | Nuclear Garden (Factory New)": [
+		-137.4608,
+		155.0
+	],
+	"UMP-45 | Blaze (Factory New)": [
+		-138.82940000000003,
+		149.60000000000003
+	],
+	"P250 | Vino Primo (Factory New)": [
+		-138.8776,
+		296.8
+	],
+	"AK-47 | Frontside Misty (Field-Tested)": [
+		-139.83905,
+		166.1
+	],
+	"AK-47 | Frontside Misty (Well-Worn)": [
+		-139.9457,
+		161.6
+	],
+	"Desert Eagle | Emerald Jörmungandr (Field-Tested)": [
+		-144.67279999999995,
+		460.09999999999999
+	],
+	"M4A4 | Hellfire (Minimal Wear)": [
+		-153.5338,
+		225.10000000000003
+	],
+	"AK-47 | Black Laminate (Battle-Scarred)": [
+		-156.634,
+		158.2
+	],
+	"USP-S | Royal Blue (Factory New)": [
+		-160.77155000000003,
+		174.20000000000003
+	],
+	"USP-S | Serum (Minimal Wear)": [
+		-160.81980000000002,
+		182.10000000000003
+	],
+	"AWP | Electric Hive (Well-Worn)": [
+		-161.0039,
+		170.6
+	],
+	"Galil AR | Eco (Minimal Wear)": [
+		-162.3973,
+		176.5
+	],
+	"G3SG1 | The Executioner (Minimal Wear)": [
+		-162.95080000000002,
+		183.1
+	],
+	"AWP | Electric Hive (Minimal Wear)": [
+		-164.53269999999999,
+		177.39999999999999
+	],
+	"Desert Eagle | Kumicho Dragon (Factory New)": [
+		-165.07694999999999,
+		228.6
+	],
+	"SSG 08 | Tropical Storm (Factory New)": [
+		-165.2266,
+		175.79999999999999
+	],
+	"AWP | Redline (Field-Tested)": [
+		-165.95944999999998,
+		194.89999999999999
+	],
+	"Galil AR | Sugar Rush (Factory New)": [
+		-168.34395,
+		254.4
+	],
+	"XM1014 | Fallout Warning (Factory New)": [
+		-168.58520000000002,
+		206.9
+	],
+	"M4A4 | Desolate Space (Minimal Wear)": [
+		-171.4201,
+		183.4
+	],
+	"AK-47 | Black Laminate (Well-Worn)": [
+		-175.1993,
+		176.6
+	],
+	"AK-47 | Point Disarray (Field-Tested)": [
+		-176.2785,
+		184.5
+	],
+	"AK-47 | Black Laminate (Field-Tested)": [
+		-177.6121,
+		179.5
+	],
+	"Desert Eagle | Cobalt Disruption (Field-Tested)": [
+		-179.8327,
+		192.7
+	],
+	"Desert Eagle | Cobalt Disruption (Minimal Wear)": [
+		-181.0327,
+		193.9
+	],
+	"AWP | Pink DDPAT (Minimal Wear)": [
+		-185.86900000000004,
+		221.8
+	],
+	"AWP | Redline (Well-Worn)": [
+		-189.452,
+		207.2
+	],
+	"P250 | Undertow (Factory New)": [
+		-193.32979999999999,
+		203.29999999999999
+	],
+	"FAMAS | Afterimage (Factory New)": [
+		-197.23270000000003,
+		210.10000000000003
+	],
+	"AK-47 | Frontside Misty (Minimal Wear)": [
+		-201.66634999999997,
+		242.89999999999999
+	],
+	"AK-47 | Black Laminate (Minimal Wear)": [
+		-202.9121,
+		204.8
+	],
+	"P90 | Cold Blooded (Minimal Wear)": [
+		-207.6198,
+		228.9
+	],
+	"Desert Eagle | Night (Factory New)": [
+		-208.86866000000004,
+		215.9
+	],
+	"AUG | Momentum (Factory New)": [
+		-209.9973,
+		285.0
+	],
+	"AWP | Electric Hive (Factory New)": [
+		-215.5327,
+		228.4
+	],
+	"M4A4 | Daybreak (Minimal Wear)": [
+		-218.18450000000005,
+		449.3
+	],
+	"UMP-45 | Blaze (Minimal Wear)": [
+		-218.3294,
+		229.1
+	],
+	"Nova | Bloomstick (Factory New)": [
+		-220.04855000000004,
+		262.1
+	],
+	"Desert Eagle | Cobalt Disruption (Factory New)": [
+		-223.9327,
+		236.8
+	],
+	"Desert Eagle | Hypnotic (Factory New)": [
+		-226.9789,
+		347.5
+	],
+	"AUG | Copperhead (Field-Tested)": [
+		-227.95839999999999,
+		290.9
+	],
+	"AK-47 | Point Disarray (Minimal Wear)": [
+		-244.3508,
+		264.5
+	],
+	"M4A4 | Daybreak (Field-Tested)": [
+		-252.12,
+		403.5
+	],
+	"USP-S | Serum (Factory New)": [
+		-252.6652,
+		287.5
+	],
+	"M4A4 | Hellfire (Factory New)": [
+		-257.2439499999999,
+		343.29999999999998
+	],
+	"P90 | Cold Blooded (Factory New)": [
+		-262.0652,
+		296.90000000000006
+	],
+	"AWP | Redline (Minimal Wear)": [
+		-265.17925,
+		306.70000000000007
+	],
+	"UMP-45 | Caramel (Factory New)": [
+		-266.11710000000007,
+		284.1
+	],
+	"SG 553 | Cyrex (Factory New)": [
+		-285.7001,
+		337.70000000000007
+	],
+	"AUG | Bengal Tiger (Factory New)": [
+		-291.04855,
+		333.1
+	],
+	"M4A4 | Jungle Tiger (Factory New)": [
+		-313.8215,
+		314.3
+	],
+	"SG 553 | Tornado (Factory New)": [
+		-314.9171,
+		332.9
+	],
+	"M4A4 | Desolate Space (Factory New)": [
+		-327.22155,
+		345.0
+	],
+	"SG 553 | Bulldozer (Field-Tested)": [
+		-331.22294999999999,
+		389.7
+	],
+	"AK-47 | Case Hardened (Battle-Scarred)": [
+		-348.1789,
+		468.7
+	],
+	"AK-47 | Frontside Misty (Factory New)": [
+		-370.35699999999999,
+		439.0
+	],
+	"AK-47 | Case Hardened (Well-Worn)": [
+		-382.0789,
+		502.59999999999999
+	],
+	"P2000 | Ocean Foam (Factory New)": [
+		-394.87185,
+		616.5
+	],
+	"AK-47 | Redline (Minimal Wear)": [
+		-407.54145000000008,
+		437.70000000000007
+	],
+	"AWP | Graphite (Minimal Wear)": [
+		-430.17185000000009,
+		651.8000000000001
+	],
+	"USP-S | Overgrowth (Factory New)": [
+		-441.94949999999997,
+		493.7
+	],
+	"AK-47 | Case Hardened (Field-Tested)": [
+		-444.67890000000008,
+		565.2
+	],
+	"P250 | Splash (Factory New)": [
+		-444.85705,
+		469.90000000000006
+	],
+	"AWP | Graphite (Factory New)": [
+		-449.77185,
+		671.4
+	],
+	"AWP | Pink DDPAT (Factory New)": [
+		-506.596,
+		575.5
+	],
+	"SG 553 | Bulldozer (Minimal Wear)": [
+		-606.12295,
+		664.5999999999999
+	],
+	"AK-47 | Case Hardened (Minimal Wear)": [
+		-620.4789,
+		741.0
+	],
+	"SG 553 | Ultraviolet (Factory New)": [
+		-678.7948,
+		695.0
+	],
+	"P250 | Whiteout (Factory New)": [
+		-684.1818000000001,
+		720.6
+	],
+	"AK-47 | Black Laminate (Factory New)": [
+		-846.1121,
+		848.0
+	],
+	"MP9 | Wild Lily (Minimal Wear)": [
+		-884.0943000000002,
+		2592.0
+	],
+	"SG 553 | Bulldozer (Factory New)": [
+		-1321.1229500000002,
+		1379.6000000000002
+	],
+	"AK-47 | Case Hardened (Factory New)": [
+		-2256.7789,
+		2377.2999999999999
+	]
+}

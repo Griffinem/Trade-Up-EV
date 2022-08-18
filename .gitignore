@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Various files I don't want to upload
+results/tradeup_profit.txt

@@ -1,0 +1,99 @@
+{
+	"Shattered Web Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "MP5-SD | Acid Wash",
+				"wear_min": 0.0,
+				"wear_max": 0.68
+			},
+			{
+				"name": "SCAR-20 | Torn",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "M249 | Warbird",
+				"wear_min": 0.05,
+				"wear_max": 0.65
+			},
+			{
+				"name": "Dual Berettas | Balance",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "R8 Revolver | Memento",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Plume",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "G3SG1 | Black Sand",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "AK-47 | Rat Rod",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AUG | Arctic Wolf",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "P2000 | Obsidian",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Neon Ply",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "PP-Bizon | Embargo",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "SG 553 | Colony IV",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SSG 08 | Bloodshot",
+				"wear_min": 0.14,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Tec-9 | Decimator",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Containment Breach",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Stalker",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	}
+}

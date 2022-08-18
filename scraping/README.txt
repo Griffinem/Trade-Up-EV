@@ -1,0 +1,1 @@
+This folder is for scraping csgostash.com to populate the skins dictionary.

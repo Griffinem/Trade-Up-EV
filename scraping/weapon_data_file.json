@@ -1,0 +1,4974 @@
+{
+	"Shattered Web Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "MP5-SD | Acid Wash",
+				"wear_min": 0.0,
+				"wear_max": 0.68
+			},
+			{
+				"name": "SCAR-20 | Torn",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "M249 | Warbird",
+				"wear_min": 0.05,
+				"wear_max": 0.65
+			},
+			{
+				"name": "Dual Berettas | Balance",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "R8 Revolver | Memento",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Plume",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "G3SG1 | Black Sand",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "AK-47 | Rat Rod",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AUG | Arctic Wolf",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "P2000 | Obsidian",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Neon Ply",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "PP-Bizon | Embargo",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "SG 553 | Colony IV",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SSG 08 | Bloodshot",
+				"wear_min": 0.14,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Tec-9 | Decimator",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Containment Breach",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Stalker",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"CS20 Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Glock-18 | Sacrifice",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "FAMAS | Decommissioned",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Classic Crate",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAG-7 | Popdog",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SCAR-20 | Assault",
+				"wear_min": 0.0,
+				"wear_max": 0.62
+			},
+			{
+				"name": "Dual Berettas | Elite 1.6",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "Tec-9 | Flash Out",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"restricted": [
+			{
+				"name": "MP5-SD | Agent",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "UMP-45 | Plastique",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Inferno",
+				"wear_min": 0.0,
+				"wear_max": 0.68
+			},
+			{
+				"name": "Five-SeveN | Buddy",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "M249 | Aztec",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			}
+		],
+		"classified": [
+			{
+				"name": "MP9 | Hydra",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AUG | Death by Puppy",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "P90 | Nostalgia",
+				"wear_min": 0.0,
+				"wear_max": 0.57
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Wildfire",
+				"wear_min": 0.01,
+				"wear_max": 0.7
+			},
+			{
+				"name": "FAMAS | Commemoration",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		]
+	},
+	"Prisma Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "AK-47 | Uncharted",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "P90 | Off World",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Galil AR | Akoben",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "P250 | Verdigris",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "FAMAS | Crypsis",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "MAC-10 | Whitefish",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Mischief",
+				"wear_min": 0.1,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "AWP | Atheris",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Desert Eagle | Light Rail",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "UMP-45 | Moonrise",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "MP5-SD | Gauss",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Tec-9 | Bamboozle",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "AUG | Momentum",
+				"wear_min": 0.05,
+				"wear_max": 1.0
+			},
+			{
+				"name": "XM1014 | Incinegator",
+				"wear_min": 0.14,
+				"wear_max": 0.65
+			},
+			{
+				"name": "R8 Revolver | Skull Crusher",
+				"wear_min": 0.25,
+				"wear_max": 0.8
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A4 | The Emperor",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Five-SeveN | Angry Mob",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		]
+	},
+	"Danger Zone Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "M4A4 | Magnesium",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SG 553 | Danger Close",
+				"wear_min": 0.02,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Glock-18 | Oxide Blaze",
+				"wear_min": 0.0,
+				"wear_max": 0.85
+			},
+			{
+				"name": "Tec-9 | Fubar",
+				"wear_min": 0.14,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP9 | Modest Threat",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Sawed-Off | Black Sand",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "Nova | Wood Fired",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			}
+		],
+		"restricted": [
+			{
+				"name": "USP-S | Flashback",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P250 | Nevermore",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "Galil AR | Signal",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MAC-10 | Pipe Down",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "G3SG1 | Scavenger",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			}
+		],
+		"classified": [
+			{
+				"name": "Desert Eagle | Mecha Industries",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "UMP-45 | Momentum",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MP5-SD | Phosphor",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Asiimov",
+				"wear_min": 0.05,
+				"wear_max": 0.7
+			},
+			{
+				"name": "AWP | Neo-Noir",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		]
+	},
+	"Horizon Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Glock-18 | Warhawk",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P90 | Traction",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP9 | Capillary",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "AUG | Amber Slipstream",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "Tec-9 | Snek-9",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "R8 Revolver | Survivalist",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "Dual Berettas | Shred",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "AWP | PAW",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "CZ75-Auto | Eco",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "G3SG1 | High Seas",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "Nova | Toy Soldier",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Powercore",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A1-S | Nightmare",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Sawed-Off | Devourer",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "FAMAS | Eye of Athena",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Neon Rider",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Desert Eagle | Code Red",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"Clutch Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "SG 553 | Aloha",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "R8 Revolver | Grip",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP9 | Black Sand",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P2000 | Urban Hazard",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Five-SeveN | Flame Test",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			},
+			{
+				"name": "PP-Bizon | Night Riot",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Oxide Blaze",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"restricted": [
+			{
+				"name": "Glock-18 | Moonrise",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			},
+			{
+				"name": "Negev | Lionfish",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "UMP-45 | Arctic Wolf",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAG-7 | SWAG-7",
+				"wear_min": 0.0,
+				"wear_max": 0.92
+			},
+			{
+				"name": "Nova | Wild Six",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "USP-S | Cortex",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AWP | Mortis",
+				"wear_min": 0.0,
+				"wear_max": 0.64
+			},
+			{
+				"name": "AUG | Stymphalian",
+				"wear_min": 0.0,
+				"wear_max": 0.63
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A4 | Neo-Noir",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "MP7 | Bloodsport",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			}
+		]
+	},
+	"CS:GO Weapon Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "SG 553 | Ultraviolet",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Wings",
+				"wear_min": 0.0,
+				"wear_max": 0.14
+			},
+			{
+				"name": "MP7 | Skulls",
+				"wear_min": 0.1,
+				"wear_max": 0.26
+			}
+		],
+		"restricted": [
+			{
+				"name": "Glock-18 | Dragon Tattoo",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "M4A1-S | Dark Water",
+				"wear_min": 0.1,
+				"wear_max": 0.26
+			},
+			{
+				"name": "USP-S | Dark Water",
+				"wear_min": 0.1,
+				"wear_max": 0.26
+			}
+		],
+		"classified": [
+			{
+				"name": "AK-47 | Case Hardened",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Desert Eagle | Hypnotic",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Lightning Strike",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		]
+	},
+	"CS:GO Weapon Case 2": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "SCAR-20 | Crimson Web",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "M4A1-S | Blood Tiger",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "Tec-9 | Blue Titanium",
+				"wear_min": 0.0,
+				"wear_max": 0.04
+			},
+			{
+				"name": "FAMAS | Hexane",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "P250 | Hive",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			}
+		],
+		"restricted": [
+			{
+				"name": "Five-SeveN | Case Hardened",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP9 | Hypnotic",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "Nova | Graphite",
+				"wear_min": 0.0,
+				"wear_max": 0.12
+			},
+			{
+				"name": "Dual Berettas | Hemoglobin",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			}
+		],
+		"classified": [
+			{
+				"name": "P90 | Cold Blooded",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "USP-S | Serum",
+				"wear_min": 0.0,
+				"wear_max": 0.25
+			}
+		],
+		"covert": [
+			{
+				"name": "SSG 08 | Blood in the Water",
+				"wear_min": 0.06,
+				"wear_max": 0.2
+			}
+		]
+	},
+	"CS:GO Weapon Case 3": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "USP-S | Stainless",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "CZ75-Auto | Crimson Web",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Glock-18 | Blue Fissure",
+				"wear_min": 0.06,
+				"wear_max": 0.58
+			},
+			{
+				"name": "Dual Berettas | Panther",
+				"wear_min": 0.0,
+				"wear_max": 0.58
+			},
+			{
+				"name": "P2000 | Red FragCam",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Heirloom",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Tec-9 | Titanium Bit",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "Five-SeveN | Copper Galaxy",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "CZ75-Auto | Tread Plate",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			}
+		],
+		"classified": [
+			{
+				"name": "P250 | Undertow",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "CZ75-Auto | The Fuschia Is Now",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"covert": [
+			{
+				"name": "CZ75-Auto | Victoria",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			}
+		]
+	},
+	"Chroma Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "MP9 | Deadly Poison",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Glock-18 | Catacombs",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "M249 | System Lock",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SCAR-20 | Grotto",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "XM1014 | Quicksilver",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Naga",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Malachite",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Dual Berettas | Urban Shock",
+				"wear_min": 0.0,
+				"wear_max": 0.47
+			},
+			{
+				"name": "Sawed-Off | Serenity",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A4 | 龍王 (Dragon King)",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "AK-47 | Cartel",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "P250 | Muertos",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Man-o'-war",
+				"wear_min": 0.1,
+				"wear_max": 0.2
+			},
+			{
+				"name": "Galil AR | Chatterbox",
+				"wear_min": 0.35,
+				"wear_max": 0.85
+			}
+		]
+	},
+	"Chroma 2 Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "AK-47 | Elite Build",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Desert Eagle | Bronze Deco",
+				"wear_min": 0.0,
+				"wear_max": 0.46
+			},
+			{
+				"name": "P250 | Valence",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Negev | Man-o'-war",
+				"wear_min": 0.1,
+				"wear_max": 0.2
+			},
+			{
+				"name": "Sawed-Off | Origami",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "MP7 | Armor Core",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "AWP | Worm God",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "MAG-7 | Heat",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "CZ75-Auto | Pole Position",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "UMP-45 | Grand Prix",
+				"wear_min": 0.25,
+				"wear_max": 0.35
+			}
+		],
+		"classified": [
+			{
+				"name": "Galil AR | Eco",
+				"wear_min": 0.1,
+				"wear_max": 0.85
+			},
+			{
+				"name": "Five-SeveN | Monkey Business",
+				"wear_min": 0.1,
+				"wear_max": 0.9
+			},
+			{
+				"name": "FAMAS | Djinn",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A1-S | Hyper Beast",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Neon Rider",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			}
+		]
+	},
+	"Chroma 3 Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "SG 553 | Atlas",
+				"wear_min": 0.0,
+				"wear_max": 0.81
+			},
+			{
+				"name": "MP9 | Bioleak",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P2000 | Oceanic",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "M249 | Spectre",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Dual Berettas | Ventilators",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "G3SG1 | Orange Crash",
+				"wear_min": 0.0,
+				"wear_max": 0.52
+			},
+			{
+				"name": "Sawed-Off | Fubar",
+				"wear_min": 0.4,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "SSG 08 | Ghost Crusader",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "XM1014 | Black Tie",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Galil AR | Firefight",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "CZ75-Auto | Red Astor",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Tec-9 | Re-Entry",
+				"wear_min": 0.0,
+				"wear_max": 0.43
+			}
+		],
+		"classified": [
+			{
+				"name": "P250 | Asiimov",
+				"wear_min": 0.1,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AUG | Fleet Flock",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "UMP-45 | Primal Saber",
+				"wear_min": 0.0,
+				"wear_max": 0.77
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A1-S | Chantico's Fire",
+				"wear_min": 0.0,
+				"wear_max": 0.99
+			},
+			{
+				"name": "PP-Bizon | Judgement of Anubis",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		]
+	},
+	"eSports 2013 Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "M4A4 | Faded Zebra",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAG-7 | Memento",
+				"wear_min": 0.02,
+				"wear_max": 0.18
+			},
+			{
+				"name": "FAMAS | Doomkitty",
+				"wear_min": 0.08,
+				"wear_max": 0.22
+			}
+		],
+		"restricted": [
+			{
+				"name": "Galil AR | Orange DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Splash",
+				"wear_min": 0.06,
+				"wear_max": 0.18
+			},
+			{
+				"name": "Sawed-Off | Orange DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "AK-47 | Red Laminate",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AWP | BOOM",
+				"wear_min": 0.06,
+				"wear_max": 0.28
+			}
+		],
+		"covert": [
+			{
+				"name": "P90 | Death by Kitty",
+				"wear_min": 0.08,
+				"wear_max": 0.32
+			}
+		]
+	},
+	"eSports 2013 Winter Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Galil AR | Blue Titanium",
+				"wear_min": 0.0,
+				"wear_max": 0.04
+			},
+			{
+				"name": "Nova | Ghost Camo",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "G3SG1 | Azure Zebra",
+				"wear_min": 0.0,
+				"wear_max": 0.28
+			},
+			{
+				"name": "PP-Bizon | Water Sigil",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P250 | Steel Disruption",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "Five-SeveN | Nightshade",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "AK-47 | Blue Laminate",
+				"wear_min": 0.02,
+				"wear_max": 0.4
+			},
+			{
+				"name": "P90 | Blind Spot",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "AWP | Electric Hive",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "Desert Eagle | Cobalt Disruption",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "FAMAS | Afterimage",
+				"wear_min": 0.02,
+				"wear_max": 0.4
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A4 | X-Ray",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			}
+		]
+	},
+	"eSports 2014 Summer Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "MAC-10 | Ultraviolet",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Negev | Bratatat",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "USP-S | Blood Tiger",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "CZ75-Auto | Hexane",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "SSG 08 | Dark Water",
+				"wear_min": 0.1,
+				"wear_max": 0.26
+			},
+			{
+				"name": "XM1014 | Red Python",
+				"wear_min": 0.08,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Crimson Web",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP7 | Ocean Foam",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "PP-Bizon | Blue Streak",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Glock-18 | Steel Disruption",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "P90 | Virus",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "AUG | Bengal Tiger",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AWP | Corticera",
+				"wear_min": 0.06,
+				"wear_max": 0.3
+			},
+			{
+				"name": "Nova | Bloomstick",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P2000 | Corticera",
+				"wear_min": 0.06,
+				"wear_max": 0.3
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Jaguar",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "M4A4 | Bullet Rain",
+				"wear_min": 0.02,
+				"wear_max": 0.46
+			}
+		]
+	},
+	"Falchion Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Galil AR | Rocket Pop",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "USP-S | Torque",
+				"wear_min": 0.0,
+				"wear_max": 0.46
+			},
+			{
+				"name": "P90 | Elite Build",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Glock-18 | Bunsen Burner",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "UMP-45 | Riot",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "Nova | Ranger",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "M4A4 | Evil Daimyo",
+				"wear_min": 0.0,
+				"wear_max": 0.52
+			},
+			{
+				"name": "Negev | Loudmouth",
+				"wear_min": 0.14,
+				"wear_max": 0.65
+			},
+			{
+				"name": "P2000 | Handgun",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP9 | Ruby Poison Dart",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "FAMAS | Neural Net",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"classified": [
+			{
+				"name": "SG 553 | Cyrex",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Nemesis",
+				"wear_min": 0.0,
+				"wear_max": 0.32
+			},
+			{
+				"name": "CZ75-Auto | Yellow Jacket",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Hyper Beast",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AK-47 | Aquamarine Revenge",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"Gamma Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "SG 553 | Aerial",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Five-SeveN | Violent Daimyo",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "P250 | Iron Clad",
+				"wear_min": 0.05,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Carnivore",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Nova | Exo",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Tec-9 | Ice Cap",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "PP-Bizon | Harvester",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "AWP | Phobos",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "R8 Revolver | Reboot",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AUG | Aristocrat",
+				"wear_min": 0.0,
+				"wear_max": 0.66
+			},
+			{
+				"name": "P90 | Chopper",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Sawed-Off | Limelight",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A4 | Desolate Space",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P2000 | Imperial Dragon",
+				"wear_min": 0.0,
+				"wear_max": 0.63
+			},
+			{
+				"name": "SCAR-20 | Bloodsport",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A1-S | Mecha Industries",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Glock-18 | Wasteland Rebel",
+				"wear_min": 0.0,
+				"wear_max": 0.54
+			}
+		]
+	},
+	"Gamma 2 Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "P90 | Grim",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Negev | Dazzle",
+				"wear_min": 0.1,
+				"wear_max": 0.65
+			},
+			{
+				"name": "CZ75-Auto | Imprint",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "UMP-45 | Briefing",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Five-SeveN | Scumbria",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "XM1014 | Slipstream",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "G3SG1 | Ventilator",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Directive",
+				"wear_min": 0.06,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SG 553 | Triarch",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Glock-18 | Weasel",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SCAR-20 | Powercore",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAG-7 | Petroglyph",
+				"wear_min": 0.0,
+				"wear_max": 0.44
+			}
+		],
+		"classified": [
+			{
+				"name": "AUG | Syd Mead",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP9 | Airlock",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Tec-9 | Fuel Injector",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Neon Revolution",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "FAMAS | Roll Cage",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"Glove Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Glock-18 | Ironwork",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Cirrus",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Galil AR | Black Sand",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P2000 | Turf",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAG-7 | Sonar",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "MP9 | Sand Scale",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "CZ75-Auto | Polymer",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "USP-S | Cyrex",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "M4A1-S | Flashback",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Dual Berettas | Royal Consorts",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Nova | Gila",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "G3SG1 | Stinger",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"classified": [
+			{
+				"name": "FAMAS | Mecha Industries",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P90 | Shallow Grave",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Sawed-Off | Wasteland Princess",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A4 | Buzz Kill",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "SSG 08 | Dragonfire",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		]
+	},
+	"Huntsman Weapon Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "P90 | Module",
+				"wear_min": 0.0,
+				"wear_max": 0.35
+			},
+			{
+				"name": "CZ75-Auto | Twist",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P2000 | Pulse",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Tec-9 | Isaac",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SSG 08 | Slashed",
+				"wear_min": 0.15,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Galil AR | Kami",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"restricted": [
+			{
+				"name": "MAC-10 | Tatter",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "XM1014 | Heaven Guard",
+				"wear_min": 0.03,
+				"wear_max": 0.5
+			},
+			{
+				"name": "AUG | Torque",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "PP-Bizon | Antique",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "USP-S | Caiman",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "SCAR-20 | Cyrex",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "M4A1-S | Atomic Alloy",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A4 | Desert-Strike",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "AK-47 | Vulcan",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			}
+		]
+	},
+	"Operation Bravo Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "SG 553 | Wave Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Galil AR | Shattered",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Tempest",
+				"wear_min": 0.06,
+				"wear_max": 0.22
+			},
+			{
+				"name": "UMP-45 | Bone Pile",
+				"wear_min": 0.06,
+				"wear_max": 0.34
+			},
+			{
+				"name": "Dual Berettas | Black Limba",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "G3SG1 | Demeter",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "USP-S | Overgrowth",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Graven",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "M4A4 | Zirka",
+				"wear_min": 0.06,
+				"wear_max": 0.42
+			},
+			{
+				"name": "M4A1-S | Bright Water",
+				"wear_min": 0.1,
+				"wear_max": 0.22
+			}
+		],
+		"classified": [
+			{
+				"name": "P90 | Emerald Dragon",
+				"wear_min": 0.06,
+				"wear_max": 0.52
+			},
+			{
+				"name": "P2000 | Ocean Foam",
+				"wear_min": 0.0,
+				"wear_max": 0.12
+			},
+			{
+				"name": "AWP | Graphite",
+				"wear_min": 0.0,
+				"wear_max": 0.12
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Fire Serpent",
+				"wear_min": 0.06,
+				"wear_max": 0.76
+			},
+			{
+				"name": "Desert Eagle | Golden Koi",
+				"wear_min": 0.0,
+				"wear_max": 0.12
+			}
+		]
+	},
+	"Operation Breakout Weapon Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "SSG 08 | Abyss",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P2000 | Ivory",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "UMP-45 | Labyrinth",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "MP7 | Urban Hazard",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Negev | Desert-Strike",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "P250 | Supernova",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "CZ75-Auto | Tigris",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Nova | Koi",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "PP-Bizon | Osiris",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "Glock-18 | Water Elemental",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "Desert Eagle | Conspiracy",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "Five-SeveN | Fowl Play",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": [
+			{
+				"name": "P90 | Asiimov",
+				"wear_min": 0.0,
+				"wear_max": 0.92
+			},
+			{
+				"name": "M4A1-S | Cyrex",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		]
+	},
+	"Operation Hydra Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "USP-S | Blueprint",
+				"wear_min": 0.0,
+				"wear_max": 0.86
+			},
+			{
+				"name": "M4A1-S | Briefing",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Aloha",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			},
+			{
+				"name": "MAG-7 | Hard Water",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "Tec-9 | Cut Out",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "FAMAS | Macabre",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "UMP-45 | Metal Flowers",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"restricted": [
+			{
+				"name": "AK-47 | Orbit Mk01",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "P90 | Death Grip",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SSG 08 | Death's Head",
+				"wear_min": 0.0,
+				"wear_max": 0.51
+			},
+			{
+				"name": "P2000 | Woodsman",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Red Rock",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A4 | Hellfire",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Galil AR | Sugar Rush",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "Dual Berettas | Cobra Strike",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Oni Taiji",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Five-SeveN | Hyper Beast",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"Operation Phoenix Weapon Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "MAG-7 | Heaven Guard",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "Negev | Terrain",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "UMP-45 | Corporal",
+				"wear_min": 0.05,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Tec-9 | Sandstorm",
+				"wear_min": 0.1,
+				"wear_max": 0.7
+			}
+		],
+		"restricted": [
+			{
+				"name": "SG 553 | Pulse",
+				"wear_min": 0.1,
+				"wear_max": 0.6
+			},
+			{
+				"name": "USP-S | Guardian",
+				"wear_min": 0.0,
+				"wear_max": 0.38
+			},
+			{
+				"name": "MAC-10 | Heat",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "FAMAS | Sergeant",
+				"wear_min": 0.1,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "AK-47 | Redline",
+				"wear_min": 0.1,
+				"wear_max": 0.7
+			},
+			{
+				"name": "Nova | Antique",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "P90 | Trigon",
+				"wear_min": 0.08,
+				"wear_max": 0.75
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Asiimov",
+				"wear_min": 0.18,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AUG | Chameleon",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		]
+	},
+	"Operation Vanguard Weapon Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "MAG-7 | Firestarter",
+				"wear_min": 0.06,
+				"wear_max": 0.49
+			},
+			{
+				"name": "UMP-45 | Delusion",
+				"wear_min": 0.06,
+				"wear_max": 0.35
+			},
+			{
+				"name": "Five-SeveN | Urban Hazard",
+				"wear_min": 0.0,
+				"wear_max": 0.25
+			},
+			{
+				"name": "MP9 | Dart",
+				"wear_min": 0.0,
+				"wear_max": 0.46
+			},
+			{
+				"name": "G3SG1 | Murky",
+				"wear_min": 0.0,
+				"wear_max": 0.25
+			}
+		],
+		"restricted": [
+			{
+				"name": "M4A4 | Griffin",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "M4A1-S | Basilisk",
+				"wear_min": 0.0,
+				"wear_max": 0.68
+			},
+			{
+				"name": "Glock-18 | Grinder",
+				"wear_min": 0.02,
+				"wear_max": 0.25
+			},
+			{
+				"name": "Sawed-Off | Highwayman",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "XM1014 | Tranquility",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "SCAR-20 | Cardiac",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P250 | Cartel",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Wasteland Rebel",
+				"wear_min": 0.05,
+				"wear_max": 0.7
+			},
+			{
+				"name": "P2000 | Fire Elemental",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		]
+	},
+	"Operation Wildfire Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "USP-S | Lead Conduit",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SSG 08 | Necropos",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "PP-Bizon | Photic Zone",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Lapis Gator",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Dual Berettas | Cartel",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Tec-9 | Jambiya",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "Glock-18 | Royal Legion",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "FAMAS | Valence",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAG-7 | Praetorian",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "MP7 | Impire",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "Five-SeveN | Triumvirate",
+				"wear_min": 0.0,
+				"wear_max": 0.61
+			}
+		],
+		"classified": [
+			{
+				"name": "Desert Eagle | Kumicho Dragon",
+				"wear_min": 0.0,
+				"wear_max": 0.76
+			},
+			{
+				"name": "AWP | Elite Build",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Nova | Hyper Beast",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Fuel Injector",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "M4A4 | The Battlestar",
+				"wear_min": 0.0,
+				"wear_max": 0.64
+			}
+		]
+	},
+	"Revolver Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Desert Eagle | Corinthian",
+				"wear_min": 0.0,
+				"wear_max": 0.44
+			},
+			{
+				"name": "R8 Revolver | Crimson Web",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Ricochet",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P2000 | Imperial",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "Sawed-Off | Yorick",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SCAR-20 | Outbreak",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "SG 553 | Tiger Moth",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Negev | Power Loader",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Five-SeveN | Retrobution",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "XM1014 | Teclu Burner",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			},
+			{
+				"name": "PP-Bizon | Fuel Rod",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Tec-9 | Avalanche",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "AK-47 | Point Disarray",
+				"wear_min": 0.0,
+				"wear_max": 0.67
+			},
+			{
+				"name": "G3SG1 | The Executioner",
+				"wear_min": 0.14,
+				"wear_max": 0.85
+			},
+			{
+				"name": "P90 | Shapewood",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A4 | Royal Paladin",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "R8 Revolver | Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		]
+	},
+	"Shadow Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Dual Berettas | Dualing Dragons",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Glock-18 | Wraiths",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "FAMAS | Survivor Z",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "MAC-10 | Rangeen",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MAG-7 | Cobalt Core",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "XM1014 | Scumbria",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SCAR-20 | Green Marine",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "Galil AR | Stone Cold",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "P250 | Wingshot",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "M249 | Nebula Crusader",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Special Delivery",
+				"wear_min": 0.0,
+				"wear_max": 0.62
+			}
+		],
+		"classified": [
+			{
+				"name": "AK-47 | Frontside Misty",
+				"wear_min": 0.02,
+				"wear_max": 0.87
+			},
+			{
+				"name": "G3SG1 | Flux",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "SSG 08 | Big Iron",
+				"wear_min": 0.0,
+				"wear_max": 0.64
+			}
+		],
+		"covert": [
+			{
+				"name": "USP-S | Kill Confirmed",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "M4A1-S | Golden Coil",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"Spectrum Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Desert Eagle | Oxide Blaze",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Five-SeveN | Capillary",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "P250 | Ripple",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "SCAR-20 | Blueprint",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Sawed-Off | Zander",
+				"wear_min": 0.05,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP7 | Akoben",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "PP-Bizon | Jungle Slipstream",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "M249 | Emerald Poison Dart",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "Galil AR | Crimson Tsunami",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "UMP-45 | Scaffold",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Last Dive",
+				"wear_min": 0.0,
+				"wear_max": 0.52
+			},
+			{
+				"name": "XM1014 | Seasons",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "AWP | Fever Dream",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "M4A1-S | Decimator",
+				"wear_min": 0.0,
+				"wear_max": 0.85
+			},
+			{
+				"name": "CZ75-Auto | Xiangliu",
+				"wear_min": 0.0,
+				"wear_max": 0.56
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Bloodsport",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			},
+			{
+				"name": "USP-S | Neo-Noir",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		]
+	},
+	"Spectrum 2 Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Glock-18 | Off World",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AUG | Triqua",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Oceanic",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Tec-9 | Cracked Opal",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Sawed-Off | Morris",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "G3SG1 | Hunter",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SCAR-20 | Jungle Slipstream",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "SG 553 | Phantom",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "CZ75-Auto | Tacticat",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "MP9 | Goo",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "XM1014 | Ziggy",
+				"wear_min": 0.0,
+				"wear_max": 0.72
+			},
+			{
+				"name": "UMP-45 | Exposure",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A1-S | Leaded Glass",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "PP-Bizon | High Roller",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "R8 Revolver | Llama Cannon",
+				"wear_min": 0.03,
+				"wear_max": 0.7
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | The Empress",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P250 | See Ya Later",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		]
+	},
+	"Winter Offensive Weapon Case": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [
+			{
+				"name": "Galil AR | Sandstorm",
+				"wear_min": 0.1,
+				"wear_max": 0.6
+			},
+			{
+				"name": "PP-Bizon | Cobalt Halftone",
+				"wear_min": 0.05,
+				"wear_max": 0.45
+			},
+			{
+				"name": "Five-SeveN | Kami",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "M249 | Magma",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"restricted": [
+			{
+				"name": "MP9 | Rose Iron",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "FAMAS | Pulse",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "Dual Berettas | Marina",
+				"wear_min": 0.05,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Nova | Rising Skull",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "AWP | Redline",
+				"wear_min": 0.1,
+				"wear_max": 0.4
+			},
+			{
+				"name": "M4A1-S | Guardian",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P250 | Mehndi",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": [
+			{
+				"name": "M4A4 | Asiimov",
+				"wear_min": 0.18,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Sawed-Off | The Kraken",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		]
+	},
+	"The Norse Collection": {
+		"consumer": [
+			{
+				"name": "SSG 08 | Red Stone",
+				"wear_min": 0.06,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Galil AR | Tornado",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP7 | Scorched",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "FAMAS | Night Borre",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "SG 553 | Barricade",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			}
+		],
+		"industrial": [
+			{
+				"name": "Dual Berettas | Pyre",
+				"wear_min": 0.06,
+				"wear_max": 0.55
+			},
+			{
+				"name": "MAG-7 | Chainmail",
+				"wear_min": 0.0,
+				"wear_max": 0.22
+			},
+			{
+				"name": "M4A1-S | Moss Quartz",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "USP-S | Pathfinder",
+				"wear_min": 0.0,
+				"wear_max": 0.35
+			}
+		],
+		"milspec": [
+			{
+				"name": "CZ75-Auto | Emerald Quartz",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "MAC-10 | Copper Borre",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "XM1014 | Frost Borre",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "SCAR-20 | Brass",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Emerald Jörmungandr",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "AUG | Flame Jörmungandr",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P90 | Astral Jörmungandr",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "Negev | Mjölnir",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Gungnir",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		]
+	},
+	"The Canals Collection": {
+		"consumer": [
+			{
+				"name": "CZ75-Auto | Indigo",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Navy Murano",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "R8 Revolver | Canal Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Negev | Boroque Sand",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SCAR-20 | Stone Mosaico",
+				"wear_min": 0.06,
+				"wear_max": 0.5
+			}
+		],
+		"industrial": [
+			{
+				"name": "AK-47 | Baroque Purple",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "SG 553 | Candy Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "P250 | Dark Filigree",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Tec-9 | Orange Murano",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"milspec": [
+			{
+				"name": "Dual Berettas | Emerald",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "SSG 08 | Orange Filigree",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P90 | Baroque Red",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "G3SG1 | Violet Murano",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "MAC-10 | Red Filigree",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MP9 | Stained Glass",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Nova | Baroque Orange",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "MAG-7 | Cinquedea",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | The Prince",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		]
+	},
+	"The St. Marc Collection": {
+		"consumer": [
+			{
+				"name": "M249 | Jungle",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Surfwood",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "PP-Bizon | Seabird",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MP5-SD | Bamboo Garden",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "Sawed-Off | Jungle Thicket",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"industrial": [
+			{
+				"name": "M4A4 | Dark Blossom",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "XM1014 | Banana Leaf",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Tec-9 | Rust Leaf",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P90 | Sunset Lily",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"milspec": [
+			{
+				"name": "Five-SeveN | Crimson Blossom",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MP7 | Teal Blossom",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "FAMAS | Sundown",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "UMP-45 | Day Lily",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			}
+		],
+		"restricted": [
+			{
+				"name": "Glock-18 | Synth Leaf",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "AUG | Midnight Lily",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "SSG 08 | Sea Calico",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [
+			{
+				"name": "MP9 | Wild Lily",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"covert": [
+			{
+				"name": "AK-47 | Wild Lotus",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"The Blacksite Collection": {
+		"consumer": [],
+		"industrial": [],
+		"milspec": [],
+		"restricted": [
+			{
+				"name": "MP5-SD | Lab Rats",
+				"wear_min": 0.0,
+				"wear_max": 0.35
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The 2018 Inferno Collection": {
+		"consumer": [
+			{
+				"name": "MP5-SD | Dirt Drop",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP9 | Slide",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Sweeper",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "UMP-45 | Mudder",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAG-7 | Rust Coat",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"industrial": [
+			{
+				"name": "Glock-18 | High Beam",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "MAC-10 | Calf Skin",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "R8 Revolver | Nitro",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "PP-Bizon | Candy Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			}
+		],
+		"milspec": [
+			{
+				"name": "SSG 08 | Hand Brake",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "M4A4 | Converter",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "USP-S | Check Engine",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Sawed-Off | Brake Light",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"restricted": [
+			{
+				"name": "AK-47 | Safety Net",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "MP7 | Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.25
+			},
+			{
+				"name": "P250 | Vino Primo",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "SG 553 | Integrale",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Dual Berettas | Twin Turbo",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": []
+	},
+	"The 2018 Nuke Collection": {
+		"consumer": [
+			{
+				"name": "Five-SeveN | Coolant",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P250 | Facility Draft",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "PP-Bizon | Facility Sketch",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "UMP-45 | Facility Dark",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Nova | Mandrel",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"industrial": [
+			{
+				"name": "M4A4 | Mainframe",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Galil AR | Cold Fusion",
+				"wear_min": 0.0,
+				"wear_max": 0.83
+			},
+			{
+				"name": "Negev | Bulkhead",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MP7 | Motherboard",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"milspec": [
+			{
+				"name": "AWP | Acheron",
+				"wear_min": 0.0,
+				"wear_max": 0.83
+			},
+			{
+				"name": "MP5-SD | Co-Processor",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P90 | Facility Negative",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P250 | Exchanger",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "Glock-18 | Nuclear Garden",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "AUG | Random Access",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MAG-7 | Core Breach",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A1-S | Control Panel",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Tec-9 | Remote Control",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": []
+	},
+	"The Alpha Collection": {
+		"consumer": [
+			{
+				"name": "Five-SeveN | Anodized Gunmetal",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "MP7 | Groundwater",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Tec-9 | Tornado",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Jungle",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP9 | Dry Season",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "M249 | Jungle DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "P250 | Facets",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Glock-18 | Sand Dune",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SSG 08 | Mayan Dreams",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Negev | Palm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Sawed-Off | Mosaico",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "MAG-7 | Hazard",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Anodized Navy",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "PP-Bizon | Rust Coat",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "FAMAS | Spitfire",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SCAR-20 | Emerald",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Assault Collection": {
+		"consumer": [
+			{
+				"name": "SG 553 | Tornado",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "UMP-45 | Caramel",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "Five-SeveN | Candy Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			}
+		],
+		"milspec": [
+			{
+				"name": "Negev | Anodized Navy",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "AUG | Hot Rod",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"restricted": [
+			{
+				"name": "Glock-18 | Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "MP9 | Bulldozer",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Aztec Collection": {
+		"consumer": [
+			{
+				"name": "Nova | Forest Leaves",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Five-SeveN | Jungle",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SSG 08 | Lichen Dashed",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "AK-47 | Jungle Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "M4A4 | Jungle Tiger",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "Tec-9 | Ossified",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"restricted": [],
+		"classified": [],
+		"covert": []
+	},
+	"The Baggage Collection": {
+		"consumer": [
+			{
+				"name": "SSG 08 | Sand Dune",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP7 | Olive Plaid",
+				"wear_min": 0.0,
+				"wear_max": 0.58
+			},
+			{
+				"name": "G3SG1 | Contractor",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP9 | Green Plaid",
+				"wear_min": 0.0,
+				"wear_max": 0.58
+			},
+			{
+				"name": "CZ75-Auto | Green Plaid",
+				"wear_min": 0.0,
+				"wear_max": 0.58
+			}
+		],
+		"industrial": [
+			{
+				"name": "SG 553 | Traveler",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Commuter",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P90 | Leather",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P2000 | Coach Class",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"milspec": [
+			{
+				"name": "USP-S | Business Class",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "XM1014 | Red Leather",
+				"wear_min": 0.0,
+				"wear_max": 0.56
+			},
+			{
+				"name": "Sawed-Off | First Class",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Pilot",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AK-47 | First Class",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "AK-47 | Jet Set",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": []
+	},
+	"The Bank Collection": {
+		"consumer": [
+			{
+				"name": "R8 Revolver | Bone Mask",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Tec-9 | Urban DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SG 553 | Army Sheen",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "Negev | Army Sheen",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "MP7 | Forest DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Sawed-Off | Forest DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "MAC-10 | Silver",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "UMP-45 | Carbon Fiber",
+				"wear_min": 0.0,
+				"wear_max": 0.12
+			},
+			{
+				"name": "G3SG1 | Green Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "Nova | Caged Steel",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			},
+			{
+				"name": "Glock-18 | Death Rattle",
+				"wear_min": 0.08,
+				"wear_max": 0.5
+			}
+		],
+		"milspec": [
+			{
+				"name": "Desert Eagle | Meteorite",
+				"wear_min": 0.0,
+				"wear_max": 0.18
+			},
+			{
+				"name": "Galil AR | Tuxedo",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "CZ75-Auto | Tuxedo",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "AK-47 | Emerald Pinstripe",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "P250 | Franklin",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"covert": []
+	},
+	"The Cache Collection": {
+		"consumer": [],
+		"industrial": [
+			{
+				"name": "SG 553 | Fallout Warning",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Radiation Hazard",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "P250 | Contamination",
+				"wear_min": 0.0,
+				"wear_max": 0.83
+			},
+			{
+				"name": "Five-SeveN | Hot Shot",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Negev | Nuclear Waste",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "PP-Bizon | Chemical Green",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			}
+		],
+		"milspec": [
+			{
+				"name": "Glock-18 | Reactor",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MP9 | Setting Sun",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "MAC-10 | Nuclear Garden",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "XM1014 | Bone Machine",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Tec-9 | Toxic",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		],
+		"restricted": [
+			{
+				"name": "Galil AR | Cerberus",
+				"wear_min": 0.0,
+				"wear_max": 0.9
+			},
+			{
+				"name": "FAMAS | Styx",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Chop Shop Collection": {
+		"consumer": [
+			{
+				"name": "MAG-7 | Seabird",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "CZ75-Auto | Army Sheen",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "SCAR-20 | Army Sheen",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "M249 | Impact Drill",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"industrial": [
+			{
+				"name": "Desert Eagle | Night",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "USP-S | Para Green",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Galil AR | Urban Rubble",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"milspec": [
+			{
+				"name": "P250 | Whiteout",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "CZ75-Auto | Emerald",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "MP7 | Full Stop",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Five-SeveN | Nitro",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "SG 553 | Bulldozer",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Dual Berettas | Duelist",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A1-S | Hot Rod",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "Glock-18 | Twilight Galaxy",
+				"wear_min": 0.0,
+				"wear_max": 0.2
+			}
+		],
+		"covert": []
+	},
+	"The Cobblestone Collection": {
+		"consumer": [
+			{
+				"name": "MAC-10 | Indigo",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "UMP-45 | Indigo",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P90 | Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SCAR-20 | Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Dual Berettas | Briar",
+				"wear_min": 0.0,
+				"wear_max": 0.22
+			}
+		],
+		"industrial": [
+			{
+				"name": "USP-S | Royal Blue",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAG-7 | Silver",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "Nova | Green Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "Sawed-Off | Rust Coat",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "MP9 | Dark Age",
+				"wear_min": 0.0,
+				"wear_max": 0.22
+			},
+			{
+				"name": "P2000 | Chainmail",
+				"wear_min": 0.0,
+				"wear_max": 0.22
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Hand Cannon",
+				"wear_min": 0.01,
+				"wear_max": 0.7
+			},
+			{
+				"name": "CZ75-Auto | Chalice",
+				"wear_min": 0.0,
+				"wear_max": 0.1
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A1-S | Knight",
+				"wear_min": 0.0,
+				"wear_max": 0.1
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Dragon Lore",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			}
+		]
+	},
+	"The Dust Collection": {
+		"consumer": [],
+		"industrial": [
+			{
+				"name": "M4A4 | Desert Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AK-47 | Predator",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SCAR-20 | Palm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "AWP | Snake Camo",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Copperhead",
+				"wear_min": 0.12,
+				"wear_max": 0.38
+			},
+			{
+				"name": "Sawed-Off | Copper",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Blaze",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "Glock-18 | Brass",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "P2000 | Scorpion",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Dust 2 Collection": {
+		"consumer": [
+			{
+				"name": "P250 | Sand Dune",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P90 | Sand Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "G3SG1 | Desert Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP9 | Sand Dashed",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SCAR-20 | Sand Mesh",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Predator",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "AK-47 | Safari Mesh",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Five-SeveN | Orange Peel",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Palm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Sawed-Off | Snake Camo",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Tec-9 | VariCamo",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"milspec": [
+			{
+				"name": "SG 553 | Damascus Steel",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "M4A1-S | VariCamo",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "PP-Bizon | Brass",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "P2000 | Amber Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"classified": [
+			{
+				"name": "R8 Revolver | Amber Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"covert": []
+	},
+	"The Gods and Monsters Collection": {
+		"consumer": [
+			{
+				"name": "Nova | Moon in Libra",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Dual Berettas | Moon in Libra",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "MP7 | Asterion",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			},
+			{
+				"name": "AUG | Daedalus",
+				"wear_min": 0.0,
+				"wear_max": 0.55
+			}
+		],
+		"industrial": [
+			{
+				"name": "AWP | Sun in Leo",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "P2000 | Pathfinder",
+				"wear_min": 0.0,
+				"wear_max": 0.35
+			},
+			{
+				"name": "M249 | Shipping Forecast",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Tec-9 | Hades",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"milspec": [
+			{
+				"name": "UMP-45 | Minotaur's Labyrinth",
+				"wear_min": 0.0,
+				"wear_max": 0.39
+			},
+			{
+				"name": "MP9 | Pandora's Box",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			}
+		],
+		"restricted": [
+			{
+				"name": "G3SG1 | Chronos",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			},
+			{
+				"name": "M4A1-S | Icarus Fell",
+				"wear_min": 0.0,
+				"wear_max": 0.1
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A4 | Poseidon",
+				"wear_min": 0.0,
+				"wear_max": 0.33
+			}
+		],
+		"covert": [
+			{
+				"name": "AWP | Medusa",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"The Inferno Collection": {
+		"consumer": [
+			{
+				"name": "MAG-7 | Sand Dune",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Walnut",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "M4A4 | Tornado",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Gunsmoke",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "Tec-9 | Brass",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Dual Berettas | Anodized Navy",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"restricted": [],
+		"classified": [],
+		"covert": []
+	},
+	"The Italy Collection": {
+		"consumer": [
+			{
+				"name": "AUG | Contractor",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "FAMAS | Colony",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Sand Dune",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "PP-Bizon | Sand Dashed",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Tec-9 | Groundwater",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "M4A1-S | Boreal Forest",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Candy Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "P2000 | Granite Marbleized",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | CaliCamo",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "UMP-45 | Gunsmoke",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Dual Berettas | Stained",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"milspec": [
+			{
+				"name": "Glock-18 | Candy Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "Sawed-Off | Full Stop",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "MP7 | Anodized Navy",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"restricted": [
+			{
+				"name": "AWP | Pit Viper",
+				"wear_min": 0.08,
+				"wear_max": 0.5
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Lake Collection": {
+		"consumer": [
+			{
+				"name": "G3SG1 | Jungle Dashed",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "AUG | Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SG 553 | Waves Perforated",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Galil AR | Sage Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Blue Spruce",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Boreal Forest",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "AWP | Safari Mesh",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Blue Steel",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "Desert Eagle | Mudder",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "FAMAS | Cyanospatter",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "PP-Bizon | Night Ops",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"milspec": [
+			{
+				"name": "SG 553 | Anodized Navy",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "P90 | Teardown",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "USP-S | Night Ops",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"restricted": [
+			{
+				"name": "Dual Berettas | Cobalt Quartz",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Militia Collection": {
+		"consumer": [
+			{
+				"name": "PP-Bizon | Forest Leaves",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Tornado",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Grassland",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "P2000 | Grassland Leaves",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "P250 | Modern Hunter",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "PP-Bizon | Modern Hunter",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Modern Hunter",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Blaze Orange",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Blaze Orange",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "M4A4 | Modern Hunter",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "SCAR-20 | Splash Jam",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"covert": []
+	},
+	"The Mirage Collection": {
+		"consumer": [
+			{
+				"name": "AUG | Colony",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Five-SeveN | Contractor",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P90 | Scorched",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "G3SG1 | Safari Mesh",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Bone Mask",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Galil AR | Hunting Blind",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"industrial": [
+			{
+				"name": "Glock-18 | Groundwater",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SSG 08 | Tropical Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP7 | Orange Peel",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SG 553 | Gator Mesh",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Negev | CaliCamo",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"milspec": [
+			{
+				"name": "UMP-45 | Blaze",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "MP9 | Hot Rod",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "MAC-10 | Amber Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"restricted": [
+			{
+				"name": "MAG-7 | Bulldozer",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Nuke Collection": {
+		"consumer": [
+			{
+				"name": "MAG-7 | Irradiated Alert",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "PP-Bizon | Irradiated Alert",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Sawed-Off | Irradiated Alert",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "P90 | Fallout Warning",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "UMP-45 | Fallout Warning",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Fallout Warning",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "M4A4 | Radiation Hazard",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "Tec-9 | Nuclear Threat",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Nuclear Threat",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Office Collection": {
+		"consumer": [
+			{
+				"name": "FAMAS | Contrast Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "Galil AR | Winter Forest",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "M249 | Blizzard Marbleized",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "G3SG1 | Arctic Camo",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "MP7 | Whiteout",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P2000 | Silver",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			}
+		],
+		"restricted": [],
+		"classified": [],
+		"covert": []
+	},
+	"The Overpass Collection": {
+		"consumer": [
+			{
+				"name": "MP9 | Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Sawed-Off | Sage Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAG-7 | Storm",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "M249 | Contrast Spray",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "UMP-45 | Scorched",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "Desert Eagle | Urban DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Glock-18 | Night",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP7 | Gunsmoke",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P2000 | Grassland",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "CZ75-Auto | Nitro",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SSG 08 | Detour",
+				"wear_min": 0.0,
+				"wear_max": 0.43
+			},
+			{
+				"name": "XM1014 | VariCamo Blue",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			}
+		],
+		"restricted": [
+			{
+				"name": "USP-S | Road Rash",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			},
+			{
+				"name": "AWP | Pink DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "M4A1-S | Master Piece",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"covert": []
+	},
+	"The Rising Sun Collection": {
+		"consumer": [
+			{
+				"name": "PP-Bizon | Bamboo Print",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P250 | Mint Kimono",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Tec-9 | Bamboo Forest",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "G3SG1 | Orange Kimono",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Sawed-Off | Bamboo Shadow",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			}
+		],
+		"industrial": [
+			{
+				"name": "Desert Eagle | Midnight Storm",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "P250 | Crimson Kimono",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "MAG-7 | Counter Terrace",
+				"wear_min": 0.0,
+				"wear_max": 0.65
+			},
+			{
+				"name": "Galil AR | Aqua Terrace",
+				"wear_min": 0.0,
+				"wear_max": 0.7
+			},
+			{
+				"name": "Tec-9 | Terrace",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		],
+		"restricted": [
+			{
+				"name": "Desert Eagle | Sunset Storm 弐",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "Desert Eagle | Sunset Storm 壱",
+				"wear_min": 0.0,
+				"wear_max": 0.75
+			},
+			{
+				"name": "M4A4 | Daybreak",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Five-SeveN | Neon Kimono",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [
+			{
+				"name": "AK-47 | Hydroponic",
+				"wear_min": 0.0,
+				"wear_max": 0.8
+			}
+		],
+		"covert": [
+			{
+				"name": "AUG | Akihabara Accept",
+				"wear_min": 0.0,
+				"wear_max": 1.0
+			}
+		]
+	},
+	"The Safehouse Collection": {
+		"consumer": [
+			{
+				"name": "SCAR-20 | Contractor",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Dual Berettas | Contractor",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "SSG 08 | Blue Spruce",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Tec-9 | Army Mesh",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "MP7 | Army Recon",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "AUG | Condemned",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "G3SG1 | VariCamo",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "Galil AR | VariCamo",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "M249 | Gator Mesh",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "USP-S | Forest Leaves",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MP9 | Orange Peel",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"milspec": [
+			{
+				"name": "FAMAS | Teardown",
+				"wear_min": 0.0,
+				"wear_max": 0.6
+			},
+			{
+				"name": "SSG 08 | Acid Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.03
+			},
+			{
+				"name": "Five-SeveN | Silver Quartz",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"restricted": [
+			{
+				"name": "M4A1-S | Nitro",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Train Collection": {
+		"consumer": [
+			{
+				"name": "G3SG1 | Polar Camo",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Five-SeveN | Forest Night",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "UMP-45 | Urban DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Nova | Polar Mesh",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "Dual Berettas | Colony",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "PP-Bizon | Urban Dashed",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "M4A4 | Urban DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "MAC-10 | Candy Apple",
+				"wear_min": 0.0,
+				"wear_max": 0.3
+			},
+			{
+				"name": "P250 | Metallic DDPAT",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "MAG-7 | Metallic DDPAT",
+				"wear_min": 0.0,
+				"wear_max": 0.08
+			},
+			{
+				"name": "SCAR-20 | Carbon Fiber",
+				"wear_min": 0.0,
+				"wear_max": 0.12
+			},
+			{
+				"name": "P90 | Ash Wood",
+				"wear_min": 0.0,
+				"wear_max": 0.45
+			}
+		],
+		"milspec": [
+			{
+				"name": "Desert Eagle | Urban Rubble",
+				"wear_min": 0.0,
+				"wear_max": 0.5
+			},
+			{
+				"name": "Sawed-Off | Amber Fade",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"restricted": [
+			{
+				"name": "Tec-9 | Red Quartz",
+				"wear_min": 0.0,
+				"wear_max": 0.4
+			}
+		],
+		"classified": [],
+		"covert": []
+	},
+	"The Vertigo Collection": {
+		"consumer": [
+			{
+				"name": "MAC-10 | Urban DDPAT",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "XM1014 | Urban Perforated",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"industrial": [
+			{
+				"name": "PP-Bizon | Carbon Fiber",
+				"wear_min": 0.0,
+				"wear_max": 0.12
+			}
+		],
+		"milspec": [
+			{
+				"name": "AK-47 | Black Laminate",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			},
+			{
+				"name": "P90 | Glacier Mesh",
+				"wear_min": 0.06,
+				"wear_max": 0.8
+			}
+		],
+		"restricted": [
+			{
+				"name": "Dual Berettas | Demolition",
+				"wear_min": 0.26,
+				"wear_max": 0.6
+			}
+		],
+		"classified": [],
+		"covert": []
+	}
+}
